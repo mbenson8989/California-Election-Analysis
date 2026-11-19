@@ -1,0 +1,56 @@
+<h1>California Election Analysis: 2022 vs 2026 Governor (ΔG method)</h1>
+<p><strong>*2026 figures are UNOFFICIAL</strong> (CA SOS semi-final unofficial results, statewide as of November 19, 2026, 1:59 p.m. Pacific). The SOS certifies on December 11, 2026. 2022 figures are the certified Statement of Vote.</p>
+<p>County-level analysis of the California governor race, 2022 vs 2026, for all 58 counties. It uses the ΔG method from Morissa Benson's <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit</a>. The full write-up is on the <strong><a href="https://github.com/mbenson8989/California-Election-Analysis/wiki">wiki</a></strong>.</p>
+<ul>
+<li><strong>S</strong> = Democratic governor votes ÷ total ballots cast</li>
+<li><strong>P</strong> = Democratic registered voters ÷ Total Registered, SOS 15-day Report of Registration</li>
+<li><strong>G</strong> = S − P; <strong>ΔG</strong> = G2026 − G2022; residual = ΔG − |ΔP| for counties whose Democratic registration count fell; implied extra votes = D2026 − S2022 × ballots2026</li>
+<li><strong>California fitted equation:</strong> ΔG = +6.09 + 1.53 × (Dem registration-share drop, points)</li>
+<li><strong>CA-only constants</strong> (G = m × P ÷ 100 + b, all counties): 2022 m = +36.93, b = −6.35; 2026* m = +24.89, b = +7.61</li>
+</ul>
+<h2>Contents</h2>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Path</th>
+<th>What</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CA_*.png</td>
+<td>The charts used on the wiki</td>
+</tr>
+<tr>
+<td>California_58_County_Democratic_Registration_and_Vote_Change.pdf</td>
+<td>The county PDF (Democratic registration, Democratic governor votes and total ballots, 2022 vs 2026*), with its Excel source</td>
+</tr>
+<tr>
+<td>data/CA_Governor_2022_2026_DeltaG_by_County.csv</td>
+<td>All counties, every input and computed figure, sorted by population</td>
+</tr>
+<tr>
+<td>data/CA_results_summary.json</td>
+<td>Fits, narrowed fits, floor and ceiling, over-ballot checks, statewide totals</td>
+</tr>
+<tr>
+<td>verification/</td>
+<td>Pass A and Pass B county tables, the figure-by-figure comparison, the PDF cell check, the wiki number check, the render check</td>
+</tr>
+<tr>
+<td>raw/</td>
+<td>Untouched source files: 2022 Statement of Vote, 15-day Reports of Registration, 2026 results-site API JSON and rendered pages, Census file, fetch logs</td>
+</tr>
+<tr>
+<td>scripts/</td>
+<td>run_all.sh runs the whole build in order</td>
+</tr>
+<tr>
+<td>wiki/</td>
+<td>The wiki pages and _Sidebar.md, as they will be pushed to the wiki</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h2>Verification</h2>
+<p>Two independent passes over the raw SOS files: 1,160 figure comparisons, 1,160 matched and 0 mismatched. The county PDF: 1,180 of 1,180 cells matched a recomputation from the raw files. Every number on the wiki pages and in this README was traced to both passes.</p>
+<p>These pages measure a pattern. They make no claim about intent, fraud or cause.</p>

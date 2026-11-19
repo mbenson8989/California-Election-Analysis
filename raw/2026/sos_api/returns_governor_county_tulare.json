@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "Governor - Tulare County Results",
+    "Reporting": "100% (388 of 388) precincts reporting",
+    "ReportingTime": "November 16, 2026, 5:34 p.m.",
+    "candidates": [
+      {
+        "Name": "Xavier Becerra",
+        "Party": "Dem",
+        "Votes": "58,276",
+        "Percent": "50.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Steve Hilton",
+        "Party": "Rep",
+        "Votes": "58,160",
+        "Percent": "50.0",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "Governor - Statewide Results",
+    "Reporting": "100% (23,860 of 23,860) precincts reporting",
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "candidates": [
+      {
+        "Name": "Xavier Becerra",
+        "Party": "Dem",
+        "Votes": "8,669,071",
+        "Percent": "65.6",
+        "incumbent": false
+      },
+      {
+        "Name": "Steve Hilton",
+        "Party": "Rep",
+        "Votes": "4,542,458",
+        "Percent": "34.4",
+        "incumbent": false
+      }
+    ]
+  }
+]

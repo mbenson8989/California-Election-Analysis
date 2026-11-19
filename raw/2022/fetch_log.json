@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://elections.cdn.sos.ca.gov/sov/2022-general/sov/19-governor.xlsx",
+  "file": "19-governor.xlsx",
+  "status": 200,
+  "bytes": 14389,
+  "sha256": "a466e7d75d62d8b55230d933a366a67ecff3d6c66a5509e8a736f4b099361063",
+  "fetched": "2026-11-19T16:54:59-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/sov/2022-general/sov/19-governor.pdf",
+  "file": "19-governor.pdf",
+  "status": 200,
+  "bytes": 217941,
+  "sha256": "240425c8026beb9c2b4b41512c59e909a0cb2f06164db60fa3ff54f76c34f372",
+  "fetched": "2026-11-19T16:54:59-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/sov/2022-general/sov/03-voter-participation-stats-by-county.pdf",
+  "file": "03-voter-participation-stats-by-county.pdf",
+  "status": 200,
+  "bytes": 109762,
+  "sha256": "3c3af0ba02548febb239a5aef9232b5d32d58d78fd61d27272fe47eac20306b2",
+  "fetched": "2026-11-19T16:54:59-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/sov/2022-general/sov/02-county-voter-reg-stats-by-county.pdf",
+  "file": "02-county-voter-reg-stats-by-county.pdf",
+  "status": 200,
+  "bytes": 276466,
+  "sha256": "9e3c6e8bc17b8a2676adbfe091fa6dcd77d817c2c103f7dad880f2cff9a575e5",
+  "fetched": "2026-11-19T16:55:00-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/sov/2022-general/sov/06-summary.xlsx",
+  "file": "06-summary.xlsx",
+  "status": 200,
+  "bytes": 41042,
+  "sha256": "656de2541326f3aa7e457c3aa5e4bb89420b7d2f55b0cdab369ff3a2e884f447",
+  "fetched": "2026-11-19T16:55:00-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/sov/2022-general/sov/06-summary.pdf",
+  "file": "06-summary.pdf",
+  "status": 200,
+  "bytes": 206882,
+  "sha256": "871de1337bf0dde232702303242c404b60b571a7a23dfdfc9828034fb92b16d6",
+  "fetched": "2026-11-19T16:55:00-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/sov/2022-general/sov/csv-candidates.xlsx",
+  "file": "csv-candidates.xlsx",
+  "status": 200,
+  "bytes": 137773,
+  "sha256": "9bd551087f1e3205968a3dc34142fcf895713888392f1739575ed05da56389da",
+  "fetched": "2026-11-19T16:55:00-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/sov/2022-general/sov/sov-certificate.pdf",
+  "file": "sov-certificate.pdf",
+  "status": 200,
+  "bytes": 971478,
+  "sha256": "be9f25cae796ad3aa3757629302bff5f1ac14a5eb6327888fd1c12d37726755d",
+  "fetched": "2026-11-19T16:55:01-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/sov/2022-general/ssov/governor-summary.xlsx",
+  "file": "governor-summary.xlsx",
+  "status": 200,
+  "bytes": 14440,
+  "sha256": "389591d1295de7dd057a7582187ca142f29d36fcdde7696dcea3ee278006f384",
+  "fetched": "2026-11-19T16:55:01-06:00"
+ }
+]

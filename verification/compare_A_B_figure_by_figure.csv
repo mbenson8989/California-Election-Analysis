@@ -1,0 +1,1161 @@
+county,field,used_in_analysis,passA,passB,match
+Alameda,reg_elec_2022,False,931130,931130,True
+Alameda,ballots_2022,True,496125,496125,True
+Alameda,dem_2022,True,387046,387046,True
+Alameda,rep_2022,True,100923,100923,True
+Alameda,other_2022,True,0,0,True
+Alameda,govtotal_2022,True,487969,487969,True
+Alameda,regdem_2022,True,562093,562093,True
+Alameda,regrep_2022,True,100977,100977,True
+Alameda,regtot_2022,True,931130,931130,True
+Alameda,eligible_2022,True,1140774,1140774,True
+Alameda,reg_elec_2026,False,983846,983846,True
+Alameda,ballots_2026,True,577102,577102,True
+Alameda,dem_2026,True,458215,458215,True
+Alameda,rep_2026,True,107463,107463,True
+Alameda,other_2026,True,0,0,True
+Alameda,govtotal_2026,True,565678,565678,True
+Alameda,regdem_2026,True,566638,566638,True
+Alameda,regrep_2026,True,116974,116974,True
+Alameda,regtot_2026,True,983846,983846,True
+Alameda,eligible_2026,True,1153058,1153058,True
+Alpine,reg_elec_2022,False,915,915,True
+Alpine,ballots_2022,True,623,623,True
+Alpine,dem_2022,True,363,363,True
+Alpine,rep_2022,True,256,256,True
+Alpine,other_2022,True,0,0,True
+Alpine,govtotal_2022,True,619,619,True
+Alpine,regdem_2022,True,388,388,True
+Alpine,regrep_2022,True,216,216,True
+Alpine,regtot_2022,True,915,915,True
+Alpine,eligible_2022,True,1015,1015,True
+Alpine,reg_elec_2026,False,917,917,True
+Alpine,ballots_2026,True,616,616,True
+Alpine,dem_2026,True,409,409,True
+Alpine,rep_2026,True,201,201,True
+Alpine,other_2026,True,0,0,True
+Alpine,govtotal_2026,True,610,610,True
+Alpine,regdem_2026,True,388,388,True
+Alpine,regrep_2026,True,216,216,True
+Alpine,regtot_2026,True,917,917,True
+Alpine,eligible_2026,True,1000,1000,True
+Amador,reg_elec_2022,False,25954,25954,True
+Amador,ballots_2022,True,18918,18918,True
+Amador,dem_2022,True,6027,6027,True
+Amador,rep_2022,True,12628,12628,True
+Amador,other_2022,True,0,0,True
+Amador,govtotal_2022,True,18655,18655,True
+Amador,regdem_2022,True,7065,7065,True
+Amador,regrep_2022,True,12251,12251,True
+Amador,regtot_2022,True,25954,25954,True
+Amador,eligible_2022,True,29593,29593,True
+Amador,reg_elec_2026,False,26992,26992,True
+Amador,ballots_2026,True,19178,19178,True
+Amador,dem_2026,True,6865,6865,True
+Amador,rep_2026,True,12097,12097,True
+Amador,other_2026,True,0,0,True
+Amador,govtotal_2026,True,18962,18962,True
+Amador,regdem_2026,True,6632,6632,True
+Amador,regrep_2026,True,13354,13354,True
+Amador,regtot_2026,True,26992,26992,True
+Amador,eligible_2026,True,28794,28794,True
+Butte,reg_elec_2022,False,123935,123935,True
+Butte,ballots_2022,True,73211,73211,True
+Butte,dem_2022,True,31502,31502,True
+Butte,rep_2022,True,40939,40939,True
+Butte,other_2022,True,0,0,True
+Butte,govtotal_2022,True,72441,72441,True
+Butte,regdem_2022,True,43407,43407,True
+Butte,regrep_2022,True,44362,44362,True
+Butte,regtot_2022,True,123935,123935,True
+Butte,eligible_2022,True,164755,164755,True
+Butte,reg_elec_2026,False,127517,127517,True
+Butte,ballots_2026,True,79012,79012,True
+Butte,dem_2026,True,39195,39195,True
+Butte,rep_2026,True,39040,39040,True
+Butte,other_2026,True,0,0,True
+Butte,govtotal_2026,True,78235,78235,True
+Butte,regdem_2026,True,42522,42522,True
+Butte,regrep_2026,True,47835,47835,True
+Butte,regtot_2026,True,127517,127517,True
+Butte,eligible_2026,True,173042,173042,True
+Calaveras,reg_elec_2022,False,32172,32172,True
+Calaveras,ballots_2022,True,21566,21566,True
+Calaveras,dem_2022,True,7103,7103,True
+Calaveras,rep_2022,True,14137,14137,True
+Calaveras,other_2022,True,0,0,True
+Calaveras,govtotal_2022,True,21240,21240,True
+Calaveras,regdem_2022,True,8529,8529,True
+Calaveras,regrep_2022,True,14857,14857,True
+Calaveras,regtot_2022,True,32172,32172,True
+Calaveras,eligible_2022,True,36563,36563,True
+Calaveras,reg_elec_2026,False,32726,32726,True
+Calaveras,ballots_2026,True,21932,21932,True
+Calaveras,dem_2026,True,7885,7885,True
+Calaveras,rep_2026,True,13785,13785,True
+Calaveras,other_2026,True,0,0,True
+Calaveras,govtotal_2026,True,21670,21670,True
+Calaveras,regdem_2026,True,7799,7799,True
+Calaveras,regrep_2026,True,16061,16061,True
+Calaveras,regtot_2026,True,32726,32726,True
+Calaveras,eligible_2026,True,36304,36304,True
+Colusa,reg_elec_2022,False,10144,10144,True
+Colusa,ballots_2022,True,5617,5617,True
+Colusa,dem_2022,True,1553,1553,True
+Colusa,rep_2022,True,4009,4009,True
+Colusa,other_2022,True,0,0,True
+Colusa,govtotal_2022,True,5562,5562,True
+Colusa,regdem_2022,True,3214,3214,True
+Colusa,regrep_2022,True,4062,4062,True
+Colusa,regtot_2022,True,10144,10144,True
+Colusa,eligible_2022,True,13214,13214,True
+Colusa,reg_elec_2026,False,10940,10940,True
+Colusa,ballots_2026,True,6194,6194,True
+Colusa,dem_2026,True,2682,2682,True
+Colusa,rep_2026,True,3444,3444,True
+Colusa,other_2026,True,0,0,True
+Colusa,govtotal_2026,True,6126,6126,True
+Colusa,regdem_2026,True,3346,3346,True
+Colusa,regrep_2026,True,4389,4389,True
+Colusa,regtot_2026,True,10940,10940,True
+Colusa,eligible_2026,True,13292,13292,True
+Contra Costa,reg_elec_2022,False,701969,701969,True
+Contra Costa,ballots_2022,True,394153,394153,True
+Contra Costa,dem_2022,True,265371,265371,True
+Contra Costa,rep_2022,True,123132,123132,True
+Contra Costa,other_2022,True,0,0,True
+Contra Costa,govtotal_2022,True,388503,388503,True
+Contra Costa,regdem_2022,True,377431,377431,True
+Contra Costa,regrep_2022,True,127353,127353,True
+Contra Costa,regtot_2022,True,701969,701969,True
+Contra Costa,eligible_2022,True,803842,803842,True
+Contra Costa,reg_elec_2026,False,733037,733037,True
+Contra Costa,ballots_2026,True,450690,450690,True
+Contra Costa,dem_2026,True,317326,317326,True
+Contra Costa,rep_2026,True,125961,125961,True
+Contra Costa,other_2026,True,0,0,True
+Contra Costa,govtotal_2026,True,443287,443287,True
+Contra Costa,regdem_2026,True,378384,378384,True
+Contra Costa,regrep_2026,True,139834,139834,True
+Contra Costa,regtot_2026,True,733037,733037,True
+Contra Costa,eligible_2026,True,808537,808537,True
+Del Norte,reg_elec_2022,False,14943,14943,True
+Del Norte,ballots_2022,True,8450,8450,True
+Del Norte,dem_2022,True,3264,3264,True
+Del Norte,rep_2022,True,5111,5111,True
+Del Norte,other_2022,True,0,0,True
+Del Norte,govtotal_2022,True,8375,8375,True
+Del Norte,regdem_2022,True,4505,4505,True
+Del Norte,regrep_2022,True,5914,5914,True
+Del Norte,regtot_2022,True,14943,14943,True
+Del Norte,eligible_2022,True,19219,19219,True
+Del Norte,reg_elec_2026,False,15155,15155,True
+Del Norte,ballots_2026,True,8489,8489,True
+Del Norte,dem_2026,True,3780,3780,True
+Del Norte,rep_2026,True,4638,4638,True
+Del Norte,other_2026,True,0,0,True
+Del Norte,govtotal_2026,True,8418,8418,True
+Del Norte,regdem_2026,True,4311,4311,True
+Del Norte,regrep_2026,True,6184,6184,True
+Del Norte,regtot_2026,True,15155,15155,True
+Del Norte,eligible_2026,True,18175,18175,True
+El Dorado,reg_elec_2022,False,138537,138537,True
+El Dorado,ballots_2022,True,89823,89823,True
+El Dorado,dem_2022,True,34534,34534,True
+El Dorado,rep_2022,True,54137,54137,True
+El Dorado,other_2022,True,0,0,True
+El Dorado,govtotal_2022,True,88671,88671,True
+El Dorado,regdem_2022,True,42789,42789,True
+El Dorado,regrep_2022,True,55809,55809,True
+El Dorado,regtot_2022,True,138537,138537,True
+El Dorado,eligible_2022,True,145060,145060,True
+El Dorado,reg_elec_2026,False,137930,137930,True
+El Dorado,ballots_2026,True,96727,96727,True
+El Dorado,dem_2026,True,41930,41930,True
+El Dorado,rep_2026,True,53805,53805,True
+El Dorado,other_2026,True,0,0,True
+El Dorado,govtotal_2026,True,95735,95735,True
+El Dorado,regdem_2026,True,40769,40769,True
+El Dorado,regrep_2026,True,57652,57652,True
+El Dorado,regtot_2026,True,137930,137930,True
+El Dorado,eligible_2026,True,144476,144476,True
+Fresno,reg_elec_2022,False,500076,500076,True
+Fresno,ballots_2022,True,221419,221419,True
+Fresno,dem_2022,True,98417,98417,True
+Fresno,rep_2022,True,120668,120668,True
+Fresno,other_2022,True,0,0,True
+Fresno,govtotal_2022,True,219085,219085,True
+Fresno,regdem_2022,True,197395,197395,True
+Fresno,regrep_2022,True,160170,160170,True
+Fresno,regtot_2022,True,500076,500076,True
+Fresno,eligible_2022,True,642412,642412,True
+Fresno,reg_elec_2026,False,530280,530280,True
+Fresno,ballots_2026,True,271383,271383,True
+Fresno,dem_2026,True,149941,149941,True
+Fresno,rep_2026,True,118626,118626,True
+Fresno,other_2026,True,0,0,True
+Fresno,govtotal_2026,True,268567,268567,True
+Fresno,regdem_2026,True,197070,197070,True
+Fresno,regrep_2026,True,171681,171681,True
+Fresno,regtot_2026,True,530280,530280,True
+Fresno,eligible_2026,True,660582,660582,True
+Glenn,reg_elec_2022,False,14346,14346,True
+Glenn,ballots_2022,True,7986,7986,True
+Glenn,dem_2022,True,1930,1930,True
+Glenn,rep_2022,True,6000,6000,True
+Glenn,other_2022,True,0,0,True
+Glenn,govtotal_2022,True,7930,7930,True
+Glenn,regdem_2022,True,4019,4019,True
+Glenn,regrep_2022,True,6420,6420,True
+Glenn,regtot_2022,True,14346,14346,True
+Glenn,eligible_2022,True,18865,18865,True
+Glenn,reg_elec_2026,False,14226,14226,True
+Glenn,ballots_2026,True,8767,8767,True
+Glenn,dem_2026,True,3155,3155,True
+Glenn,rep_2026,True,5557,5557,True
+Glenn,other_2026,True,0,0,True
+Glenn,govtotal_2026,True,8712,8712,True
+Glenn,regdem_2026,True,3815,3815,True
+Glenn,regrep_2026,True,6643,6643,True
+Glenn,regtot_2026,True,14226,14226,True
+Glenn,eligible_2026,True,18973,18973,True
+Humboldt,reg_elec_2022,False,84756,84756,True
+Humboldt,ballots_2022,True,48741,48741,True
+Humboldt,dem_2022,True,29541,29541,True
+Humboldt,rep_2022,True,18257,18257,True
+Humboldt,other_2022,True,0,0,True
+Humboldt,govtotal_2022,True,47798,47798,True
+Humboldt,regdem_2022,True,39399,39399,True
+Humboldt,regrep_2022,True,19989,19989,True
+Humboldt,regtot_2022,True,84756,84756,True
+Humboldt,eligible_2022,True,107016,107016,True
+Humboldt,reg_elec_2026,False,86401,86401,True
+Humboldt,ballots_2026,True,53186,53186,True
+Humboldt,dem_2026,True,35405,35405,True
+Humboldt,rep_2026,True,17014,17014,True
+Humboldt,other_2026,True,0,0,True
+Humboldt,govtotal_2026,True,52419,52419,True
+Humboldt,regdem_2026,True,38820,38820,True
+Humboldt,regrep_2026,True,20882,20882,True
+Humboldt,regtot_2026,True,86401,86401,True
+Humboldt,eligible_2026,True,105252,105252,True
+Imperial,reg_elec_2022,False,86942,86942,True
+Imperial,ballots_2022,True,30386,30386,True
+Imperial,dem_2022,True,16711,16711,True
+Imperial,rep_2022,True,13158,13158,True
+Imperial,other_2022,True,0,0,True
+Imperial,govtotal_2022,True,29869,29869,True
+Imperial,regdem_2022,True,41600,41600,True
+Imperial,regrep_2022,True,18237,18237,True
+Imperial,regtot_2022,True,86942,86942,True
+Imperial,eligible_2022,True,109738,109738,True
+Imperial,reg_elec_2026,False,93770,93770,True
+Imperial,ballots_2026,True,42273,42273,True
+Imperial,dem_2026,True,27175,27175,True
+Imperial,rep_2026,True,14453,14453,True
+Imperial,other_2026,True,0,0,True
+Imperial,govtotal_2026,True,41628,41628,True
+Imperial,regdem_2026,True,40738,40738,True
+Imperial,regrep_2026,True,22782,22782,True
+Imperial,regtot_2026,True,93770,93770,True
+Imperial,eligible_2026,True,113774,113774,True
+Inyo,reg_elec_2022,False,10729,10729,True
+Inyo,ballots_2022,True,7577,7577,True
+Inyo,dem_2022,True,3382,3382,True
+Inyo,rep_2022,True,4095,4095,True
+Inyo,other_2022,True,0,0,True
+Inyo,govtotal_2022,True,7477,7477,True
+Inyo,regdem_2022,True,3668,3668,True
+Inyo,regrep_2022,True,4183,4183,True
+Inyo,regtot_2022,True,10729,10729,True
+Inyo,eligible_2022,True,14619,14619,True
+Inyo,reg_elec_2026,False,10926,10926,True
+Inyo,ballots_2026,True,7636,7636,True
+Inyo,dem_2026,True,3966,3966,True
+Inyo,rep_2026,True,3549,3549,True
+Inyo,other_2026,True,0,0,True
+Inyo,govtotal_2026,True,7515,7515,True
+Inyo,regdem_2026,True,3680,3680,True
+Inyo,regrep_2026,True,4118,4118,True
+Inyo,regtot_2026,True,10926,10926,True
+Inyo,eligible_2026,True,14458,14458,True
+Kern,reg_elec_2022,False,435872,435872,True
+Kern,ballots_2022,True,190715,190715,True
+Kern,dem_2022,True,69706,69706,True
+Kern,rep_2022,True,119006,119006,True
+Kern,other_2022,True,0,0,True
+Kern,govtotal_2022,True,188712,188712,True
+Kern,regdem_2022,True,152390,152390,True
+Kern,regrep_2022,True,158011,158011,True
+Kern,regtot_2022,True,435872,435872,True
+Kern,eligible_2022,True,561276,561276,True
+Kern,reg_elec_2026,False,465832,465832,True
+Kern,ballots_2026,True,234485,234485,True
+Kern,dem_2026,True,118131,118131,True
+Kern,rep_2026,True,114697,114697,True
+Kern,other_2026,True,0,0,True
+Kern,govtotal_2026,True,232828,232828,True
+Kern,regdem_2026,True,157098,157098,True
+Kern,regrep_2026,True,170732,170732,True
+Kern,regtot_2026,True,465832,465832,True
+Kern,eligible_2026,True,575091,575091,True
+Kings,reg_elec_2022,False,61535,61535,True
+Kings,ballots_2022,True,27125,27125,True
+Kings,dem_2022,True,9389,9389,True
+Kings,rep_2022,True,17523,17523,True
+Kings,other_2022,True,0,0,True
+Kings,govtotal_2022,True,26912,26912,True
+Kings,regdem_2022,True,20670,20670,True
+Kings,regrep_2022,True,23956,23956,True
+Kings,regtot_2022,True,61535,61535,True
+Kings,eligible_2022,True,86806,86806,True
+Kings,reg_elec_2026,False,61136,61136,True
+Kings,ballots_2026,True,34998,34998,True
+Kings,dem_2026,True,16577,16577,True
+Kings,rep_2026,True,18089,18089,True
+Kings,other_2026,True,0,0,True
+Kings,govtotal_2026,True,34666,34666,True
+Kings,regdem_2026,True,19100,19100,True
+Kings,regrep_2026,True,24397,24397,True
+Kings,regtot_2026,True,61136,61136,True
+Kings,eligible_2026,True,88185,88185,True
+Lake,reg_elec_2022,False,37154,37154,True
+Lake,ballots_2022,True,20362,20362,True
+Lake,dem_2022,True,9771,9771,True
+Lake,rep_2022,True,10360,10360,True
+Lake,other_2022,True,0,0,True
+Lake,govtotal_2022,True,20131,20131,True
+Lake,regdem_2022,True,14133,14133,True
+Lake,regrep_2022,True,11355,11355,True
+Lake,regtot_2022,True,37154,37154,True
+Lake,eligible_2022,True,51231,51231,True
+Lake,reg_elec_2026,False,38010,38010,True
+Lake,ballots_2026,True,21227,21227,True
+Lake,dem_2026,True,11239,11239,True
+Lake,rep_2026,True,9803,9803,True
+Lake,other_2026,True,0,0,True
+Lake,govtotal_2026,True,21042,21042,True
+Lake,regdem_2026,True,13383,13383,True
+Lake,regrep_2026,True,12529,12529,True
+Lake,regtot_2026,True,38010,38010,True
+Lake,eligible_2026,True,50726,50726,True
+Lassen,reg_elec_2022,False,14757,14757,True
+Lassen,ballots_2022,True,9271,9271,True
+Lassen,dem_2022,True,1444,1444,True
+Lassen,rep_2022,True,7726,7726,True
+Lassen,other_2022,True,0,0,True
+Lassen,govtotal_2022,True,9170,9170,True
+Lassen,regdem_2022,True,2515,2515,True
+Lassen,regrep_2022,True,8237,8237,True
+Lassen,regtot_2022,True,14757,14757,True
+Lassen,eligible_2022,True,21275,21275,True
+Lassen,reg_elec_2026,False,15333,15333,True
+Lassen,ballots_2026,True,9106,9106,True
+Lassen,dem_2026,True,2124,2124,True
+Lassen,rep_2026,True,6894,6894,True
+Lassen,other_2026,True,0,0,True
+Lassen,govtotal_2026,True,9018,9018,True
+Lassen,regdem_2026,True,2411,2411,True
+Lassen,regrep_2026,True,8809,8809,True
+Lassen,regtot_2026,True,15333,15333,True
+Lassen,eligible_2026,True,19969,19969,True
+Los Angeles,reg_elec_2022,False,5601835,5601835,True
+Los Angeles,ballots_2022,True,2456701,2456701,True
+Los Angeles,dem_2022,True,1620053,1620053,True
+Los Angeles,rep_2022,True,769174,769174,True
+Los Angeles,other_2022,True,0,0,True
+Los Angeles,govtotal_2022,True,2389227,2389227,True
+Los Angeles,regdem_2022,True,2996565,2996565,True
+Los Angeles,regrep_2022,True,958851,958851,True
+Los Angeles,regtot_2022,True,5601835,5601835,True
+Los Angeles,eligible_2022,True,6658099,6658099,True
+Los Angeles,reg_elec_2026,False,5914190,5914190,True
+Los Angeles,ballots_2026,True,3180986,3180986,True
+Los Angeles,dem_2026,True,2278246,2278246,True
+Los Angeles,rep_2026,True,827833,827833,True
+Los Angeles,other_2026,True,0,0,True
+Los Angeles,govtotal_2026,True,3106079,3106079,True
+Los Angeles,regdem_2026,True,3016342,3016342,True
+Los Angeles,regrep_2026,True,1092286,1092286,True
+Los Angeles,regtot_2026,True,5914190,5914190,True
+Los Angeles,eligible_2026,True,6629392,6629392,True
+Madera,reg_elec_2022,False,72865,72865,True
+Madera,ballots_2022,True,37345,37345,True
+Madera,dem_2022,True,13283,13283,True
+Madera,rep_2022,True,23678,23678,True
+Madera,other_2022,True,0,0,True
+Madera,govtotal_2022,True,36961,36961,True
+Madera,regdem_2022,True,24091,24091,True
+Madera,regrep_2022,True,28104,28104,True
+Madera,regtot_2022,True,72865,72865,True
+Madera,eligible_2022,True,93789,93789,True
+Madera,reg_elec_2026,False,83662,83662,True
+Madera,ballots_2026,True,47938,47938,True
+Madera,dem_2026,True,22979,22979,True
+Madera,rep_2026,True,24600,24600,True
+Madera,other_2026,True,0,0,True
+Madera,govtotal_2026,True,47579,47579,True
+Madera,regdem_2026,True,26135,26135,True
+Madera,regrep_2026,True,32410,32410,True
+Madera,regtot_2026,True,83662,83662,True
+Madera,eligible_2026,True,99688,99688,True
+Marin,reg_elec_2022,False,170545,170545,True
+Marin,ballots_2022,True,121402,121402,True
+Marin,dem_2022,True,95289,95289,True
+Marin,rep_2022,True,23775,23775,True
+Marin,other_2022,True,0,0,True
+Marin,govtotal_2022,True,119064,119064,True
+Marin,regdem_2022,True,106169,106169,True
+Marin,regrep_2022,True,20955,20955,True
+Marin,regtot_2022,True,170545,170545,True
+Marin,eligible_2022,True,185951,185951,True
+Marin,reg_elec_2026,False,173844,173844,True
+Marin,ballots_2026,True,126640,126640,True
+Marin,dem_2026,True,99748,99748,True
+Marin,rep_2026,True,24869,24869,True
+Marin,other_2026,True,0,0,True
+Marin,govtotal_2026,True,124617,124617,True
+Marin,regdem_2026,True,107020,107020,True
+Marin,regrep_2026,True,21426,21426,True
+Marin,regtot_2026,True,173844,173844,True
+Marin,eligible_2026,True,181653,181653,True
+Mariposa,reg_elec_2022,False,11558,11558,True
+Mariposa,ballots_2022,True,7928,7928,True
+Mariposa,dem_2022,True,2944,2944,True
+Mariposa,rep_2022,True,4896,4896,True
+Mariposa,other_2022,True,0,0,True
+Mariposa,govtotal_2022,True,7840,7840,True
+Mariposa,regdem_2022,True,3211,3211,True
+Mariposa,regrep_2022,True,5291,5291,True
+Mariposa,regtot_2022,True,11558,11558,True
+Mariposa,eligible_2022,True,13813,13813,True
+Mariposa,reg_elec_2026,False,11799,11799,True
+Mariposa,ballots_2026,True,7989,7989,True
+Mariposa,dem_2026,True,3269,3269,True
+Mariposa,rep_2026,True,4640,4640,True
+Mariposa,other_2026,True,0,0,True
+Mariposa,govtotal_2026,True,7909,7909,True
+Mariposa,regdem_2026,True,3082,3082,True
+Mariposa,regrep_2026,True,5586,5586,True
+Mariposa,regtot_2026,True,11799,11799,True
+Mariposa,eligible_2026,True,13612,13612,True
+Mendocino,reg_elec_2022,False,53105,53105,True
+Mendocino,ballots_2022,True,31008,31008,True
+Mendocino,dem_2022,True,19031,19031,True
+Mendocino,rep_2022,True,11363,11363,True
+Mendocino,other_2022,True,0,0,True
+Mendocino,govtotal_2022,True,30394,30394,True
+Mendocino,regdem_2022,True,25897,25897,True
+Mendocino,regrep_2022,True,11181,11181,True
+Mendocino,regtot_2022,True,53105,53105,True
+Mendocino,eligible_2022,True,67114,67114,True
+Mendocino,reg_elec_2026,False,53969,53969,True
+Mendocino,ballots_2026,True,32523,32523,True
+Mendocino,dem_2026,True,21133,21133,True
+Mendocino,rep_2026,True,10557,10557,True
+Mendocino,other_2026,True,0,0,True
+Mendocino,govtotal_2026,True,31690,31690,True
+Mendocino,regdem_2026,True,24715,24715,True
+Mendocino,regrep_2026,True,12672,12672,True
+Mendocino,regtot_2026,True,53969,53969,True
+Mendocino,eligible_2026,True,65864,65864,True
+Merced,reg_elec_2022,False,124659,124659,True
+Merced,ballots_2022,True,55850,55850,True
+Merced,dem_2022,True,25200,25200,True
+Merced,rep_2022,True,30073,30073,True
+Merced,other_2022,True,0,0,True
+Merced,govtotal_2022,True,55273,55273,True
+Merced,regdem_2022,True,53451,53451,True
+Merced,regrep_2022,True,35401,35401,True
+Merced,regtot_2022,True,124659,124659,True
+Merced,eligible_2022,True,172198,172198,True
+Merced,reg_elec_2026,False,137293,137293,True
+Merced,ballots_2026,True,74985,74985,True
+Merced,dem_2026,True,43796,43796,True
+Merced,rep_2026,True,30168,30168,True
+Merced,other_2026,True,0,0,True
+Merced,govtotal_2026,True,73964,73964,True
+Merced,regdem_2026,True,54190,54190,True
+Merced,regrep_2026,True,40869,40869,True
+Merced,regtot_2026,True,137293,137293,True
+Merced,eligible_2026,True,177316,177316,True
+Modoc,reg_elec_2022,False,5197,5197,True
+Modoc,ballots_2022,True,3441,3441,True
+Modoc,dem_2022,True,687,687,True
+Modoc,rep_2022,True,2725,2725,True
+Modoc,other_2022,True,0,0,True
+Modoc,govtotal_2022,True,3412,3412,True
+Modoc,regdem_2022,True,1056,1056,True
+Modoc,regrep_2022,True,2858,2858,True
+Modoc,regtot_2022,True,5197,5197,True
+Modoc,eligible_2022,True,6740,6740,True
+Modoc,reg_elec_2026,False,5172,5172,True
+Modoc,ballots_2026,True,3240,3240,True
+Modoc,dem_2026,True,847,847,True
+Modoc,rep_2026,True,2356,2356,True
+Modoc,other_2026,True,0,0,True
+Modoc,govtotal_2026,True,3203,3203,True
+Modoc,regdem_2026,True,925,925,True
+Modoc,regrep_2026,True,2901,2901,True
+Modoc,regtot_2026,True,5172,5172,True
+Modoc,eligible_2026,True,6523,6523,True
+Mono,reg_elec_2022,False,7710,7710,True
+Mono,ballots_2022,True,4633,4633,True
+Mono,dem_2022,True,2493,2493,True
+Mono,rep_2022,True,2076,2076,True
+Mono,other_2022,True,0,0,True
+Mono,govtotal_2022,True,4569,4569,True
+Mono,regdem_2022,True,3088,3088,True
+Mono,regrep_2022,True,2288,2288,True
+Mono,regtot_2022,True,7710,7710,True
+Mono,eligible_2022,True,9399,9399,True
+Mono,reg_elec_2026,False,7960,7960,True
+Mono,ballots_2026,True,5210,5210,True
+Mono,dem_2026,True,3163,3163,True
+Mono,rep_2026,True,1962,1962,True
+Mono,other_2026,True,0,0,True
+Mono,govtotal_2026,True,5125,5125,True
+Mono,regdem_2026,True,3172,3172,True
+Mono,regrep_2026,True,2305,2305,True
+Mono,regtot_2026,True,7960,7960,True
+Mono,eligible_2026,True,8706,8706,True
+Monterey,reg_elec_2022,False,209045,209045,True
+Monterey,ballots_2022,True,103147,103147,True
+Monterey,dem_2022,True,65262,65262,True
+Monterey,rep_2022,True,36867,36867,True
+Monterey,other_2022,True,0,0,True
+Monterey,govtotal_2022,True,102129,102129,True
+Monterey,regdem_2022,True,109843,109843,True
+Monterey,regrep_2022,True,41118,41118,True
+Monterey,regtot_2022,True,209045,209045,True
+Monterey,eligible_2022,True,251193,251193,True
+Monterey,reg_elec_2026,False,220213,220213,True
+Monterey,ballots_2026,True,127941,127941,True
+Monterey,dem_2026,True,89644,89644,True
+Monterey,rep_2026,True,36953,36953,True
+Monterey,other_2026,True,0,0,True
+Monterey,govtotal_2026,True,126597,126597,True
+Monterey,regdem_2026,True,109848,109848,True
+Monterey,regrep_2026,True,45370,45370,True
+Monterey,regtot_2026,True,220213,220213,True
+Monterey,eligible_2026,True,253732,253732,True
+Napa,reg_elec_2022,False,83480,83480,True
+Napa,ballots_2022,True,50788,50788,True
+Napa,dem_2022,True,32437,32437,True
+Napa,rep_2022,True,17671,17671,True
+Napa,other_2022,True,0,0,True
+Napa,govtotal_2022,True,50108,50108,True
+Napa,regdem_2022,True,42194,42194,True
+Napa,regrep_2022,True,17701,17701,True
+Napa,regtot_2022,True,83480,83480,True
+Napa,eligible_2022,True,97321,97321,True
+Napa,reg_elec_2026,False,86473,86473,True
+Napa,ballots_2026,True,55867,55867,True
+Napa,dem_2026,True,38615,38615,True
+Napa,rep_2026,True,16649,16649,True
+Napa,other_2026,True,0,0,True
+Napa,govtotal_2026,True,55264,55264,True
+Napa,regdem_2026,True,43339,43339,True
+Napa,regrep_2026,True,18994,18994,True
+Napa,regtot_2026,True,86473,86473,True
+Napa,eligible_2026,True,97782,97782,True
+Nevada,reg_elec_2022,False,74488,74488,True
+Nevada,ballots_2022,True,51370,51370,True
+Nevada,dem_2022,True,26655,26655,True
+Nevada,rep_2022,True,24082,24082,True
+Nevada,other_2022,True,0,0,True
+Nevada,govtotal_2022,True,50737,50737,True
+Nevada,regdem_2022,True,29593,29593,True
+Nevada,regrep_2022,True,23863,23863,True
+Nevada,regtot_2022,True,74488,74488,True
+Nevada,eligible_2022,True,81891,81891,True
+Nevada,reg_elec_2026,False,76693,76693,True
+Nevada,ballots_2026,True,52513,52513,True
+Nevada,dem_2026,True,29799,29799,True
+Nevada,rep_2026,True,22085,22085,True
+Nevada,other_2026,True,0,0,True
+Nevada,govtotal_2026,True,51884,51884,True
+Nevada,regdem_2026,True,29772,29772,True
+Nevada,regrep_2026,True,24837,24837,True
+Nevada,regtot_2026,True,76693,76693,True
+Nevada,eligible_2026,True,80834,80834,True
+Orange,reg_elec_2022,False,1817583,1817583,True
+Orange,ballots_2022,True,994277,994277,True
+Orange,dem_2022,True,464206,464206,True
+Orange,rep_2022,True,492734,492734,True
+Orange,other_2022,True,0,0,True
+Orange,govtotal_2022,True,956940,956940,True
+Orange,regdem_2022,True,682547,682547,True
+Orange,regrep_2022,True,601852,601852,True
+Orange,regtot_2022,True,1817583,1817583,True
+Orange,eligible_2022,True,2203252,2203252,True
+Orange,reg_elec_2026,False,1916806,1916806,True
+Orange,ballots_2026,True,1167480,1167480,True
+Orange,dem_2026,True,638082,638082,True
+Orange,rep_2026,True,514127,514127,True
+Orange,other_2026,True,0,0,True
+Orange,govtotal_2026,True,1152209,1152209,True
+Orange,regdem_2026,True,700032,700032,True
+Orange,regrep_2026,True,641263,641263,True
+Orange,regtot_2026,True,1916806,1916806,True
+Orange,eligible_2026,True,2200139,2200139,True
+Placer,reg_elec_2022,False,279016,279016,True
+Placer,ballots_2022,True,184507,184507,True
+Placer,dem_2022,True,73619,73619,True
+Placer,rep_2022,True,108450,108450,True
+Placer,other_2022,True,0,0,True
+Placer,govtotal_2022,True,182069,182069,True
+Placer,regdem_2022,True,88405,88405,True
+Placer,regrep_2022,True,112111,112111,True
+Placer,regtot_2022,True,279016,279016,True
+Placer,eligible_2022,True,301467,301467,True
+Placer,reg_elec_2026,False,300368,300368,True
+Placer,ballots_2026,True,195469,195469,True
+Placer,dem_2026,True,91095,91095,True
+Placer,rep_2026,True,102369,102369,True
+Placer,other_2026,True,0,0,True
+Placer,govtotal_2026,True,193464,193464,True
+Placer,regdem_2026,True,93389,93389,True
+Placer,regrep_2026,True,121647,121647,True
+Placer,regtot_2026,True,300368,300368,True
+Placer,eligible_2026,True,323402,323402,True
+Plumas,reg_elec_2022,False,13848,13848,True
+Plumas,ballots_2022,True,8721,8721,True
+Plumas,dem_2022,True,3083,3083,True
+Plumas,rep_2022,True,5550,5550,True
+Plumas,other_2022,True,0,0,True
+Plumas,govtotal_2022,True,8633,8633,True
+Plumas,regdem_2022,True,3899,3899,True
+Plumas,regrep_2022,True,6142,6142,True
+Plumas,regtot_2022,True,13848,13848,True
+Plumas,eligible_2022,True,15245,15245,True
+Plumas,reg_elec_2026,False,12889,12889,True
+Plumas,ballots_2026,True,8588,8588,True
+Plumas,dem_2026,True,3631,3631,True
+Plumas,rep_2026,True,4879,4879,True
+Plumas,other_2026,True,0,0,True
+Plumas,govtotal_2026,True,8510,8510,True
+Plumas,regdem_2026,True,3491,3491,True
+Plumas,regrep_2026,True,5796,5796,True
+Plumas,regtot_2026,True,12889,12889,True
+Plumas,eligible_2026,True,14957,14957,True
+Riverside,reg_elec_2022,False,1310505,1310505,True
+Riverside,ballots_2022,True,604617,604617,True
+Riverside,dem_2022,True,285000,285000,True
+Riverside,rep_2022,True,310901,310901,True
+Riverside,other_2022,True,0,0,True
+Riverside,govtotal_2022,True,595901,595901,True
+Riverside,regdem_2022,True,531203,531203,True
+Riverside,regrep_2022,True,410544,410544,True
+Riverside,regtot_2022,True,1310505,1310505,True
+Riverside,eligible_2022,True,1637165,1637165,True
+Riverside,reg_elec_2026,False,1454472,1454472,True
+Riverside,ballots_2026,True,764193,764193,True
+Riverside,dem_2026,True,445189,445189,True
+Riverside,rep_2026,True,312840,312840,True
+Riverside,other_2026,True,0,0,True
+Riverside,govtotal_2026,True,758029,758029,True
+Riverside,regdem_2026,True,556523,556523,True
+Riverside,regrep_2026,True,459295,459295,True
+Riverside,regtot_2026,True,1454472,1454472,True
+Riverside,eligible_2026,True,1690320,1690320,True
+Sacramento,reg_elec_2022,False,865225,865225,True
+Sacramento,ballots_2022,True,484315,484315,True
+Sacramento,dem_2022,True,274680,274680,True
+Sacramento,rep_2022,True,202933,202933,True
+Sacramento,other_2022,True,0,0,True
+Sacramento,govtotal_2022,True,477613,477613,True
+Sacramento,regdem_2022,True,397482,397482,True
+Sacramento,regrep_2022,True,214331,214331,True
+Sacramento,regtot_2022,True,865225,865225,True
+Sacramento,eligible_2022,True,1112665,1112665,True
+Sacramento,reg_elec_2026,False,921313,921313,True
+Sacramento,ballots_2026,True,559153,559153,True
+Sacramento,dem_2026,True,358918,358918,True
+Sacramento,rep_2026,True,192904,192904,True
+Sacramento,other_2026,True,0,0,True
+Sacramento,govtotal_2026,True,551822,551822,True
+Sacramento,regdem_2026,True,407701,407701,True
+Sacramento,regrep_2026,True,230671,230671,True
+Sacramento,regtot_2026,True,921313,921313,True
+Sacramento,eligible_2026,True,1155998,1155998,True
+San Benito,reg_elec_2022,False,37750,37750,True
+San Benito,ballots_2022,True,19845,19845,True
+San Benito,dem_2022,True,10428,10428,True
+San Benito,rep_2022,True,9150,9150,True
+San Benito,other_2022,True,0,0,True
+San Benito,govtotal_2022,True,19578,19578,True
+San Benito,regdem_2022,True,18058,18058,True
+San Benito,regrep_2022,True,9687,9687,True
+San Benito,regtot_2022,True,37750,37750,True
+San Benito,eligible_2022,True,43559,43559,True
+San Benito,reg_elec_2026,False,40035,40035,True
+San Benito,ballots_2026,True,23595,23595,True
+San Benito,dem_2026,True,14440,14440,True
+San Benito,rep_2026,True,8936,8936,True
+San Benito,other_2026,True,0,0,True
+San Benito,govtotal_2026,True,23376,23376,True
+San Benito,regdem_2026,True,18183,18183,True
+San Benito,regrep_2026,True,11196,11196,True
+San Benito,regtot_2026,True,40035,40035,True
+San Benito,eligible_2026,True,45324,45324,True
+San Bernardino,reg_elec_2022,False,1138818,1138818,True
+San Bernardino,ballots_2022,True,458946,458946,True
+San Bernardino,dem_2022,True,215391,215391,True
+San Bernardino,rep_2022,True,239109,239109,True
+San Bernardino,other_2022,True,0,0,True
+San Bernardino,govtotal_2022,True,454500,454500,True
+San Bernardino,regdem_2022,True,470494,470494,True
+San Bernardino,regrep_2022,True,332534,332534,True
+San Bernardino,regtot_2022,True,1138818,1138818,True
+San Bernardino,eligible_2022,True,1472696,1472696,True
+San Bernardino,reg_elec_2026,False,1248960,1248960,True
+San Bernardino,ballots_2026,True,629288,629288,True
+San Bernardino,dem_2026,True,371439,371439,True
+San Bernardino,rep_2026,True,252058,252058,True
+San Bernardino,other_2026,True,0,0,True
+San Bernardino,govtotal_2026,True,623497,623497,True
+San Bernardino,regdem_2026,True,485053,485053,True
+San Bernardino,regrep_2026,True,376201,376201,True
+San Bernardino,regtot_2026,True,1248960,1248960,True
+San Bernardino,eligible_2026,True,1491477,1491477,True
+San Diego,reg_elec_2022,False,1924634,1924634,True
+San Diego,ballots_2022,True,1043490,1043490,True
+San Diego,dem_2022,True,574121,574121,True
+San Diego,rep_2022,True,455107,455107,True
+San Diego,other_2022,True,0,0,True
+San Diego,govtotal_2022,True,1029228,1029228,True
+San Diego,regdem_2022,True,798990,798990,True
+San Diego,regrep_2022,True,518907,518907,True
+San Diego,regtot_2022,True,1924634,1924634,True
+San Diego,eligible_2022,True,2349554,2349554,True
+San Diego,reg_elec_2026,False,2030182,2030182,True
+San Diego,ballots_2026,True,1255092,1255092,True
+San Diego,dem_2026,True,781021,781021,True
+San Diego,rep_2026,True,460143,460143,True
+San Diego,other_2026,True,0,0,True
+San Diego,govtotal_2026,True,1241164,1241164,True
+San Diego,regdem_2026,True,827077,827077,True
+San Diego,regrep_2026,True,550475,550475,True
+San Diego,regtot_2026,True,2030182,2030182,True
+San Diego,eligible_2026,True,2392743,2392743,True
+San Francisco,reg_elec_2022,False,498197,498197,True
+San Francisco,ballots_2022,True,310071,310071,True
+San Francisco,dem_2022,True,257402,257402,True
+San Francisco,rep_2022,True,44064,44064,True
+San Francisco,other_2022,True,0,0,True
+San Francisco,govtotal_2022,True,301466,301466,True
+San Francisco,regdem_2022,True,314227,314227,True
+San Francisco,regrep_2022,True,33573,33573,True
+San Francisco,regtot_2022,True,498197,498197,True
+San Francisco,eligible_2022,True,660132,660132,True
+San Francisco,reg_elec_2026,False,536037,536037,True
+San Francisco,ballots_2026,True,352939,352939,True
+San Francisco,dem_2026,True,288799,288799,True
+San Francisco,rep_2026,True,52088,52088,True
+San Francisco,other_2026,True,0,0,True
+San Francisco,govtotal_2026,True,340887,340887,True
+San Francisco,regdem_2026,True,333528,333528,True
+San Francisco,regrep_2026,True,40341,40341,True
+San Francisco,regtot_2026,True,536037,536037,True
+San Francisco,eligible_2026,True,665743,665743,True
+San Joaquin,reg_elec_2022,False,388635,388635,True
+San Joaquin,ballots_2022,True,179333,179333,True
+San Joaquin,dem_2022,True,85498,85498,True
+San Joaquin,rep_2022,True,91827,91827,True
+San Joaquin,other_2022,True,0,0,True
+San Joaquin,govtotal_2022,True,177325,177325,True
+San Joaquin,regdem_2022,True,170362,170362,True
+San Joaquin,regrep_2022,True,107957,107957,True
+San Joaquin,regtot_2022,True,388635,388635,True
+San Joaquin,eligible_2022,True,509377,509377,True
+San Joaquin,reg_elec_2026,False,415611,415611,True
+San Joaquin,ballots_2026,True,222024,222024,True
+San Joaquin,dem_2026,True,128306,128306,True
+San Joaquin,rep_2026,True,91070,91070,True
+San Joaquin,other_2026,True,0,0,True
+San Joaquin,govtotal_2026,True,219376,219376,True
+San Joaquin,regdem_2026,True,168776,168776,True
+San Joaquin,regrep_2026,True,121816,121816,True
+San Joaquin,regtot_2026,True,415611,415611,True
+San Joaquin,eligible_2026,True,534679,534679,True
+San Luis Obispo,reg_elec_2022,False,182340,182340,True
+San Luis Obispo,ballots_2022,True,121156,121156,True
+San Luis Obispo,dem_2022,True,61166,61166,True
+San Luis Obispo,rep_2022,True,58464,58464,True
+San Luis Obispo,other_2022,True,0,0,True
+San Luis Obispo,govtotal_2022,True,119630,119630,True
+San Luis Obispo,regdem_2022,True,69908,69908,True
+San Luis Obispo,regrep_2022,True,62461,62461,True
+San Luis Obispo,regtot_2022,True,182340,182340,True
+San Luis Obispo,eligible_2022,True,221071,221071,True
+San Luis Obispo,reg_elec_2026,False,183732,183732,True
+San Luis Obispo,ballots_2026,True,127778,127778,True
+San Luis Obispo,dem_2026,True,71183,71183,True
+San Luis Obispo,rep_2026,True,55232,55232,True
+San Luis Obispo,other_2026,True,0,0,True
+San Luis Obispo,govtotal_2026,True,126415,126415,True
+San Luis Obispo,regdem_2026,True,70448,70448,True
+San Luis Obispo,regrep_2026,True,63256,63256,True
+San Luis Obispo,regtot_2026,True,183732,183732,True
+San Luis Obispo,eligible_2026,True,220223,220223,True
+San Mateo,reg_elec_2022,False,432734,432734,True
+San Mateo,ballots_2022,True,252233,252233,True
+San Mateo,dem_2022,True,185599,185599,True
+San Mateo,rep_2022,True,61918,61918,True
+San Mateo,other_2022,True,0,0,True
+San Mateo,govtotal_2022,True,247517,247517,True
+San Mateo,regdem_2022,True,243202,243202,True
+San Mateo,regrep_2022,True,60113,60113,True
+San Mateo,regtot_2022,True,432734,432734,True
+San Mateo,eligible_2022,True,515759,515759,True
+San Mateo,reg_elec_2026,False,449447,449447,True
+San Mateo,ballots_2026,True,283061,283061,True
+San Mateo,dem_2026,True,210379,210379,True
+San Mateo,rep_2026,True,67564,67564,True
+San Mateo,other_2026,True,0,0,True
+San Mateo,govtotal_2026,True,277943,277943,True
+San Mateo,regdem_2026,True,246285,246285,True
+San Mateo,regrep_2026,True,65944,65944,True
+San Mateo,regtot_2026,True,449447,449447,True
+San Mateo,eligible_2026,True,520393,520393,True
+Santa Barbara,reg_elec_2022,False,237759,237759,True
+Santa Barbara,ballots_2022,True,137044,137044,True
+Santa Barbara,dem_2022,True,80648,80648,True
+Santa Barbara,rep_2022,True,54726,54726,True
+Santa Barbara,other_2022,True,0,0,True
+Santa Barbara,govtotal_2022,True,135374,135374,True
+Santa Barbara,regdem_2022,True,112373,112373,True
+Santa Barbara,regrep_2022,True,58283,58283,True
+Santa Barbara,regtot_2022,True,237759,237759,True
+Santa Barbara,eligible_2022,True,303842,303842,True
+Santa Barbara,reg_elec_2026,False,249802,249802,True
+Santa Barbara,ballots_2026,True,160329,160329,True
+Santa Barbara,dem_2026,True,105856,105856,True
+Santa Barbara,rep_2026,True,52548,52548,True
+Santa Barbara,other_2026,True,0,0,True
+Santa Barbara,govtotal_2026,True,158404,158404,True
+Santa Barbara,regdem_2026,True,115820,115820,True
+Santa Barbara,regrep_2026,True,61176,61176,True
+Santa Barbara,regtot_2026,True,249802,249802,True
+Santa Barbara,eligible_2026,True,303053,303053,True
+Santa Clara,reg_elec_2022,False,1009422,1009422,True
+Santa Clara,ballots_2022,True,550602,550602,True
+Santa Clara,dem_2022,True,379377,379377,True
+Santa Clara,rep_2022,True,162518,162518,True
+Santa Clara,other_2022,True,0,0,True
+Santa Clara,govtotal_2022,True,541895,541895,True
+Santa Clara,regdem_2022,True,515886,515886,True
+Santa Clara,regrep_2022,True,165780,165780,True
+Santa Clara,regtot_2022,True,1009422,1009422,True
+Santa Clara,eligible_2022,True,1259821,1259821,True
+Santa Clara,reg_elec_2026,False,1080711,1080711,True
+Santa Clara,ballots_2026,True,631514,631514,True
+Santa Clara,dem_2026,True,445505,445505,True
+Santa Clara,rep_2026,True,174304,174304,True
+Santa Clara,other_2026,True,0,0,True
+Santa Clara,govtotal_2026,True,619809,619809,True
+Santa Clara,regdem_2026,True,535877,535877,True
+Santa Clara,regrep_2026,True,185075,185075,True
+Santa Clara,regtot_2026,True,1080711,1080711,True
+Santa Clara,eligible_2026,True,1291452,1291452,True
+Santa Cruz,reg_elec_2022,False,167442,167442,True
+Santa Cruz,ballots_2022,True,106044,106044,True
+Santa Cruz,dem_2022,True,79117,79117,True
+Santa Cruz,rep_2022,True,25052,25052,True
+Santa Cruz,other_2022,True,0,0,True
+Santa Cruz,govtotal_2022,True,104169,104169,True
+Santa Cruz,regdem_2022,True,100324,100324,True
+Santa Cruz,regrep_2022,True,22900,22900,True
+Santa Cruz,regtot_2022,True,167442,167442,True
+Santa Cruz,eligible_2022,True,197659,197659,True
+Santa Cruz,reg_elec_2026,False,173193,173193,True
+Santa Cruz,ballots_2026,True,117667,117667,True
+Santa Cruz,dem_2026,True,91852,91852,True
+Santa Cruz,rep_2026,True,23957,23957,True
+Santa Cruz,other_2026,True,0,0,True
+Santa Cruz,govtotal_2026,True,115809,115809,True
+Santa Cruz,regdem_2026,True,101237,101237,True
+Santa Cruz,regrep_2026,True,24804,24804,True
+Santa Cruz,regtot_2026,True,173193,173193,True
+Santa Cruz,eligible_2026,True,192621,192621,True
+Shasta,reg_elec_2022,False,111628,111628,True
+Shasta,ballots_2022,True,68986,68986,True
+Shasta,dem_2022,True,18607,18607,True
+Shasta,rep_2022,True,49913,49913,True
+Shasta,other_2022,True,0,0,True
+Shasta,govtotal_2022,True,68520,68520,True
+Shasta,regdem_2022,True,25338,25338,True
+Shasta,regrep_2022,True,55421,55421,True
+Shasta,regtot_2022,True,111628,111628,True
+Shasta,eligible_2022,True,138293,138293,True
+Shasta,reg_elec_2026,False,115780,115780,True
+Shasta,ballots_2026,True,67753,67753,True
+Shasta,dem_2026,True,22403,22403,True
+Shasta,rep_2026,True,44554,44554,True
+Shasta,other_2026,True,0,0,True
+Shasta,govtotal_2026,True,66957,66957,True
+Shasta,regdem_2026,True,24474,24474,True
+Shasta,regrep_2026,True,59615,59615,True
+Shasta,regtot_2026,True,115780,115780,True
+Shasta,eligible_2026,True,139719,139719,True
+Sierra,reg_elec_2022,False,2219,2219,True
+Sierra,ballots_2022,True,1585,1585,True
+Sierra,dem_2022,True,529,529,True
+Sierra,rep_2022,True,1014,1014,True
+Sierra,other_2022,True,0,0,True
+Sierra,govtotal_2022,True,1543,1543,True
+Sierra,regdem_2022,True,590,590,True
+Sierra,regrep_2022,True,986,986,True
+Sierra,regtot_2022,True,2219,2219,True
+Sierra,eligible_2022,True,2673,2673,True
+Sierra,reg_elec_2026,False,2164,2164,True
+Sierra,ballots_2026,True,1531,1531,True
+Sierra,dem_2026,True,580,580,True
+Sierra,rep_2026,True,940,940,True
+Sierra,other_2026,True,0,0,True
+Sierra,govtotal_2026,True,1520,1520,True
+Sierra,regdem_2026,True,531,531,True
+Sierra,regrep_2026,True,1024,1024,True
+Sierra,regtot_2026,True,2164,2164,True
+Sierra,eligible_2026,True,2599,2599,True
+Siskiyou,reg_elec_2022,False,28725,28725,True
+Siskiyou,ballots_2022,True,17907,17907,True
+Siskiyou,dem_2022,True,6326,6326,True
+Siskiyou,rep_2022,True,11397,11397,True
+Siskiyou,other_2022,True,0,0,True
+Siskiyou,govtotal_2022,True,17723,17723,True
+Siskiyou,regdem_2022,True,8351,8351,True
+Siskiyou,regrep_2022,True,11849,11849,True
+Siskiyou,regtot_2022,True,28725,28725,True
+Siskiyou,eligible_2022,True,34986,34986,True
+Siskiyou,reg_elec_2026,False,27669,27669,True
+Siskiyou,ballots_2026,True,17514,17514,True
+Siskiyou,dem_2026,True,7231,7231,True
+Siskiyou,rep_2026,True,10099,10099,True
+Siskiyou,other_2026,True,0,0,True
+Siskiyou,govtotal_2026,True,17330,17330,True
+Siskiyou,regdem_2026,True,7457,7457,True
+Siskiyou,regrep_2026,True,11977,11977,True
+Siskiyou,regtot_2026,True,27669,27669,True
+Siskiyou,eligible_2026,True,34390,34390,True
+Solano,reg_elec_2022,False,260358,260358,True
+Solano,ballots_2022,True,132244,132244,True
+Solano,dem_2022,True,77769,77769,True
+Solano,rep_2022,True,52850,52850,True
+Solano,other_2022,True,0,0,True
+Solano,govtotal_2022,True,130619,130619,True
+Solano,regdem_2022,True,127526,127526,True
+Solano,regrep_2022,True,57257,57257,True
+Solano,regtot_2022,True,260358,260358,True
+Solano,eligible_2022,True,318503,318503,True
+Solano,reg_elec_2026,False,276155,276155,True
+Solano,ballots_2026,True,158750,158750,True
+Solano,dem_2026,True,102758,102758,True
+Solano,rep_2026,True,54222,54222,True
+Solano,other_2026,True,0,0,True
+Solano,govtotal_2026,True,156980,156980,True
+Solano,regdem_2026,True,129356,129356,True
+Solano,regrep_2026,True,64959,64959,True
+Solano,regtot_2026,True,276155,276155,True
+Solano,eligible_2026,True,322450,322450,True
+Sonoma,reg_elec_2022,False,304017,304017,True
+Sonoma,ballots_2022,True,200347,200347,True
+Sonoma,dem_2022,True,140041,140041,True
+Sonoma,rep_2022,True,57413,57413,True
+Sonoma,other_2022,True,0,0,True
+Sonoma,govtotal_2022,True,197454,197454,True
+Sonoma,regdem_2022,True,172675,172675,True
+Sonoma,regrep_2022,True,52709,52709,True
+Sonoma,regtot_2022,True,304017,304017,True
+Sonoma,eligible_2022,True,356905,356905,True
+Sonoma,reg_elec_2026,False,321074,321074,True
+Sonoma,ballots_2026,True,223516,223516,True
+Sonoma,dem_2026,True,166183,166183,True
+Sonoma,rep_2026,True,54481,54481,True
+Sonoma,other_2026,True,0,0,True
+Sonoma,govtotal_2026,True,220664,220664,True
+Sonoma,regdem_2026,True,177514,177514,True
+Sonoma,regrep_2026,True,58423,58423,True
+Sonoma,regtot_2026,True,321074,321074,True
+Sonoma,eligible_2026,True,358474,358474,True
+Stanislaus,reg_elec_2022,False,282393,282393,True
+Stanislaus,ballots_2022,True,132142,132142,True
+Stanislaus,dem_2022,True,55311,55311,True
+Stanislaus,rep_2022,True,75656,75656,True
+Stanislaus,other_2022,True,0,0,True
+Stanislaus,govtotal_2022,True,130967,130967,True
+Stanislaus,regdem_2022,True,109731,109731,True
+Stanislaus,regrep_2022,True,96798,96798,True
+Stanislaus,regtot_2022,True,282393,282393,True
+Stanislaus,eligible_2022,True,363595,363595,True
+Stanislaus,reg_elec_2026,False,301333,301333,True
+Stanislaus,ballots_2026,True,161567,161567,True
+Stanislaus,dem_2026,True,85177,85177,True
+Stanislaus,rep_2026,True,74475,74475,True
+Stanislaus,other_2026,True,0,0,True
+Stanislaus,govtotal_2026,True,159652,159652,True
+Stanislaus,regdem_2026,True,108828,108828,True
+Stanislaus,regrep_2026,True,106862,106862,True
+Stanislaus,regtot_2026,True,301333,301333,True
+Stanislaus,eligible_2026,True,368846,368846,True
+Sutter,reg_elec_2022,False,52896,52896,True
+Sutter,ballots_2022,True,28521,28521,True
+Sutter,dem_2022,True,9082,9082,True
+Sutter,rep_2022,True,19024,19024,True
+Sutter,other_2022,True,0,0,True
+Sutter,govtotal_2022,True,28106,28106,True
+Sutter,regdem_2022,True,16406,16406,True
+Sutter,regrep_2022,True,21229,21229,True
+Sutter,regtot_2022,True,52896,52896,True
+Sutter,eligible_2022,True,65666,65666,True
+Sutter,reg_elec_2026,False,55200,55200,True
+Sutter,ballots_2026,True,31708,31708,True
+Sutter,dem_2026,True,13733,13733,True
+Sutter,rep_2026,True,17617,17617,True
+Sutter,other_2026,True,0,0,True
+Sutter,govtotal_2026,True,31350,31350,True
+Sutter,regdem_2026,True,16036,16036,True
+Sutter,regrep_2026,True,22873,22873,True
+Sutter,regtot_2026,True,55200,55200,True
+Sutter,eligible_2026,True,67483,67483,True
+Tehama,reg_elec_2022,False,37131,37131,True
+Tehama,ballots_2022,True,20819,20819,True
+Tehama,dem_2022,True,5024,5024,True
+Tehama,rep_2022,True,15607,15607,True
+Tehama,other_2022,True,0,0,True
+Tehama,govtotal_2022,True,20631,20631,True
+Tehama,regdem_2022,True,8764,8764,True
+Tehama,regrep_2022,True,17465,17465,True
+Tehama,regtot_2022,True,37131,37131,True
+Tehama,eligible_2022,True,46966,46966,True
+Tehama,reg_elec_2026,False,37275,37275,True
+Tehama,ballots_2026,True,21682,21682,True
+Tehama,dem_2026,True,6854,6854,True
+Tehama,rep_2026,True,14645,14645,True
+Tehama,other_2026,True,0,0,True
+Tehama,govtotal_2026,True,21499,21499,True
+Tehama,regdem_2026,True,8199,8199,True
+Tehama,regrep_2026,True,18666,18666,True
+Tehama,regtot_2026,True,37275,37275,True
+Tehama,eligible_2026,True,46764,46764,True
+Trinity,reg_elec_2022,False,7309,7309,True
+Trinity,ballots_2022,True,4608,4608,True
+Trinity,dem_2022,True,1860,1860,True
+Trinity,rep_2022,True,2667,2667,True
+Trinity,other_2022,True,0,0,True
+Trinity,govtotal_2022,True,4527,4527,True
+Trinity,regdem_2022,True,2299,2299,True
+Trinity,regrep_2022,True,2659,2659,True
+Trinity,regtot_2022,True,7309,7309,True
+Trinity,eligible_2022,True,13168,13168,True
+Trinity,reg_elec_2026,False,7600,7600,True
+Trinity,ballots_2026,True,4787,4787,True
+Trinity,dem_2026,True,2217,2217,True
+Trinity,rep_2026,True,2489,2489,True
+Trinity,other_2026,True,0,0,True
+Trinity,govtotal_2026,True,4706,4706,True
+Trinity,regdem_2026,True,2175,2175,True
+Trinity,regrep_2026,True,2936,2936,True
+Trinity,regtot_2026,True,7600,7600,True
+Trinity,eligible_2026,True,13001,13001,True
+Tulare,reg_elec_2022,False,208863,208863,True
+Tulare,ballots_2022,True,92404,92404,True
+Tulare,dem_2022,True,33273,33273,True
+Tulare,rep_2022,True,58053,58053,True
+Tulare,other_2022,True,0,0,True
+Tulare,govtotal_2022,True,91326,91326,True
+Tulare,regdem_2022,True,69963,69963,True
+Tulare,regrep_2022,True,77554,77554,True
+Tulare,regtot_2022,True,208863,208863,True
+Tulare,eligible_2022,True,287885,287885,True
+Tulare,reg_elec_2026,False,228685,228685,True
+Tulare,ballots_2026,True,117326,117326,True
+Tulare,dem_2026,True,58276,58276,True
+Tulare,rep_2026,True,58160,58160,True
+Tulare,other_2026,True,0,0,True
+Tulare,govtotal_2026,True,116436,116436,True
+Tulare,regdem_2026,True,72541,72541,True
+Tulare,regrep_2026,True,85386,85386,True
+Tulare,regtot_2026,True,228685,228685,True
+Tulare,eligible_2026,True,296830,296830,True
+Tuolumne,reg_elec_2022,False,35355,35355,True
+Tuolumne,ballots_2022,True,23482,23482,True
+Tuolumne,dem_2022,True,8471,8471,True
+Tuolumne,rep_2022,True,14759,14759,True
+Tuolumne,other_2022,True,0,0,True
+Tuolumne,govtotal_2022,True,23230,23230,True
+Tuolumne,regdem_2022,True,10273,10273,True
+Tuolumne,regrep_2022,True,15551,15551,True
+Tuolumne,regtot_2022,True,35355,35355,True
+Tuolumne,eligible_2022,True,43682,43682,True
+Tuolumne,reg_elec_2026,False,35784,35784,True
+Tuolumne,ballots_2026,True,24022,24022,True
+Tuolumne,dem_2026,True,9670,9670,True
+Tuolumne,rep_2026,True,14094,14094,True
+Tuolumne,other_2026,True,0,0,True
+Tuolumne,govtotal_2026,True,23764,23764,True
+Tuolumne,regdem_2026,True,9699,9699,True
+Tuolumne,regrep_2026,True,16537,16537,True
+Tuolumne,regtot_2026,True,35784,35784,True
+Tuolumne,eligible_2026,True,41024,41024,True
+Ventura,reg_elec_2022,False,505110,505110,True
+Ventura,ballots_2022,True,284013,284013,True
+Ventura,dem_2022,True,153226,153226,True
+Ventura,rep_2022,True,127709,127709,True
+Ventura,other_2022,True,0,0,True
+Ventura,govtotal_2022,True,280935,280935,True
+Ventura,regdem_2022,True,220831,220831,True
+Ventura,regrep_2022,True,141866,141866,True
+Ventura,regtot_2022,True,505110,505110,True
+Ventura,eligible_2022,True,584861,584861,True
+Ventura,reg_elec_2026,False,525136,525136,True
+Ventura,ballots_2026,True,330335,330335,True
+Ventura,dem_2026,True,202234,202234,True
+Ventura,rep_2026,True,124753,124753,True
+Ventura,other_2026,True,0,0,True
+Ventura,govtotal_2026,True,326987,326987,True
+Ventura,regdem_2026,True,223879,223879,True
+Ventura,regrep_2026,True,150095,150095,True
+Ventura,regtot_2026,True,525136,525136,True
+Ventura,eligible_2026,True,577830,577830,True
+Yolo,reg_elec_2022,False,118797,118797,True
+Yolo,ballots_2022,True,68794,68794,True
+Yolo,dem_2022,True,44328,44328,True
+Yolo,rep_2022,True,22807,22807,True
+Yolo,other_2022,True,0,0,True
+Yolo,govtotal_2022,True,67135,67135,True
+Yolo,regdem_2022,True,60978,60978,True
+Yolo,regrep_2022,True,23430,23430,True
+Yolo,regtot_2022,True,118797,118797,True
+Yolo,eligible_2022,True,155109,155109,True
+Yolo,reg_elec_2026,False,123012,123012,True
+Yolo,ballots_2026,True,81206,81206,True
+Yolo,dem_2026,True,58385,58385,True
+Yolo,rep_2026,True,21620,21620,True
+Yolo,other_2026,True,0,0,True
+Yolo,govtotal_2026,True,80005,80005,True
+Yolo,regdem_2026,True,61505,61505,True
+Yolo,regrep_2026,True,24925,24925,True
+Yolo,regtot_2026,True,123012,123012,True
+Yolo,eligible_2026,True,157289,157289,True
+Yuba,reg_elec_2022,False,41212,41212,True
+Yuba,ballots_2022,True,19886,19886,True
+Yuba,dem_2022,True,6534,6534,True
+Yuba,rep_2022,True,13097,13097,True
+Yuba,other_2022,True,0,0,True
+Yuba,govtotal_2022,True,19631,19631,True
+Yuba,regdem_2022,True,11805,11805,True
+Yuba,regrep_2022,True,16175,16175,True
+Yuba,regtot_2022,True,41212,41212,True
+Yuba,eligible_2022,True,56463,56463,True
+Yuba,reg_elec_2026,False,46923,46923,True
+Yuba,ballots_2026,True,24213,24213,True
+Yuba,dem_2026,True,10436,10436,True
+Yuba,rep_2026,True,13502,13502,True
+Yuba,other_2026,True,0,0,True
+Yuba,govtotal_2026,True,23938,23938,True
+Yuba,regdem_2026,True,13041,13041,True
+Yuba,regrep_2026,True,18959,18959,True
+Yuba,regtot_2026,True,46923,46923,True
+Yuba,eligible_2026,True,60666,60666,True

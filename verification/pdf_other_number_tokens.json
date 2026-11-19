@@ -1,0 +1,578 @@
+[
+ {
+  "line": 1,
+  "token": "58",
+  "context": "California 58 Counties \u2014",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 1,
+  "token": "2022",
+  "context": "Votes and Total Ballots, 2022 vs 2026*",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 1,
+  "token": "2026",
+  "context": "d Total Ballots, 2022 vs 2026*",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 2,
+  "token": "2026",
+  "context": "Sorted by 2026 Democratic",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 2,
+  "token": "15",
+  "context": "Total Registered, CA SOS 15-day Report",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 2,
+  "token": "19,",
+  "context": "gistration as of October 19, 2026), high",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 2,
+  "token": "2026",
+  "context": "ration as of October 19, 2026), highest f",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 5,
+  "token": "2026",
+  "context": "*2026 figures are",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 5,
+  "token": "19,",
+  "context": "statewide as of November 19, 2026, 1:59",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 5,
+  "token": "2026,",
+  "context": "ewide as of November 19, 2026, 1:59 p.m. P",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 5,
+  "token": "1",
+  "context": "as of November 19, 2026, 1:59 p.m. PT;",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 5,
+  "token": "59",
+  "context": "of November 19, 2026, 1:59 p.m. PT; re",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 5,
+  "token": "19,",
+  "context": ". PT; retrieved November 19, 2026; SOS c",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 5,
+  "token": "2026",
+  "context": "; retrieved November 19, 2026; SOS certif",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 5,
+  "token": "11,",
+  "context": "; SOS certifies December 11,",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 6,
+  "token": "2026",
+  "context": "2026). 2022 vote",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 6,
+  "token": "2022",
+  "context": "2026). 2022 votes and b",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 6,
+  "token": "2022",
+  "context": "2 votes and ballots: SOS 2022 Statement o",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 6,
+  "token": "15",
+  "context": "fied). Registration: SOS 15-day Reports",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 6,
+  "token": "24,",
+  "context": "gistration as of October 24, 2022 and Oc",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 6,
+  "token": "2022",
+  "context": "ration as of October 24, 2022 and October",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 6,
+  "token": "19,",
+  "context": "ber 24, 2022 and October 19, 2026 (close",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 6,
+  "token": "2026",
+  "context": "24, 2022 and October 19, 2026 (close of r",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 8,
+  "token": "2022",
+  "context": "c registration rose from 2022 (row shaded",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 10,
+  "token": "2022",
+  "context": "Dem Reg    Dem Reg 2022 Dem Reg 202",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 10,
+  "token": "2026",
+  "context": "Dem Reg 2022 Dem Reg 2026 Reg Change",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 12,
+  "token": "2026",
+  "context": "Share 2026 %   (Oct 24",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 12,
+  "token": "24",
+  "context": "Share 2026 %   (Oct 24)     (Oct 1",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 12,
+  "token": "19",
+  "context": "26 %   (Oct 24)     (Oct 19)        #",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 12,
+  "token": "2022",
+  "context": "#          %         2022         202",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 12,
+  "token": "2026",
+  "context": "%         2022         2026*",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 12,
+  "token": "2022",
+  "context": "26*           #      (on 2022 base)   202",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 12,
+  "token": "2022",
+  "context": "#      (on 2022 base)   2022",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 12,
+  "token": "2026",
+  "context": "2026*",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 50,
+  "token": "2026",
+  "context": "*2026 figures UNO",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 50,
+  "token": "1",
+  "context": "Page 1 of 4",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 50,
+  "token": "4",
+  "context": "Page 1 of 4",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 51,
+  "token": "2022",
+  "context": "Dem Reg    Dem Reg 2022 Dem Reg 202",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 51,
+  "token": "2026",
+  "context": "Dem Reg 2022 Dem Reg 2026 Reg Change",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 53,
+  "token": "2026",
+  "context": "Share 2026 %   (Oct 24",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 53,
+  "token": "24",
+  "context": "Share 2026 %   (Oct 24)     (Oct 1",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 53,
+  "token": "19",
+  "context": "26 %   (Oct 24)     (Oct 19)        #",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 53,
+  "token": "2022",
+  "context": "#          %         2022         202",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 53,
+  "token": "2026",
+  "context": "%         2022         2026*",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 53,
+  "token": "2022",
+  "context": "26*           #      (on 2022 base)   202",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 53,
+  "token": "2022",
+  "context": "#      (on 2022 base)   2022",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 53,
+  "token": "2026",
+  "context": "2022                   2026*",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 83,
+  "token": "2026",
+  "context": "*2026 figures UNO",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 83,
+  "token": "2",
+  "context": "Page 2 of 4",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 83,
+  "token": "4",
+  "context": "Page 2 of 4",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 84,
+  "token": "2022",
+  "context": "c Share of Registration, 2022 vs 2026*",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 84,
+  "token": "2026",
+  "context": "of Registration, 2022 vs 2026*",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 85,
+  "token": "2026",
+  "context": "Sorted by 2026 Democratic",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 85,
+  "token": "15",
+  "context": "Total Registered, CA SOS 15-day Report",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 85,
+  "token": "19,",
+  "context": "gistration as of October 19, 2026),",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 85,
+  "token": "2026",
+  "context": "ration as of October 19, 2026),",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 88,
+  "token": "2026",
+  "context": "*2026 figures are",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "19,",
+  "context": "November 19, 2026, 1:59",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "2026,",
+  "context": "November 19, 2026, 1:59 p.m. P",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "1",
+  "context": "November 19, 2026, 1:59 p.m. PT;",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "59",
+  "context": "November 19, 2026, 1:59 p.m. PT; re",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "19,",
+  "context": ". PT; retrieved November 19, 2026; SOS c",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "2026",
+  "context": "; retrieved November 19, 2026; SOS certif",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "11,",
+  "context": "; SOS certifies December 11, 2026). 2022",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "2026",
+  "context": "S certifies December 11, 2026). 2022 vote",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "2022",
+  "context": "fies December 11, 2026). 2022 votes and b",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 89,
+  "token": "2022",
+  "context": "2 votes and ballots: SOS 2022 Statement o",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 90,
+  "token": "15",
+  "context": "Registration: SOS 15-day Reports",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 90,
+  "token": "24,",
+  "context": "gistration as of October 24, 2022 and Oc",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 90,
+  "token": "2022",
+  "context": "ration as of October 24, 2022 and October",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 90,
+  "token": "19,",
+  "context": "ber 24, 2022 and October 19, 2026 (close",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 90,
+  "token": "2026",
+  "context": "24, 2022 and October 19, 2026 (close of r",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 99,
+  "token": "2026",
+  "context": "oted.     Change (pts) = 2026 share",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 100,
+  "token": "2022",
+  "context": "minus 2022 share, in p",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 103,
+  "token": "2022",
+  "context": "hange (pts) Registration 2022",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 103,
+  "token": "2026",
+  "context": "Registration 2026",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 104,
+  "token": "2022",
+  "context": "Ballots 2022 % Ballots 2",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 104,
+  "token": "2026",
+  "context": "Ballots 2022 % Ballots 2026* %",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 104,
+  "token": "2022",
+  "context": "2022 (Oct 24)",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 104,
+  "token": "24",
+  "context": "2022 (Oct 24)",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 104,
+  "token": "2026",
+  "context": "24)                      2026 (Oct 19)",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 104,
+  "token": "19",
+  "context": "2026 (Oct 19)",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 133,
+  "token": "2026",
+  "context": "*2026 figures UNO",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 133,
+  "token": "3",
+  "context": "Page 3 of 4",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 133,
+  "token": "4",
+  "context": "Page 3 of 4",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 136,
+  "token": "2022",
+  "context": "hange (pts) Registration 2022",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 136,
+  "token": "2026",
+  "context": "Registration 2026",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 137,
+  "token": "2022",
+  "context": "Ballots 2022 % Ballots 2",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 137,
+  "token": "2026",
+  "context": "Ballots 2022 % Ballots 2026* %",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 137,
+  "token": "2022",
+  "context": "2022 (Oct 24)",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 137,
+  "token": "24",
+  "context": "2022 (Oct 24)",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 137,
+  "token": "2026",
+  "context": "24)                      2026 (Oct 19)",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 137,
+  "token": "19",
+  "context": "2026 (Oct 19)",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 172,
+  "token": "2026",
+  "context": "*2026 figures UNO",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 172,
+  "token": "4",
+  "context": "Page 4 of 4",
+  "classified": "label/date/page"
+ },
+ {
+  "line": 172,
+  "token": "4",
+  "context": "Page 4 of 4",
+  "classified": "label/date/page"
+ }
+]

@@ -1,0 +1,431 @@
+{
+ "statewide": {
+  "2022_gov_state_totals": {
+   "dem": 6470104,
+   "rep": 4462914
+  },
+  "2022_participation_state_total": {
+   "eligible": 26876800,
+   "registered": 21940274,
+   "total_voters": 11146620
+  },
+  "2026_gov_statewide_records": {
+   "alameda": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "alpine": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "amador": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "butte": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "calaveras": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "colusa": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "contra-costa": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "del-norte": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "el-dorado": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "fresno": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "glenn": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "humboldt": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "imperial": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "inyo": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "kern": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "kings": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "lake": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "lassen": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "los-angeles": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "madera": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "marin": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "mariposa": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "mendocino": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "merced": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "modoc": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "mono": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "monterey": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "napa": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "nevada": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "orange": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "placer": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "plumas": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "riverside": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "sacramento": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "san-benito": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "san-bernardino": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "san-diego": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "san-francisco": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "san-joaquin": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "san-luis-obispo": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "san-mateo": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "santa-barbara": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "santa-clara": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "santa-cruz": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "shasta": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "sierra": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "siskiyou": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "solano": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "sonoma": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "stanislaus": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "sutter": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "tehama": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "trinity": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "tulare": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "tuolumne": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "ventura": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "yolo": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   },
+   "yuba": {
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "Dem": 8669071,
+    "Rep": 4542458
+   }
+  },
+  "2026_status_keys": [
+   "alameda",
+   "alpine",
+   "amador",
+   "butte",
+   "calaveras",
+   "colusa",
+   "contra-costa",
+   "del-norte",
+   "el-dorado",
+   "fresno",
+   "glenn",
+   "humboldt",
+   "imperial",
+   "inyo",
+   "kern",
+   "kings",
+   "lake",
+   "lassen",
+   "los-angeles",
+   "madera",
+   "marin",
+   "mariposa",
+   "mendocino",
+   "merced",
+   "modoc",
+   "mono",
+   "monterey",
+   "napa",
+   "nevada",
+   "orange",
+   "placer",
+   "plumas",
+   "riverside",
+   "sacramento",
+   "san-benito",
+   "san-bernardino",
+   "san-diego",
+   "san-francisco",
+   "san-joaquin",
+   "san-luis-obispo",
+   "san-mateo",
+   "santa-barbara",
+   "santa-clara",
+   "santa-cruz",
+   "shasta",
+   "sierra",
+   "siskiyou",
+   "solano",
+   "sonoma",
+   "stanislaus",
+   "statewide",
+   "sutter",
+   "tehama",
+   "trinity",
+   "tulare",
+   "tuolumne",
+   "ventura",
+   "yolo",
+   "yuba"
+  ],
+  "2026_status_statewide": {
+   "voterTurnout": "13422913",
+   "totalRegisteredVoters": "23273590",
+   "reportType": "SF",
+   "timestamp": "November 19, 2026, 1:59 p.m."
+  },
+  "2026_gov": {
+   "ReportingTime": "November 19, 2026, 1:59 p.m.",
+   "Dem": 8669071,
+   "Rep": 4542458
+  },
+  "ror_2022_state_total": {
+   "elig": 26876800,
+   "tot": 21940274,
+   "dem": 10283258,
+   "rep": 5232094,
+   "parties": 21940274
+  },
+  "ror_2026_state_total": {
+   "elig": 27168679,
+   "tot": 23273590,
+   "dem": 10464099,
+   "rep": 5746921,
+   "parties": 23273590
+  },
+  "sums": {
+   "reg_elec_2022": 21940274,
+   "ballots_2022": 11146620,
+   "dem_2022": 6470104,
+   "rep_2022": 4462914,
+   "other_2022": 0,
+   "govtotal_2022": 10933018,
+   "regdem_2022": 10283258,
+   "regrep_2022": 5232094,
+   "regtot_2022": 21940274,
+   "eligible_2022": 26876800,
+   "reg_elec_2026": 23273590,
+   "ballots_2026": 13422913,
+   "dem_2026": 8669071,
+   "rep_2026": 4542458,
+   "other_2026": 0,
+   "govtotal_2026": 13211529,
+   "regdem_2026": 10464099,
+   "regrep_2026": 5746921,
+   "regtot_2026": 23273590,
+   "eligible_2026": 27168679
+  }
+ },
+ "county_sum_equals_file_total": {
+  "2022_dem": true,
+  "2022_rep": true,
+  "2022_ballots": true,
+  "2022_reg_elec": true,
+  "2026_dem": true,
+  "2026_ballots": true,
+  "2026_reg_elec": true,
+  "2026_rep": true,
+  "ror2022_regdem": true,
+  "ror2022_regrep": true,
+  "ror2022_regtot": true,
+  "ror2022_eligible": true,
+  "ror2026_regdem": true,
+  "ror2026_regrep": true,
+  "ror2026_regtot": true,
+  "ror2026_eligible": true
+ }
+}

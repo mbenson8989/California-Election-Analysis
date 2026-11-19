@@ -1,0 +1,48 @@
+{
+ "pdf": "California_58_County_Democratic_Registration_and_Vote_Change.pdf",
+ "pages": 4,
+ "page_numbers_ok": true,
+ "rows_found": {
+  "Registration and Votes": 59,
+  "Dem Vote Share": 59
+ },
+ "rows_complete": {
+  "1": true,
+  "2": true
+ },
+ "sort_order_ok": {
+  "1": true,
+  "2": true
+ },
+ "cells_checked": 1180,
+ "cells_matched": 1180,
+ "mismatches": [],
+ "other_number_tokens": 96,
+ "untraced_tokens": [],
+ "statewide_row": {
+  "Dem Reg Share 2026 %": "45.0%",
+  "Dem Reg 2022": "10,283,258",
+  "Dem Reg 2026": "10,464,099",
+  "Reg Change #": "+180,841",
+  "Reg Change %": "+1.8%",
+  "Dem Gov Votes 2022": "6,470,104",
+  "Dem Gov Votes 2026*": "8,669,071",
+  "Vote Change #": "+2,198,967",
+  "Vote Change %": "+34.0%",
+  "Total Ballots 2022": "11,146,620",
+  "Total Ballots 2026*": "13,422,913",
+  "Ballot Change #": "+2,276,293",
+  "Ballot Change %": "+20.4%"
+ },
+ "statewide_row_sheet2": {
+  "Dem Share of Ballots 2022 %": "58.0%",
+  "Dem Share of Ballots 2026* %": "64.6%",
+  "Change (pts)": "+6.54",
+  "Dem Share of Registration 2022 %": "46.9%",
+  "Total Registered 2022": "21,940,274",
+  "Dem Share of Registration 2026 %": "45.0%",
+  "Total Registered 2026": "23,273,590"
+ },
+ "method": "raw files re-parsed by pass_a.py and pass_b.py (independent parsers); exact fractions, half-up rounding to displayed decimals; PDF text via pdftotext -layout",
+ "PUBLISHABLE": true
+}

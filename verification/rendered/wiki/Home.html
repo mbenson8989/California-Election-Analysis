@@ -1,0 +1,102 @@
+<blockquote>
+<p><strong>*2026 figures are UNOFFICIAL.</strong> The California Secretary of State (SOS) results site, electionresults.sos.ca.gov, labels the November 3, 2026 general election results "Unofficial" (semi-final unofficial results with county updates; statewide figures as of November 19, 2026, 1:59 p.m. Pacific; pulled November 19, 2026). Counties are still in the canvass: the SOS Unprocessed Ballots Report (as of 11/18/2026 5:33 p.m.) estimated 100,313 ballots statewide still to process, plus 96,238 ballots left to cure. Counties must report final official results by December 4, 2026, and the SOS certifies on December 11, 2026, so these pages need a re-run after certification. 2022 figures are the certified Statement of Vote (certificate dated the 16th day of December, 2022). <strong>P</strong> = Democratic share of registered voters in the SOS 15-day Report of Registration (close of registration: as of October 24, 2022 and as of October 19, 2026). Governor race only. Votes are votes for the Democratic candidate, not a count of registered Democrats who voted. These pages measure a pattern; they make no claim about intent, fraud or cause.</p>
+</blockquote>
+<p>Method developed by Morissa Benson (CD3 Vice Chair, Nebraska GOP). It began with her <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit</a> on the <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki">Nebraska Election Analysis wiki</a>. That audit is where the ΔG method and the reverse step come from. This wiki applies the same arithmetic to all 58 California counties. California has party registration, so it uses the registration baseline, as the Nevada, North Carolina, Kansas and Pennsylvania analyses do. Data: California Secretary of State Statement of Vote, Reports of Registration and election-night results (<a href="https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-nov-8-2022/statement-vote" rel="nofollow">sos.ca.gov</a>, <a href="https://www.sos.ca.gov/elections/report-registration/15day-general-2026" rel="nofollow">Report of Registration</a>, <a href="https://electionresults.sos.ca.gov/" rel="nofollow">electionresults.sos.ca.gov</a>). Population (sort order only) comes from the U.S. Census Bureau. Compiled November 19, 2026. Code and data: <a href="https://github.com/mbenson8989/California-Election-Analysis">California-Election-Analysis</a>.</p>
+<h2>Pages</h2>
+<ol>
+<li><a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit</a> (Nebraska wiki): where the method started</li>
+<li><a href="Reverse-Math">Bottom-Up Reverse Math</a>: Colusa (the ceiling county), the five largest counties, then all counties, solved backward for implied extra votes</li>
+<li><a href="Locked-California-Formula">Locked California Formula</a>: the California fitted equation, a blank template, a worked example and the California-only constants</li>
+<li><a href="Floor-and-Ceiling">Floor and Ceiling Counties</a>: the floor and ceiling counties, the counties narrowed out of the fit, and the over-ballot check</li>
+<li><a href="Graphs">Graphs</a>: slope chart, ΔG by population, the ΔS and ΔP components, forward fit, residuals and the over-ballot check</li>
+<li><a href="California-County-PDF-Information">California County PDF Information</a>: the county PDF (download), what each column means, and its cell-by-cell check</li>
+</ol>
+<h2>Statewide at a glance</h2>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Measure</th>
+<th>2022</th>
+<th>2026*</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Democratic registered voters (15-day report)</td>
+<td>10,283,258</td>
+<td>10,464,099</td>
+<td>+180,841</td>
+</tr>
+<tr>
+<td>Total registered voters (15-day report)</td>
+<td>21,940,274</td>
+<td>23,273,590</td>
+<td>+1,333,316</td>
+</tr>
+<tr>
+<td><strong>P</strong>: Democratic share of registration</td>
+<td>46.87%</td>
+<td>44.96%</td>
+<td>−1.91 pts</td>
+</tr>
+<tr>
+<td>Democratic governor votes</td>
+<td>6,470,104</td>
+<td>8,669,071</td>
+<td>+2,198,967</td>
+</tr>
+<tr>
+<td>Republican governor votes</td>
+<td>4,462,914</td>
+<td>4,542,458</td>
+<td>+79,544</td>
+</tr>
+<tr>
+<td>Total ballots cast</td>
+<td>11,146,620</td>
+<td>13,422,913</td>
+<td>+2,276,293</td>
+</tr>
+<tr>
+<td><strong>S</strong>: Democratic share of ballots cast</td>
+<td>58.05%</td>
+<td>64.58%</td>
+<td>+6.54 pts</td>
+</tr>
+<tr>
+<td><strong>G</strong> = S − P</td>
+<td>+11.18</td>
+<td>+19.62</td>
+<td>ΔG +8.45</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<p>Candidates (top-two general election): 2022 Gavin Newsom (DEM, incumbent) and Brian Dahle (REP). 2026* Xavier Becerra (DEM) and Steve Hilton (REP). Write-in votes are not in the SOS county tables used here.</p>
+<h2>County results in brief</h2>
+<ul>
+<li><strong>Democratic registration share P fell in 57 of 58 counties</strong> (statewide 46.87% to 44.96%). The Democratic registration <em>count</em> fell in 25 counties and rose statewide by +180,841; total registration rose +1,333,316.</li>
+<li><strong>The Democratic share of ballots (S) rose in 57 of 58 counties.</strong> County ΔS ranges from −1.19* (San Francisco) to +15.65* (Colusa), median +6.75*.</li>
+<li><strong>ΔG is positive in 57 counties and negative in 1</strong> (San Francisco). County median +8.08*; range −0.34* (San Francisco) to +16.75* (Colusa). Statewide ΔG = +8.45*: S rose +6.54* points and P fell 1.91 points.</li>
+<li><strong>Ceiling counties</strong> (five largest ΔG): Colusa (+16.75*), Merced (+16.69*), Tulare (+15.44*), Kings (+15.10*), Kern (+15.07*). <strong>Floor counties</strong> (most Republican baseline, five lowest 2022 P): Lassen (17.04%), Modoc (20.32%), Shasta (22.70%), Tehama (23.60%), Calaveras (26.51%). No county is in both groups. See <a href="Floor-and-Ceiling">Floor and Ceiling Counties</a>.</li>
+<li><strong>Residual step:</strong> the 25 counties whose Democratic registration count fell run it. Residuals range from +3.02* (Calaveras) to +12.75* (Kings), median +6.09*. The other 33 counties (including Los Angeles, San Diego and Orange) gained or kept Democratic registrants and are non-loss counties.</li>
+<li><strong>Solved backward (hypothesis):</strong> implied extra votes sum to +876,786* across the 58 counties (+877,683* on pooled statewide numbers); Los Angeles accounts for +180,569*. See <a href="Reverse-Math">Bottom-Up Reverse Math</a>.</li>
+<li><strong>California fitted equation (Locked page):</strong> ΔG = +6.09 + 1.53 × (Democratic registration-share drop, points), R² 0.13. See <a href="Locked-California-Formula#california-fitted-equation-final">Locked California Formula</a>.</li>
+<li><strong>Over-ballot check:</strong> in both years, no county has more ballots cast than registered voters on the 15-day report, none has more ballots than eligible residents, none has more registered voters than eligible residents, and none has Democratic + Republican governor votes above ballots cast. The tightest margin is Alpine (4 ballots without a governor vote in 2022, 6 in 2026*). <strong>No over-ballot flags.</strong></li>
+</ul>
+<h2>Verification: two independent passes over the raw SOS files</h2>
+<ul>
+<li><strong>Pass A</strong> read structured files with structured parsers: the 2022 Statement of Vote governor table (<code class="notranslate">19-governor.xlsx</code>), the SOV Voter Participation Statistics by County PDF (word geometry with pdfplumber), the 2026 results site's own data API JSON (governor by county; County Reporting Status), and the 15-day Report of Registration <code class="notranslate">county.xlsx</code> for each year.</li>
+<li><strong>Pass B</strong> used separate code on different artifacts, text and regex only: the SOV governor <strong>PDF</strong>, the participation PDF as plain text, the <strong>rendered</strong> 2026 results pages a reader sees (each county's governor page and the County Reporting Status table), and the Report of Registration <strong>PDFs</strong>.</li>
+<li><strong>Result:</strong> 1,160 figure comparisons (58 counties × 20 figures). <strong>1,160 matched, 0 mismatched.</strong> Every statewide sum matched the SOS's own published statewide total (14 of 14), and the fitted equation and every county's inputs to it agreed in both passes (122 checks).</li>
+<li><strong>Every number on these pages</strong> was recomputed from the raw files through both passes and matched as displayed (see <code class="notranslate">verification/wiki_number_check.csv</code>). <strong>Every cell of the county PDF</strong> (1,180 cells) was recomputed from the raw files and matched the printed value (1,180 of 1,180).</li>
+</ul>
+<h2>Read this before using the numbers</h2>
+<ul>
+<li><strong>2026 is UNOFFICIAL and incomplete.</strong> Ballots were still being processed when these figures were pulled. Every 2026 figure carries an asterisk and will change before certification.</li>
+<li><strong>Registration date.</strong> P uses the 15-day Report of Registration, the SOS's close-of-registration snapshot for each general election. California has same-day (conditional) voter registration, so people who registered after the 15-day report could still vote; the 15-day count is a baseline, not the final roll.</li>
+<li><strong>Ballots cast</strong> is the county's total ballots cast in the election (SOV "Total Voters" in 2022; "Ballots Cast" on the County Reporting Status page in 2026*), not governor votes. Ballots without a governor vote stay in the denominator of S.</li>
+<li><strong>No other state's constant is used.</strong> All fitted values on these pages come from California's own counties.</li>
+</ul>
+<hr>
+<p><strong>Related:</strong> <a href="Reverse-Math">Bottom-Up Reverse Math</a> · <a href="Locked-California-Formula">Locked California Formula</a> · <a href="Floor-and-Ceiling">Floor and Ceiling Counties</a> · <a href="Graphs">Graphs</a> · <a href="California-County-PDF-Information">California County PDF Information</a> · <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit (Nebraska)</a></p>

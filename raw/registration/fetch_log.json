@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://elections.cdn.sos.ca.gov/ror/15day-general-2022/county.xlsx",
+  "file": "ROR_15day_general_2022_county.xlsx",
+  "status": 200,
+  "bytes": 29923,
+  "sha256": "42bd6f8e3b4268e0bf0ae992f8c25f51a6527e08c84a463f3c1444f9d248dba0",
+  "fetched": "2026-11-19T16:55:01-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/ror/15day-general-2022/county.pdf",
+  "file": "ROR_15day_general_2022_county.pdf",
+  "status": 200,
+  "bytes": 635578,
+  "sha256": "b7ffe88f852edbf872c1f6aa726018b8f737fb094339be2515fde04367b0ca55",
+  "fetched": "2026-11-19T16:55:02-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/ror/15day-gen-2026/county.xlsx",
+  "file": "ROR_15day_general_2026_county.xlsx",
+  "status": 200,
+  "bytes": 30388,
+  "sha256": "0321b3291aeacf9fca6f1998ea74986effc675a0e52a8e055be2dbc81efd79e6",
+  "fetched": "2026-11-19T16:55:02-06:00"
+ },
+ {
+  "url": "https://elections.cdn.sos.ca.gov/ror/15day-gen-2026/county.pdf",
+  "file": "ROR_15day_general_2026_county.pdf",
+  "status": 200,
+  "bytes": 139261,
+  "sha256": "7bf3c55457a4e4fcbca96e4dfcfc7f6b086aaadacc2c2c9aa085f279c4817a44",
+  "fetched": "2026-11-19T16:55:02-06:00"
+ }
+]

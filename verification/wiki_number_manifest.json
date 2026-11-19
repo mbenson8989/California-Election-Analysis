@@ -1,0 +1,6530 @@
+[
+{
+"page": "Home",
+"key": "raw|unproc_remaining",
+"fmt": "i",
+"text": "100,313"
+},
+{
+"page": "Home",
+"key": "raw|unproc_cure",
+"fmt": "i",
+"text": "96,238"
+},
+{
+"page": "Home",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Home",
+"key": "State|regdem_2022",
+"fmt": "i",
+"text": "10,283,258"
+},
+{
+"page": "Home",
+"key": "State|regdem_2026",
+"fmt": "i",
+"text": "10,464,099"
+},
+{
+"page": "Home",
+"key": "State|dreg",
+"fmt": "s",
+"text": "+180,841"
+},
+{
+"page": "Home",
+"key": "State|regtot_2022",
+"fmt": "i",
+"text": "21,940,274"
+},
+{
+"page": "Home",
+"key": "State|regtot_2026",
+"fmt": "i",
+"text": "23,273,590"
+},
+{
+"page": "Home",
+"key": "State|dregtot",
+"fmt": "s",
+"text": "+1,333,316"
+},
+{
+"page": "Home",
+"key": "State|P22",
+"fmt": "p2",
+"text": "46.87%"
+},
+{
+"page": "Home",
+"key": "State|P26",
+"fmt": "p2",
+"text": "44.96%"
+},
+{
+"page": "Home",
+"key": "State|dP",
+"fmt": "g2",
+"text": "\u22121.91"
+},
+{
+"page": "Home",
+"key": "State|dem_2022",
+"fmt": "i",
+"text": "6,470,104"
+},
+{
+"page": "Home",
+"key": "State|dem_2026",
+"fmt": "i",
+"text": "8,669,071"
+},
+{
+"page": "Home",
+"key": "State|ddem",
+"fmt": "s",
+"text": "+2,198,967"
+},
+{
+"page": "Home",
+"key": "State|rep_2022",
+"fmt": "i",
+"text": "4,462,914"
+},
+{
+"page": "Home",
+"key": "State|rep_2026",
+"fmt": "i",
+"text": "4,542,458"
+},
+{
+"page": "Home",
+"key": "State|drep",
+"fmt": "s",
+"text": "+79,544"
+},
+{
+"page": "Home",
+"key": "State|ballots_2022",
+"fmt": "i",
+"text": "11,146,620"
+},
+{
+"page": "Home",
+"key": "State|ballots_2026",
+"fmt": "i",
+"text": "13,422,913"
+},
+{
+"page": "Home",
+"key": "State|dbal",
+"fmt": "s",
+"text": "+2,276,293"
+},
+{
+"page": "Home",
+"key": "State|S22",
+"fmt": "p2",
+"text": "58.05%"
+},
+{
+"page": "Home",
+"key": "State|S26",
+"fmt": "p2",
+"text": "64.58%"
+},
+{
+"page": "Home",
+"key": "State|dS",
+"fmt": "g2",
+"text": "+6.54"
+},
+{
+"page": "Home",
+"key": "State|G22",
+"fmt": "g2",
+"text": "+11.18"
+},
+{
+"page": "Home",
+"key": "State|G26",
+"fmt": "g2",
+"text": "+19.62"
+},
+{
+"page": "Home",
+"key": "State|dG",
+"fmt": "g2",
+"text": "+8.45"
+},
+{
+"page": "Home",
+"key": "n|P_fell",
+"fmt": "i",
+"text": "57"
+},
+{
+"page": "Home",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Home",
+"key": "State|P22",
+"fmt": "p2",
+"text": "46.87%"
+},
+{
+"page": "Home",
+"key": "State|P26",
+"fmt": "p2",
+"text": "44.96%"
+},
+{
+"page": "Home",
+"key": "n|loss",
+"fmt": "i",
+"text": "25"
+},
+{
+"page": "Home",
+"key": "State|dreg",
+"fmt": "s",
+"text": "+180,841"
+},
+{
+"page": "Home",
+"key": "State|dregtot",
+"fmt": "s",
+"text": "+1,333,316"
+},
+{
+"page": "Home",
+"key": "n|S_rose",
+"fmt": "i",
+"text": "57"
+},
+{
+"page": "Home",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Home",
+"key": "San Francisco|dS",
+"fmt": "g2",
+"text": "\u22121.19"
+},
+{
+"page": "Home",
+"key": "Colusa|dS",
+"fmt": "g2",
+"text": "+15.65"
+},
+{
+"page": "Home",
+"key": "stat|median_dS",
+"fmt": "g2",
+"text": "+6.75"
+},
+{
+"page": "Home",
+"key": "n|dG_pos",
+"fmt": "i",
+"text": "57"
+},
+{
+"page": "Home",
+"key": "n|dG_neg",
+"fmt": "i",
+"text": "1"
+},
+{
+"page": "Home",
+"key": "stat|median_dG",
+"fmt": "g2",
+"text": "+8.08"
+},
+{
+"page": "Home",
+"key": "San Francisco|dG",
+"fmt": "g2",
+"text": "\u22120.34"
+},
+{
+"page": "Home",
+"key": "Colusa|dG",
+"fmt": "g2",
+"text": "+16.75"
+},
+{
+"page": "Home",
+"key": "State|dG",
+"fmt": "g2",
+"text": "+8.45"
+},
+{
+"page": "Home",
+"key": "State|dS",
+"fmt": "g2",
+"text": "+6.54"
+},
+{
+"page": "Home",
+"key": "State|drop",
+"fmt": "f2",
+"text": "1.91"
+},
+{
+"page": "Home",
+"key": "Colusa|dG",
+"fmt": "g2",
+"text": "+16.75"
+},
+{
+"page": "Home",
+"key": "Merced|dG",
+"fmt": "g2",
+"text": "+16.69"
+},
+{
+"page": "Home",
+"key": "Tulare|dG",
+"fmt": "g2",
+"text": "+15.44"
+},
+{
+"page": "Home",
+"key": "Kings|dG",
+"fmt": "g2",
+"text": "+15.10"
+},
+{
+"page": "Home",
+"key": "Kern|dG",
+"fmt": "g2",
+"text": "+15.07"
+},
+{
+"page": "Home",
+"key": "Lassen|P22",
+"fmt": "p2",
+"text": "17.04%"
+},
+{
+"page": "Home",
+"key": "Modoc|P22",
+"fmt": "p2",
+"text": "20.32%"
+},
+{
+"page": "Home",
+"key": "Shasta|P22",
+"fmt": "p2",
+"text": "22.70%"
+},
+{
+"page": "Home",
+"key": "Tehama|P22",
+"fmt": "p2",
+"text": "23.60%"
+},
+{
+"page": "Home",
+"key": "Calaveras|P22",
+"fmt": "p2",
+"text": "26.51%"
+},
+{
+"page": "Home",
+"key": "n|loss",
+"fmt": "i",
+"text": "25"
+},
+{
+"page": "Home",
+"key": "Calaveras|residual",
+"fmt": "g2",
+"text": "+3.02"
+},
+{
+"page": "Home",
+"key": "Kings|residual",
+"fmt": "g2",
+"text": "+12.75"
+},
+{
+"page": "Home",
+"key": "stat|median_residual",
+"fmt": "g2",
+"text": "+6.09"
+},
+{
+"page": "Home",
+"key": "n|nonloss",
+"fmt": "i",
+"text": "33"
+},
+{
+"page": "Home",
+"key": "State|implied_sum",
+"fmt": "s",
+"text": "+876,786"
+},
+{
+"page": "Home",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Home",
+"key": "State|implied",
+"fmt": "s",
+"text": "+877,683"
+},
+{
+"page": "Home",
+"key": "Los Angeles|implied",
+"fmt": "s",
+"text": "+180,569"
+},
+{
+"page": "Home",
+"key": "eq|const",
+"fmt": "g2",
+"text": "+6.09"
+},
+{
+"page": "Home",
+"key": "eq|mult",
+"fmt": "f2",
+"text": "1.53"
+},
+{
+"page": "Home",
+"key": "eq|r2",
+"fmt": "f2",
+"text": "0.13"
+},
+{
+"page": "Home",
+"key": "Alpine|margin_DR22",
+"fmt": "i",
+"text": "4"
+},
+{
+"page": "Home",
+"key": "Alpine|margin_DR26",
+"fmt": "i",
+"text": "6"
+},
+{
+"page": "Home",
+"key": "cmp|comparisons",
+"fmt": "i",
+"text": "1,160"
+},
+{
+"page": "Home",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Home",
+"key": "cmp|figures_per_county",
+"fmt": "i",
+"text": "20"
+},
+{
+"page": "Home",
+"key": "cmp|matched",
+"fmt": "i",
+"text": "1,160"
+},
+{
+"page": "Home",
+"key": "cmp|mismatches",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Home",
+"key": "cmp|statewide_ok",
+"fmt": "i",
+"text": "14"
+},
+{
+"page": "Home",
+"key": "cmp|statewide_checks",
+"fmt": "i",
+"text": "14"
+},
+{
+"page": "Home",
+"key": "cmp|fit_checks",
+"fmt": "i",
+"text": "122"
+},
+{
+"page": "Home",
+"key": "cmp|pdf_cells",
+"fmt": "i",
+"text": "1,180"
+},
+{
+"page": "Home",
+"key": "cmp|pdf_matched",
+"fmt": "i",
+"text": "1,180"
+},
+{
+"page": "Home",
+"key": "cmp|pdf_cells",
+"fmt": "i",
+"text": "1,180"
+},
+{
+"page": "Reverse-Math",
+"key": "raw|unproc_remaining",
+"fmt": "i",
+"text": "100,313"
+},
+{
+"page": "Reverse-Math",
+"key": "raw|unproc_cure",
+"fmt": "i",
+"text": "96,238"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|regdem_2022",
+"fmt": "i",
+"text": "3,214"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|regdem_2026",
+"fmt": "i",
+"text": "3,346"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|regtot_2022",
+"fmt": "i",
+"text": "10,144"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|regtot_2026",
+"fmt": "i",
+"text": "10,940"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|P22",
+"fmt": "f2",
+"text": "31.68"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|P26",
+"fmt": "f2",
+"text": "30.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|dem_2022",
+"fmt": "i",
+"text": "1,553"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|dem_2026",
+"fmt": "i",
+"text": "2,682"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|ballots_2022",
+"fmt": "i",
+"text": "5,617"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|ballots_2026",
+"fmt": "i",
+"text": "6,194"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|S22",
+"fmt": "f2",
+"text": "27.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|S26",
+"fmt": "f2",
+"text": "43.30"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|G22",
+"fmt": "g2",
+"text": "\u22124.04"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|G26",
+"fmt": "g2",
+"text": "+12.71"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|G26",
+"fmt": "g2",
+"text": "+12.71"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|G22",
+"fmt": "g2",
+"text": "\u22124.04"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|dG",
+"fmt": "g2",
+"text": "+16.75"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|dS",
+"fmt": "g2",
+"text": "+15.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|dP",
+"fmt": "g2",
+"text": "\u22121.10"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|regdem_2022",
+"fmt": "i",
+"text": "3,214"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|regdem_2026",
+"fmt": "i",
+"text": "3,346"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|P22",
+"fmt": "f2",
+"text": "53.49"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|S22",
+"fmt": "f2",
+"text": "65.94"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|G22",
+"fmt": "g2",
+"text": "+12.45"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|P26",
+"fmt": "f2",
+"text": "51.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|S26",
+"fmt": "f2",
+"text": "71.62"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|G26",
+"fmt": "g2",
+"text": "+20.62"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|dG",
+"fmt": "g2",
+"text": "+8.17"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|P22",
+"fmt": "f2",
+"text": "41.51"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|S22",
+"fmt": "f2",
+"text": "55.02"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|G22",
+"fmt": "g2",
+"text": "+13.51"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|P26",
+"fmt": "f2",
+"text": "40.74"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|S26",
+"fmt": "f2",
+"text": "62.23"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|G26",
+"fmt": "g2",
+"text": "+21.49"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|dG",
+"fmt": "g2",
+"text": "+7.98"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|P22",
+"fmt": "f2",
+"text": "37.55"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|S22",
+"fmt": "f2",
+"text": "46.69"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|G22",
+"fmt": "g2",
+"text": "+9.14"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|P26",
+"fmt": "f2",
+"text": "36.52"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|S26",
+"fmt": "f2",
+"text": "54.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|G26",
+"fmt": "g2",
+"text": "+18.13"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|dG",
+"fmt": "g2",
+"text": "+9.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|P22",
+"fmt": "f2",
+"text": "40.53"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|S22",
+"fmt": "f2",
+"text": "47.14"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|G22",
+"fmt": "g2",
+"text": "+6.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|P26",
+"fmt": "f2",
+"text": "38.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|S26",
+"fmt": "f2",
+"text": "58.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|G26",
+"fmt": "g2",
+"text": "+19.99"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|dG",
+"fmt": "g2",
+"text": "+13.39"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|P22",
+"fmt": "f2",
+"text": "41.31"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|S22",
+"fmt": "f2",
+"text": "46.93"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|G22",
+"fmt": "g2",
+"text": "+5.62"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|P26",
+"fmt": "f2",
+"text": "38.84"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|S26",
+"fmt": "f2",
+"text": "59.03"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|G26",
+"fmt": "g2",
+"text": "+20.19"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|dG",
+"fmt": "g2",
+"text": "+14.57"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|ballots_2026",
+"fmt": "i",
+"text": "3,180,986"
+},
+{
+"page": "Reverse-Math",
+"key": "State|ballots_2026",
+"fmt": "i",
+"text": "13,422,913"
+},
+{
+"page": "Reverse-Math",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Reverse-Math",
+"key": "n|dG_pos",
+"fmt": "i",
+"text": "57"
+},
+{
+"page": "Reverse-Math",
+"key": "n|dG_neg",
+"fmt": "i",
+"text": "1"
+},
+{
+"page": "Reverse-Math",
+"key": "stat|median_dG",
+"fmt": "g2",
+"text": "+8.08"
+},
+{
+"page": "Reverse-Math",
+"key": "State|G22",
+"fmt": "g2",
+"text": "+11.18"
+},
+{
+"page": "Reverse-Math",
+"key": "State|G26",
+"fmt": "g2",
+"text": "+19.62"
+},
+{
+"page": "Reverse-Math",
+"key": "State|dG",
+"fmt": "g2",
+"text": "+8.45"
+},
+{
+"page": "Reverse-Math",
+"key": "n|loss",
+"fmt": "i",
+"text": "25"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|regdem_2022",
+"fmt": "i",
+"text": "20,670"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|regdem_2026",
+"fmt": "i",
+"text": "19,100"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|dP",
+"fmt": "g2",
+"text": "\u22122.35"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|dG",
+"fmt": "g2",
+"text": "+15.10"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|residual",
+"fmt": "g2",
+"text": "+12.75"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|regdem_2022",
+"fmt": "i",
+"text": "4,019"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|regdem_2026",
+"fmt": "i",
+"text": "3,815"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|dP",
+"fmt": "g2",
+"text": "\u22121.20"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|dG",
+"fmt": "g2",
+"text": "+13.02"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|residual",
+"fmt": "g2",
+"text": "+11.82"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|regdem_2022",
+"fmt": "i",
+"text": "16,406"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|regdem_2026",
+"fmt": "i",
+"text": "16,036"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|dP",
+"fmt": "g2",
+"text": "\u22121.96"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|dG",
+"fmt": "g2",
+"text": "+13.43"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|residual",
+"fmt": "g2",
+"text": "+11.47"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|regdem_2022",
+"fmt": "i",
+"text": "109,731"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|regdem_2026",
+"fmt": "i",
+"text": "108,828"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|dP",
+"fmt": "g2",
+"text": "\u22122.74"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|dG",
+"fmt": "g2",
+"text": "+13.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|residual",
+"fmt": "g2",
+"text": "+10.86"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|regdem_2022",
+"fmt": "i",
+"text": "197,395"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|regdem_2026",
+"fmt": "i",
+"text": "197,070"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|dP",
+"fmt": "g2",
+"text": "\u22122.31"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|dG",
+"fmt": "g2",
+"text": "+13.11"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|residual",
+"fmt": "g2",
+"text": "+10.80"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|regdem_2022",
+"fmt": "i",
+"text": "170,362"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|regdem_2026",
+"fmt": "i",
+"text": "168,776"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|dP",
+"fmt": "g2",
+"text": "\u22123.23"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|dG",
+"fmt": "g2",
+"text": "+13.34"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|residual",
+"fmt": "g2",
+"text": "+10.11"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|regdem_2022",
+"fmt": "i",
+"text": "41,600"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|regdem_2026",
+"fmt": "i",
+"text": "40,738"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|dP",
+"fmt": "g2",
+"text": "\u22124.40"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|dG",
+"fmt": "g2",
+"text": "+13.69"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|residual",
+"fmt": "g2",
+"text": "+9.29"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|regdem_2022",
+"fmt": "i",
+"text": "2,515"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|regdem_2026",
+"fmt": "i",
+"text": "2,411"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|dP",
+"fmt": "g2",
+"text": "\u22121.32"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|dG",
+"fmt": "g2",
+"text": "+9.07"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|residual",
+"fmt": "g2",
+"text": "+7.75"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|regdem_2022",
+"fmt": "i",
+"text": "8,764"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|regdem_2026",
+"fmt": "i",
+"text": "8,199"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|dP",
+"fmt": "g2",
+"text": "\u22121.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|dG",
+"fmt": "g2",
+"text": "+9.09"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|residual",
+"fmt": "g2",
+"text": "+7.48"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|regdem_2022",
+"fmt": "i",
+"text": "3,899"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|regdem_2026",
+"fmt": "i",
+"text": "3,491"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|dP",
+"fmt": "g2",
+"text": "\u22121.07"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|dG",
+"fmt": "g2",
+"text": "+8.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|residual",
+"fmt": "g2",
+"text": "+6.93"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|regdem_2022",
+"fmt": "i",
+"text": "43,407"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|regdem_2026",
+"fmt": "i",
+"text": "42,522"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|dP",
+"fmt": "g2",
+"text": "\u22121.68"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|dG",
+"fmt": "g2",
+"text": "+8.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|residual",
+"fmt": "g2",
+"text": "+6.58"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|regdem_2022",
+"fmt": "i",
+"text": "1,056"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|regdem_2026",
+"fmt": "i",
+"text": "925"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|dP",
+"fmt": "g2",
+"text": "\u22122.43"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|dG",
+"fmt": "g2",
+"text": "+8.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|residual",
+"fmt": "g2",
+"text": "+6.18"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|regdem_2022",
+"fmt": "i",
+"text": "25,338"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|regdem_2026",
+"fmt": "i",
+"text": "24,474"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|dP",
+"fmt": "g2",
+"text": "\u22121.56"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|dG",
+"fmt": "g2",
+"text": "+7.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|residual",
+"fmt": "g2",
+"text": "+6.09"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|regdem_2022",
+"fmt": "i",
+"text": "39,399"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|regdem_2026",
+"fmt": "i",
+"text": "38,820"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|dP",
+"fmt": "g2",
+"text": "\u22121.56"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|dG",
+"fmt": "g2",
+"text": "+7.52"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|residual",
+"fmt": "g2",
+"text": "+5.96"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|regdem_2022",
+"fmt": "i",
+"text": "8,351"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|regdem_2026",
+"fmt": "i",
+"text": "7,457"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|dP",
+"fmt": "g2",
+"text": "\u22122.12"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|dG",
+"fmt": "g2",
+"text": "+8.08"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|residual",
+"fmt": "g2",
+"text": "+5.96"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|regdem_2022",
+"fmt": "i",
+"text": "2,299"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|regdem_2026",
+"fmt": "i",
+"text": "2,175"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|dP",
+"fmt": "g2",
+"text": "\u22122.84"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|dG",
+"fmt": "g2",
+"text": "+8.78"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|residual",
+"fmt": "g2",
+"text": "+5.95"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|regdem_2022",
+"fmt": "i",
+"text": "4,505"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|regdem_2026",
+"fmt": "i",
+"text": "4,311"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|dP",
+"fmt": "g2",
+"text": "\u22121.70"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|dG",
+"fmt": "g2",
+"text": "+7.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|residual",
+"fmt": "g2",
+"text": "+5.90"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|regdem_2022",
+"fmt": "i",
+"text": "14,133"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|regdem_2026",
+"fmt": "i",
+"text": "13,383"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|dP",
+"fmt": "g2",
+"text": "\u22122.83"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|dG",
+"fmt": "g2",
+"text": "+7.79"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|residual",
+"fmt": "g2",
+"text": "+4.96"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|regdem_2022",
+"fmt": "i",
+"text": "42,789"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|regdem_2026",
+"fmt": "i",
+"text": "40,769"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|dP",
+"fmt": "g2",
+"text": "\u22121.33"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|dG",
+"fmt": "g2",
+"text": "+6.23"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|residual",
+"fmt": "g2",
+"text": "+4.90"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|regdem_2022",
+"fmt": "i",
+"text": "590"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|regdem_2026",
+"fmt": "i",
+"text": "531"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|dP",
+"fmt": "g2",
+"text": "\u22122.05"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|dG",
+"fmt": "g2",
+"text": "+6.56"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|residual",
+"fmt": "g2",
+"text": "+4.51"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|regdem_2022",
+"fmt": "i",
+"text": "10,273"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|regdem_2026",
+"fmt": "i",
+"text": "9,699"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|dP",
+"fmt": "g2",
+"text": "\u22121.95"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|dG",
+"fmt": "g2",
+"text": "+6.13"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|residual",
+"fmt": "g2",
+"text": "+4.18"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|regdem_2022",
+"fmt": "i",
+"text": "7,065"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|regdem_2026",
+"fmt": "i",
+"text": "6,632"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|dP",
+"fmt": "g2",
+"text": "\u22122.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|dG",
+"fmt": "g2",
+"text": "+6.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|residual",
+"fmt": "g2",
+"text": "+3.94"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|regdem_2022",
+"fmt": "i",
+"text": "3,211"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|regdem_2026",
+"fmt": "i",
+"text": "3,082"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|dP",
+"fmt": "g2",
+"text": "\u22121.66"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|dG",
+"fmt": "g2",
+"text": "+5.45"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|residual",
+"fmt": "g2",
+"text": "+3.78"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|regdem_2022",
+"fmt": "i",
+"text": "25,897"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|regdem_2026",
+"fmt": "i",
+"text": "24,715"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|dP",
+"fmt": "g2",
+"text": "\u22122.97"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|dG",
+"fmt": "g2",
+"text": "+6.57"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|residual",
+"fmt": "g2",
+"text": "+3.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|regdem_2022",
+"fmt": "i",
+"text": "8,529"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|regdem_2026",
+"fmt": "i",
+"text": "7,799"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|dP",
+"fmt": "g2",
+"text": "\u22122.68"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|dG",
+"fmt": "g2",
+"text": "+5.70"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|residual",
+"fmt": "g2",
+"text": "+3.02"
+},
+{
+"page": "Reverse-Math",
+"key": "stat|median_residual",
+"fmt": "g2",
+"text": "+6.09"
+},
+{
+"page": "Reverse-Math",
+"key": "n|nonloss",
+"fmt": "i",
+"text": "33"
+},
+{
+"page": "Reverse-Math",
+"key": "State|regdem_2022",
+"fmt": "i",
+"text": "10,283,258"
+},
+{
+"page": "Reverse-Math",
+"key": "State|regdem_2026",
+"fmt": "i",
+"text": "10,464,099"
+},
+{
+"page": "Reverse-Math",
+"key": "State|residual_share",
+"fmt": "g2",
+"text": "+6.54"
+},
+{
+"page": "Reverse-Math",
+"key": "State|implied_sum",
+"fmt": "s",
+"text": "+876,786"
+},
+{
+"page": "Reverse-Math",
+"key": "State|implied",
+"fmt": "s",
+"text": "+877,683"
+},
+{
+"page": "Reverse-Math",
+"key": "n|loss",
+"fmt": "i",
+"text": "25"
+},
+{
+"page": "Reverse-Math",
+"key": "State|implied_sum_loss",
+"fmt": "s",
+"text": "+109,589"
+},
+{
+"page": "Reverse-Math",
+"key": "n|nonloss",
+"fmt": "i",
+"text": "33"
+},
+{
+"page": "Reverse-Math",
+"key": "State|implied_sum_nonloss",
+"fmt": "s",
+"text": "+767,197"
+},
+{
+"page": "Reverse-Math",
+"key": "State|gapreg_sum",
+"fmt": "s",
+"text": "+2,080,143"
+},
+{
+"page": "Reverse-Math",
+"key": "San Francisco|implied",
+"fmt": "s",
+"text": "\u22124,189"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|P22",
+"fmt": "f2",
+"text": "53.49"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|S22",
+"fmt": "f2",
+"text": "65.94"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|G22",
+"fmt": "g2",
+"text": "+12.45"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|P26",
+"fmt": "f2",
+"text": "51.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|S26",
+"fmt": "f2",
+"text": "71.62"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|G26",
+"fmt": "g2",
+"text": "+20.62"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|dG",
+"fmt": "g2",
+"text": "+8.17"
+},
+{
+"page": "Reverse-Math",
+"key": "Los Angeles|implied",
+"fmt": "s",
+"text": "+180,569"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|P22",
+"fmt": "f2",
+"text": "41.51"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|S22",
+"fmt": "f2",
+"text": "55.02"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|G22",
+"fmt": "g2",
+"text": "+13.51"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|P26",
+"fmt": "f2",
+"text": "40.74"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|S26",
+"fmt": "f2",
+"text": "62.23"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|G26",
+"fmt": "g2",
+"text": "+21.49"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|dG",
+"fmt": "g2",
+"text": "+7.98"
+},
+{
+"page": "Reverse-Math",
+"key": "San Diego|implied",
+"fmt": "s",
+"text": "+90,478"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|P22",
+"fmt": "f2",
+"text": "37.55"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|S22",
+"fmt": "f2",
+"text": "46.69"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|G22",
+"fmt": "g2",
+"text": "+9.14"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|P26",
+"fmt": "f2",
+"text": "36.52"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|S26",
+"fmt": "f2",
+"text": "54.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|G26",
+"fmt": "g2",
+"text": "+18.13"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|dG",
+"fmt": "g2",
+"text": "+9.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Orange|implied",
+"fmt": "s",
+"text": "+93,011"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|P22",
+"fmt": "f2",
+"text": "40.53"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|S22",
+"fmt": "f2",
+"text": "47.14"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|G22",
+"fmt": "g2",
+"text": "+6.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|P26",
+"fmt": "f2",
+"text": "38.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|S26",
+"fmt": "f2",
+"text": "58.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|G26",
+"fmt": "g2",
+"text": "+19.99"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|dG",
+"fmt": "g2",
+"text": "+13.39"
+},
+{
+"page": "Reverse-Math",
+"key": "Riverside|implied",
+"fmt": "s",
+"text": "+84,969"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|P22",
+"fmt": "f2",
+"text": "41.31"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|S22",
+"fmt": "f2",
+"text": "46.93"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|G22",
+"fmt": "g2",
+"text": "+5.62"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|P26",
+"fmt": "f2",
+"text": "38.84"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|S26",
+"fmt": "f2",
+"text": "59.03"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|G26",
+"fmt": "g2",
+"text": "+20.19"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|dG",
+"fmt": "g2",
+"text": "+14.57"
+},
+{
+"page": "Reverse-Math",
+"key": "San Bernardino|implied",
+"fmt": "s",
+"text": "+76,104"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Clara|P22",
+"fmt": "f2",
+"text": "51.11"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Clara|S22",
+"fmt": "f2",
+"text": "68.90"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Clara|G22",
+"fmt": "g2",
+"text": "+17.80"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Clara|P26",
+"fmt": "f2",
+"text": "49.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Clara|S26",
+"fmt": "f2",
+"text": "70.55"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Clara|G26",
+"fmt": "g2",
+"text": "+20.96"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Clara|dG",
+"fmt": "g2",
+"text": "+3.16"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Clara|implied",
+"fmt": "s",
+"text": "+10,378"
+},
+{
+"page": "Reverse-Math",
+"key": "Alameda|P22",
+"fmt": "f2",
+"text": "60.37"
+},
+{
+"page": "Reverse-Math",
+"key": "Alameda|S22",
+"fmt": "f2",
+"text": "78.01"
+},
+{
+"page": "Reverse-Math",
+"key": "Alameda|G22",
+"fmt": "g2",
+"text": "+17.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Alameda|P26",
+"fmt": "f2",
+"text": "57.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Alameda|S26",
+"fmt": "f2",
+"text": "79.40"
+},
+{
+"page": "Reverse-Math",
+"key": "Alameda|G26",
+"fmt": "g2",
+"text": "+21.81"
+},
+{
+"page": "Reverse-Math",
+"key": "Alameda|dG",
+"fmt": "g2",
+"text": "+4.16"
+},
+{
+"page": "Reverse-Math",
+"key": "Alameda|implied",
+"fmt": "s",
+"text": "+7,996"
+},
+{
+"page": "Reverse-Math",
+"key": "Sacramento|P22",
+"fmt": "f2",
+"text": "45.94"
+},
+{
+"page": "Reverse-Math",
+"key": "Sacramento|S22",
+"fmt": "f2",
+"text": "56.72"
+},
+{
+"page": "Reverse-Math",
+"key": "Sacramento|G22",
+"fmt": "g2",
+"text": "+10.78"
+},
+{
+"page": "Reverse-Math",
+"key": "Sacramento|P26",
+"fmt": "f2",
+"text": "44.25"
+},
+{
+"page": "Reverse-Math",
+"key": "Sacramento|S26",
+"fmt": "f2",
+"text": "64.19"
+},
+{
+"page": "Reverse-Math",
+"key": "Sacramento|G26",
+"fmt": "g2",
+"text": "+19.94"
+},
+{
+"page": "Reverse-Math",
+"key": "Sacramento|dG",
+"fmt": "g2",
+"text": "+9.16"
+},
+{
+"page": "Reverse-Math",
+"key": "Sacramento|implied",
+"fmt": "s",
+"text": "+41,794"
+},
+{
+"page": "Reverse-Math",
+"key": "Contra Costa|P22",
+"fmt": "f2",
+"text": "53.77"
+},
+{
+"page": "Reverse-Math",
+"key": "Contra Costa|S22",
+"fmt": "f2",
+"text": "67.33"
+},
+{
+"page": "Reverse-Math",
+"key": "Contra Costa|G22",
+"fmt": "g2",
+"text": "+13.56"
+},
+{
+"page": "Reverse-Math",
+"key": "Contra Costa|P26",
+"fmt": "f2",
+"text": "51.62"
+},
+{
+"page": "Reverse-Math",
+"key": "Contra Costa|S26",
+"fmt": "f2",
+"text": "70.41"
+},
+{
+"page": "Reverse-Math",
+"key": "Contra Costa|G26",
+"fmt": "g2",
+"text": "+18.79"
+},
+{
+"page": "Reverse-Math",
+"key": "Contra Costa|dG",
+"fmt": "g2",
+"text": "+5.23"
+},
+{
+"page": "Reverse-Math",
+"key": "Contra Costa|implied",
+"fmt": "s",
+"text": "+13,890"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|P22",
+"fmt": "f2",
+"text": "39.47"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|S22",
+"fmt": "f2",
+"text": "44.45"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|G22",
+"fmt": "g2",
+"text": "+4.98"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|P26",
+"fmt": "f2",
+"text": "37.16"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|S26",
+"fmt": "f2",
+"text": "55.25"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|G26",
+"fmt": "g2",
+"text": "+18.09"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|dG",
+"fmt": "g2",
+"text": "+13.11"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|residual",
+"fmt": "g2",
+"text": "+10.80"
+},
+{
+"page": "Reverse-Math",
+"key": "Fresno|implied",
+"fmt": "s",
+"text": "+29,316"
+},
+{
+"page": "Reverse-Math",
+"key": "Kern|P22",
+"fmt": "f2",
+"text": "34.96"
+},
+{
+"page": "Reverse-Math",
+"key": "Kern|S22",
+"fmt": "f2",
+"text": "36.55"
+},
+{
+"page": "Reverse-Math",
+"key": "Kern|G22",
+"fmt": "g2",
+"text": "+1.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Kern|P26",
+"fmt": "f2",
+"text": "33.72"
+},
+{
+"page": "Reverse-Math",
+"key": "Kern|S26",
+"fmt": "f2",
+"text": "50.38"
+},
+{
+"page": "Reverse-Math",
+"key": "Kern|G26",
+"fmt": "g2",
+"text": "+16.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Kern|dG",
+"fmt": "g2",
+"text": "+15.07"
+},
+{
+"page": "Reverse-Math",
+"key": "Kern|implied",
+"fmt": "s",
+"text": "+32,427"
+},
+{
+"page": "Reverse-Math",
+"key": "Ventura|P22",
+"fmt": "f2",
+"text": "43.72"
+},
+{
+"page": "Reverse-Math",
+"key": "Ventura|S22",
+"fmt": "f2",
+"text": "53.95"
+},
+{
+"page": "Reverse-Math",
+"key": "Ventura|G22",
+"fmt": "g2",
+"text": "+10.23"
+},
+{
+"page": "Reverse-Math",
+"key": "Ventura|P26",
+"fmt": "f2",
+"text": "42.63"
+},
+{
+"page": "Reverse-Math",
+"key": "Ventura|S26",
+"fmt": "f2",
+"text": "61.22"
+},
+{
+"page": "Reverse-Math",
+"key": "Ventura|G26",
+"fmt": "g2",
+"text": "+18.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Ventura|dG",
+"fmt": "g2",
+"text": "+8.36"
+},
+{
+"page": "Reverse-Math",
+"key": "Ventura|implied",
+"fmt": "s",
+"text": "+24,017"
+},
+{
+"page": "Reverse-Math",
+"key": "San Francisco|P22",
+"fmt": "f2",
+"text": "63.07"
+},
+{
+"page": "Reverse-Math",
+"key": "San Francisco|S22",
+"fmt": "f2",
+"text": "83.01"
+},
+{
+"page": "Reverse-Math",
+"key": "San Francisco|G22",
+"fmt": "g2",
+"text": "+19.94"
+},
+{
+"page": "Reverse-Math",
+"key": "San Francisco|P26",
+"fmt": "f2",
+"text": "62.22"
+},
+{
+"page": "Reverse-Math",
+"key": "San Francisco|S26",
+"fmt": "f2",
+"text": "81.83"
+},
+{
+"page": "Reverse-Math",
+"key": "San Francisco|G26",
+"fmt": "g2",
+"text": "+19.61"
+},
+{
+"page": "Reverse-Math",
+"key": "San Francisco|dG",
+"fmt": "g2",
+"text": "\u22120.34"
+},
+{
+"page": "Reverse-Math",
+"key": "San Francisco|implied",
+"fmt": "s",
+"text": "\u22124,189"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|P22",
+"fmt": "f2",
+"text": "43.84"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|S22",
+"fmt": "f2",
+"text": "47.68"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|G22",
+"fmt": "g2",
+"text": "+3.84"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|P26",
+"fmt": "f2",
+"text": "40.61"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|S26",
+"fmt": "f2",
+"text": "57.79"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|G26",
+"fmt": "g2",
+"text": "+17.18"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|dG",
+"fmt": "g2",
+"text": "+13.34"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|residual",
+"fmt": "g2",
+"text": "+10.11"
+},
+{
+"page": "Reverse-Math",
+"key": "San Joaquin|implied",
+"fmt": "s",
+"text": "+22,455"
+},
+{
+"page": "Reverse-Math",
+"key": "San Mateo|P22",
+"fmt": "f2",
+"text": "56.20"
+},
+{
+"page": "Reverse-Math",
+"key": "San Mateo|S22",
+"fmt": "f2",
+"text": "73.58"
+},
+{
+"page": "Reverse-Math",
+"key": "San Mateo|G22",
+"fmt": "g2",
+"text": "+17.38"
+},
+{
+"page": "Reverse-Math",
+"key": "San Mateo|P26",
+"fmt": "f2",
+"text": "54.80"
+},
+{
+"page": "Reverse-Math",
+"key": "San Mateo|S26",
+"fmt": "f2",
+"text": "74.32"
+},
+{
+"page": "Reverse-Math",
+"key": "San Mateo|G26",
+"fmt": "g2",
+"text": "+19.53"
+},
+{
+"page": "Reverse-Math",
+"key": "San Mateo|dG",
+"fmt": "g2",
+"text": "+2.14"
+},
+{
+"page": "Reverse-Math",
+"key": "San Mateo|implied",
+"fmt": "s",
+"text": "+2,096"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|P22",
+"fmt": "f2",
+"text": "38.86"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|S22",
+"fmt": "f2",
+"text": "41.86"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|G22",
+"fmt": "g2",
+"text": "+3.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|P26",
+"fmt": "f2",
+"text": "36.12"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|S26",
+"fmt": "f2",
+"text": "52.72"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|G26",
+"fmt": "g2",
+"text": "+16.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|dG",
+"fmt": "g2",
+"text": "+13.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|residual",
+"fmt": "g2",
+"text": "+10.86"
+},
+{
+"page": "Reverse-Math",
+"key": "Stanislaus|implied",
+"fmt": "s",
+"text": "+17,550"
+},
+{
+"page": "Reverse-Math",
+"key": "Sonoma|P22",
+"fmt": "f2",
+"text": "56.80"
+},
+{
+"page": "Reverse-Math",
+"key": "Sonoma|S22",
+"fmt": "f2",
+"text": "69.90"
+},
+{
+"page": "Reverse-Math",
+"key": "Sonoma|G22",
+"fmt": "g2",
+"text": "+13.10"
+},
+{
+"page": "Reverse-Math",
+"key": "Sonoma|P26",
+"fmt": "f2",
+"text": "55.29"
+},
+{
+"page": "Reverse-Math",
+"key": "Sonoma|S26",
+"fmt": "f2",
+"text": "74.35"
+},
+{
+"page": "Reverse-Math",
+"key": "Sonoma|G26",
+"fmt": "g2",
+"text": "+19.06"
+},
+{
+"page": "Reverse-Math",
+"key": "Sonoma|dG",
+"fmt": "g2",
+"text": "+5.96"
+},
+{
+"page": "Reverse-Math",
+"key": "Sonoma|implied",
+"fmt": "s",
+"text": "+9,947"
+},
+{
+"page": "Reverse-Math",
+"key": "Tulare|P22",
+"fmt": "f2",
+"text": "33.50"
+},
+{
+"page": "Reverse-Math",
+"key": "Tulare|S22",
+"fmt": "f2",
+"text": "36.01"
+},
+{
+"page": "Reverse-Math",
+"key": "Tulare|G22",
+"fmt": "g2",
+"text": "+2.51"
+},
+{
+"page": "Reverse-Math",
+"key": "Tulare|P26",
+"fmt": "f2",
+"text": "31.72"
+},
+{
+"page": "Reverse-Math",
+"key": "Tulare|S26",
+"fmt": "f2",
+"text": "49.67"
+},
+{
+"page": "Reverse-Math",
+"key": "Tulare|G26",
+"fmt": "g2",
+"text": "+17.95"
+},
+{
+"page": "Reverse-Math",
+"key": "Tulare|dG",
+"fmt": "g2",
+"text": "+15.44"
+},
+{
+"page": "Reverse-Math",
+"key": "Tulare|implied",
+"fmt": "s",
+"text": "+16,029"
+},
+{
+"page": "Reverse-Math",
+"key": "Solano|P22",
+"fmt": "f2",
+"text": "48.98"
+},
+{
+"page": "Reverse-Math",
+"key": "Solano|S22",
+"fmt": "f2",
+"text": "58.81"
+},
+{
+"page": "Reverse-Math",
+"key": "Solano|G22",
+"fmt": "g2",
+"text": "+9.83"
+},
+{
+"page": "Reverse-Math",
+"key": "Solano|P26",
+"fmt": "f2",
+"text": "46.84"
+},
+{
+"page": "Reverse-Math",
+"key": "Solano|S26",
+"fmt": "f2",
+"text": "64.73"
+},
+{
+"page": "Reverse-Math",
+"key": "Solano|G26",
+"fmt": "g2",
+"text": "+17.89"
+},
+{
+"page": "Reverse-Math",
+"key": "Solano|dG",
+"fmt": "g2",
+"text": "+8.06"
+},
+{
+"page": "Reverse-Math",
+"key": "Solano|implied",
+"fmt": "s",
+"text": "+9,402"
+},
+{
+"page": "Reverse-Math",
+"key": "Placer|P22",
+"fmt": "f2",
+"text": "31.68"
+},
+{
+"page": "Reverse-Math",
+"key": "Placer|S22",
+"fmt": "f2",
+"text": "39.90"
+},
+{
+"page": "Reverse-Math",
+"key": "Placer|G22",
+"fmt": "g2",
+"text": "+8.22"
+},
+{
+"page": "Reverse-Math",
+"key": "Placer|P26",
+"fmt": "f2",
+"text": "31.09"
+},
+{
+"page": "Reverse-Math",
+"key": "Placer|S26",
+"fmt": "f2",
+"text": "46.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Placer|G26",
+"fmt": "g2",
+"text": "+15.51"
+},
+{
+"page": "Reverse-Math",
+"key": "Placer|dG",
+"fmt": "g2",
+"text": "+7.30"
+},
+{
+"page": "Reverse-Math",
+"key": "Placer|implied",
+"fmt": "s",
+"text": "+13,102"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Barbara|P22",
+"fmt": "f2",
+"text": "47.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Barbara|S22",
+"fmt": "f2",
+"text": "58.85"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Barbara|G22",
+"fmt": "g2",
+"text": "+11.58"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Barbara|P26",
+"fmt": "f2",
+"text": "46.36"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Barbara|S26",
+"fmt": "f2",
+"text": "66.02"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Barbara|G26",
+"fmt": "g2",
+"text": "+19.66"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Barbara|dG",
+"fmt": "g2",
+"text": "+8.07"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Barbara|implied",
+"fmt": "s",
+"text": "+11,505"
+},
+{
+"page": "Reverse-Math",
+"key": "Monterey|P22",
+"fmt": "f2",
+"text": "52.55"
+},
+{
+"page": "Reverse-Math",
+"key": "Monterey|S22",
+"fmt": "f2",
+"text": "63.27"
+},
+{
+"page": "Reverse-Math",
+"key": "Monterey|G22",
+"fmt": "g2",
+"text": "+10.73"
+},
+{
+"page": "Reverse-Math",
+"key": "Monterey|P26",
+"fmt": "f2",
+"text": "49.88"
+},
+{
+"page": "Reverse-Math",
+"key": "Monterey|S26",
+"fmt": "f2",
+"text": "70.07"
+},
+{
+"page": "Reverse-Math",
+"key": "Monterey|G26",
+"fmt": "g2",
+"text": "+20.18"
+},
+{
+"page": "Reverse-Math",
+"key": "Monterey|dG",
+"fmt": "g2",
+"text": "+9.46"
+},
+{
+"page": "Reverse-Math",
+"key": "Monterey|implied",
+"fmt": "s",
+"text": "+8,695"
+},
+{
+"page": "Reverse-Math",
+"key": "Merced|P22",
+"fmt": "f2",
+"text": "42.88"
+},
+{
+"page": "Reverse-Math",
+"key": "Merced|S22",
+"fmt": "f2",
+"text": "45.12"
+},
+{
+"page": "Reverse-Math",
+"key": "Merced|G22",
+"fmt": "g2",
+"text": "+2.24"
+},
+{
+"page": "Reverse-Math",
+"key": "Merced|P26",
+"fmt": "f2",
+"text": "39.47"
+},
+{
+"page": "Reverse-Math",
+"key": "Merced|S26",
+"fmt": "f2",
+"text": "58.41"
+},
+{
+"page": "Reverse-Math",
+"key": "Merced|G26",
+"fmt": "g2",
+"text": "+18.94"
+},
+{
+"page": "Reverse-Math",
+"key": "Merced|dG",
+"fmt": "g2",
+"text": "+16.69"
+},
+{
+"page": "Reverse-Math",
+"key": "Merced|implied",
+"fmt": "s",
+"text": "+9,962"
+},
+{
+"page": "Reverse-Math",
+"key": "San Luis Obispo|P22",
+"fmt": "f2",
+"text": "38.34"
+},
+{
+"page": "Reverse-Math",
+"key": "San Luis Obispo|S22",
+"fmt": "f2",
+"text": "50.49"
+},
+{
+"page": "Reverse-Math",
+"key": "San Luis Obispo|G22",
+"fmt": "g2",
+"text": "+12.15"
+},
+{
+"page": "Reverse-Math",
+"key": "San Luis Obispo|P26",
+"fmt": "f2",
+"text": "38.34"
+},
+{
+"page": "Reverse-Math",
+"key": "San Luis Obispo|S26",
+"fmt": "f2",
+"text": "55.71"
+},
+{
+"page": "Reverse-Math",
+"key": "San Luis Obispo|G26",
+"fmt": "g2",
+"text": "+17.37"
+},
+{
+"page": "Reverse-Math",
+"key": "San Luis Obispo|dG",
+"fmt": "g2",
+"text": "+5.22"
+},
+{
+"page": "Reverse-Math",
+"key": "San Luis Obispo|implied",
+"fmt": "s",
+"text": "+6,674"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Cruz|P22",
+"fmt": "f2",
+"text": "59.92"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Cruz|S22",
+"fmt": "f2",
+"text": "74.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Cruz|G22",
+"fmt": "g2",
+"text": "+14.69"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Cruz|P26",
+"fmt": "f2",
+"text": "58.45"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Cruz|S26",
+"fmt": "f2",
+"text": "78.06"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Cruz|G26",
+"fmt": "g2",
+"text": "+19.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Cruz|dG",
+"fmt": "g2",
+"text": "+4.92"
+},
+{
+"page": "Reverse-Math",
+"key": "Santa Cruz|implied",
+"fmt": "s",
+"text": "+4,063"
+},
+{
+"page": "Reverse-Math",
+"key": "Marin|P22",
+"fmt": "f2",
+"text": "62.25"
+},
+{
+"page": "Reverse-Math",
+"key": "Marin|S22",
+"fmt": "f2",
+"text": "78.49"
+},
+{
+"page": "Reverse-Math",
+"key": "Marin|G22",
+"fmt": "g2",
+"text": "+16.24"
+},
+{
+"page": "Reverse-Math",
+"key": "Marin|P26",
+"fmt": "f2",
+"text": "61.56"
+},
+{
+"page": "Reverse-Math",
+"key": "Marin|S26",
+"fmt": "f2",
+"text": "78.77"
+},
+{
+"page": "Reverse-Math",
+"key": "Marin|G26",
+"fmt": "g2",
+"text": "+17.20"
+},
+{
+"page": "Reverse-Math",
+"key": "Marin|dG",
+"fmt": "g2",
+"text": "+0.97"
+},
+{
+"page": "Reverse-Math",
+"key": "Marin|implied",
+"fmt": "s",
+"text": "+348"
+},
+{
+"page": "Reverse-Math",
+"key": "Yolo|P22",
+"fmt": "f2",
+"text": "51.33"
+},
+{
+"page": "Reverse-Math",
+"key": "Yolo|S22",
+"fmt": "f2",
+"text": "64.44"
+},
+{
+"page": "Reverse-Math",
+"key": "Yolo|G22",
+"fmt": "g2",
+"text": "+13.11"
+},
+{
+"page": "Reverse-Math",
+"key": "Yolo|P26",
+"fmt": "f2",
+"text": "50.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Yolo|S26",
+"fmt": "f2",
+"text": "71.90"
+},
+{
+"page": "Reverse-Math",
+"key": "Yolo|G26",
+"fmt": "g2",
+"text": "+21.90"
+},
+{
+"page": "Reverse-Math",
+"key": "Yolo|dG",
+"fmt": "g2",
+"text": "+8.79"
+},
+{
+"page": "Reverse-Math",
+"key": "Yolo|implied",
+"fmt": "s",
+"text": "+6,059"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|P22",
+"fmt": "f2",
+"text": "35.02"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|S22",
+"fmt": "f2",
+"text": "43.03"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|G22",
+"fmt": "g2",
+"text": "+8.01"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|P26",
+"fmt": "f2",
+"text": "33.35"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|S26",
+"fmt": "f2",
+"text": "49.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|G26",
+"fmt": "g2",
+"text": "+16.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|dG",
+"fmt": "g2",
+"text": "+8.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|residual",
+"fmt": "g2",
+"text": "+6.58"
+},
+{
+"page": "Reverse-Math",
+"key": "Butte|implied",
+"fmt": "s",
+"text": "+5,197"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|P22",
+"fmt": "f2",
+"text": "30.89"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|S22",
+"fmt": "f2",
+"text": "38.45"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|G22",
+"fmt": "g2",
+"text": "+7.56"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|P26",
+"fmt": "f2",
+"text": "29.56"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|S26",
+"fmt": "f2",
+"text": "43.35"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|G26",
+"fmt": "g2",
+"text": "+13.79"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|dG",
+"fmt": "g2",
+"text": "+6.23"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|residual",
+"fmt": "g2",
+"text": "+4.90"
+},
+{
+"page": "Reverse-Math",
+"key": "El Dorado|implied",
+"fmt": "s",
+"text": "+4,742"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|P22",
+"fmt": "f2",
+"text": "22.70"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|S22",
+"fmt": "f2",
+"text": "26.97"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|G22",
+"fmt": "g2",
+"text": "+4.27"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|P26",
+"fmt": "f2",
+"text": "21.14"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|S26",
+"fmt": "f2",
+"text": "33.07"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|G26",
+"fmt": "g2",
+"text": "+11.93"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|dG",
+"fmt": "g2",
+"text": "+7.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|residual",
+"fmt": "g2",
+"text": "+6.09"
+},
+{
+"page": "Reverse-Math",
+"key": "Shasta|implied",
+"fmt": "s",
+"text": "+4,129"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|P22",
+"fmt": "f2",
+"text": "47.85"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|S22",
+"fmt": "f2",
+"text": "55.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|G22",
+"fmt": "g2",
+"text": "+7.15"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|P26",
+"fmt": "f2",
+"text": "43.44"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|S26",
+"fmt": "f2",
+"text": "64.28"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|G26",
+"fmt": "g2",
+"text": "+20.84"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|dG",
+"fmt": "g2",
+"text": "+13.69"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|residual",
+"fmt": "g2",
+"text": "+9.29"
+},
+{
+"page": "Reverse-Math",
+"key": "Imperial|implied",
+"fmt": "s",
+"text": "+3,927"
+},
+{
+"page": "Reverse-Math",
+"key": "Madera|P22",
+"fmt": "f2",
+"text": "33.06"
+},
+{
+"page": "Reverse-Math",
+"key": "Madera|S22",
+"fmt": "f2",
+"text": "35.57"
+},
+{
+"page": "Reverse-Math",
+"key": "Madera|G22",
+"fmt": "g2",
+"text": "+2.51"
+},
+{
+"page": "Reverse-Math",
+"key": "Madera|P26",
+"fmt": "f2",
+"text": "31.24"
+},
+{
+"page": "Reverse-Math",
+"key": "Madera|S26",
+"fmt": "f2",
+"text": "47.93"
+},
+{
+"page": "Reverse-Math",
+"key": "Madera|G26",
+"fmt": "g2",
+"text": "+16.70"
+},
+{
+"page": "Reverse-Math",
+"key": "Madera|dG",
+"fmt": "g2",
+"text": "+14.19"
+},
+{
+"page": "Reverse-Math",
+"key": "Madera|implied",
+"fmt": "s",
+"text": "+5,928"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|P22",
+"fmt": "f2",
+"text": "33.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|S22",
+"fmt": "f2",
+"text": "34.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|G22",
+"fmt": "g2",
+"text": "+1.02"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|P26",
+"fmt": "f2",
+"text": "31.24"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|S26",
+"fmt": "f2",
+"text": "47.37"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|G26",
+"fmt": "g2",
+"text": "+16.12"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|dG",
+"fmt": "g2",
+"text": "+15.10"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|residual",
+"fmt": "g2",
+"text": "+12.75"
+},
+{
+"page": "Reverse-Math",
+"key": "Kings|implied",
+"fmt": "s",
+"text": "+4,463"
+},
+{
+"page": "Reverse-Math",
+"key": "Napa|P22",
+"fmt": "f2",
+"text": "50.54"
+},
+{
+"page": "Reverse-Math",
+"key": "Napa|S22",
+"fmt": "f2",
+"text": "63.87"
+},
+{
+"page": "Reverse-Math",
+"key": "Napa|G22",
+"fmt": "g2",
+"text": "+13.32"
+},
+{
+"page": "Reverse-Math",
+"key": "Napa|P26",
+"fmt": "f2",
+"text": "50.12"
+},
+{
+"page": "Reverse-Math",
+"key": "Napa|S26",
+"fmt": "f2",
+"text": "69.12"
+},
+{
+"page": "Reverse-Math",
+"key": "Napa|G26",
+"fmt": "g2",
+"text": "+19.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Napa|dG",
+"fmt": "g2",
+"text": "+5.68"
+},
+{
+"page": "Reverse-Math",
+"key": "Napa|implied",
+"fmt": "s",
+"text": "+2,934"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|P22",
+"fmt": "f2",
+"text": "46.49"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|S22",
+"fmt": "f2",
+"text": "60.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|G22",
+"fmt": "g2",
+"text": "+14.12"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|P26",
+"fmt": "f2",
+"text": "44.93"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|S26",
+"fmt": "f2",
+"text": "66.57"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|G26",
+"fmt": "g2",
+"text": "+21.64"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|dG",
+"fmt": "g2",
+"text": "+7.52"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|residual",
+"fmt": "g2",
+"text": "+5.96"
+},
+{
+"page": "Reverse-Math",
+"key": "Humboldt|implied",
+"fmt": "s",
+"text": "+3,170"
+},
+{
+"page": "Reverse-Math",
+"key": "Nevada|P22",
+"fmt": "f2",
+"text": "39.73"
+},
+{
+"page": "Reverse-Math",
+"key": "Nevada|S22",
+"fmt": "f2",
+"text": "51.89"
+},
+{
+"page": "Reverse-Math",
+"key": "Nevada|G22",
+"fmt": "g2",
+"text": "+12.16"
+},
+{
+"page": "Reverse-Math",
+"key": "Nevada|P26",
+"fmt": "f2",
+"text": "38.82"
+},
+{
+"page": "Reverse-Math",
+"key": "Nevada|S26",
+"fmt": "f2",
+"text": "56.75"
+},
+{
+"page": "Reverse-Math",
+"key": "Nevada|G26",
+"fmt": "g2",
+"text": "+17.93"
+},
+{
+"page": "Reverse-Math",
+"key": "Nevada|dG",
+"fmt": "g2",
+"text": "+5.77"
+},
+{
+"page": "Reverse-Math",
+"key": "Nevada|implied",
+"fmt": "s",
+"text": "+2,551"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|P22",
+"fmt": "f2",
+"text": "31.02"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|S22",
+"fmt": "f2",
+"text": "31.84"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|G22",
+"fmt": "g2",
+"text": "+0.83"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|P26",
+"fmt": "f2",
+"text": "29.05"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|S26",
+"fmt": "f2",
+"text": "43.31"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|G26",
+"fmt": "g2",
+"text": "+14.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|dG",
+"fmt": "g2",
+"text": "+13.43"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|residual",
+"fmt": "g2",
+"text": "+11.47"
+},
+{
+"page": "Reverse-Math",
+"key": "Sutter|implied",
+"fmt": "s",
+"text": "+3,636"
+},
+{
+"page": "Reverse-Math",
+"key": "Yuba|P22",
+"fmt": "f2",
+"text": "28.64"
+},
+{
+"page": "Reverse-Math",
+"key": "Yuba|S22",
+"fmt": "f2",
+"text": "32.86"
+},
+{
+"page": "Reverse-Math",
+"key": "Yuba|G22",
+"fmt": "g2",
+"text": "+4.21"
+},
+{
+"page": "Reverse-Math",
+"key": "Yuba|P26",
+"fmt": "f2",
+"text": "27.79"
+},
+{
+"page": "Reverse-Math",
+"key": "Yuba|S26",
+"fmt": "f2",
+"text": "43.10"
+},
+{
+"page": "Reverse-Math",
+"key": "Yuba|G26",
+"fmt": "g2",
+"text": "+15.31"
+},
+{
+"page": "Reverse-Math",
+"key": "Yuba|dG",
+"fmt": "g2",
+"text": "+11.10"
+},
+{
+"page": "Reverse-Math",
+"key": "Yuba|implied",
+"fmt": "s",
+"text": "+2,480"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|P22",
+"fmt": "f2",
+"text": "48.77"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|S22",
+"fmt": "f2",
+"text": "61.37"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|G22",
+"fmt": "g2",
+"text": "+12.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|P26",
+"fmt": "f2",
+"text": "45.79"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|S26",
+"fmt": "f2",
+"text": "64.98"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|G26",
+"fmt": "g2",
+"text": "+19.18"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|dG",
+"fmt": "g2",
+"text": "+6.57"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|residual",
+"fmt": "g2",
+"text": "+3.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Mendocino|implied",
+"fmt": "s",
+"text": "+1,172"
+},
+{
+"page": "Reverse-Math",
+"key": "San Benito|P22",
+"fmt": "f2",
+"text": "47.84"
+},
+{
+"page": "Reverse-Math",
+"key": "San Benito|S22",
+"fmt": "f2",
+"text": "52.55"
+},
+{
+"page": "Reverse-Math",
+"key": "San Benito|G22",
+"fmt": "g2",
+"text": "+4.71"
+},
+{
+"page": "Reverse-Math",
+"key": "San Benito|P26",
+"fmt": "f2",
+"text": "45.42"
+},
+{
+"page": "Reverse-Math",
+"key": "San Benito|S26",
+"fmt": "f2",
+"text": "61.20"
+},
+{
+"page": "Reverse-Math",
+"key": "San Benito|G26",
+"fmt": "g2",
+"text": "+15.78"
+},
+{
+"page": "Reverse-Math",
+"key": "San Benito|dG",
+"fmt": "g2",
+"text": "+11.07"
+},
+{
+"page": "Reverse-Math",
+"key": "San Benito|implied",
+"fmt": "s",
+"text": "+2,041"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|P22",
+"fmt": "f2",
+"text": "38.04"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|S22",
+"fmt": "f2",
+"text": "47.99"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|G22",
+"fmt": "g2",
+"text": "+9.95"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|P26",
+"fmt": "f2",
+"text": "35.21"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|S26",
+"fmt": "f2",
+"text": "52.95"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|G26",
+"fmt": "g2",
+"text": "+17.74"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|dG",
+"fmt": "g2",
+"text": "+7.79"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|residual",
+"fmt": "g2",
+"text": "+4.96"
+},
+{
+"page": "Reverse-Math",
+"key": "Lake|implied",
+"fmt": "s",
+"text": "+1,053"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|P22",
+"fmt": "f2",
+"text": "23.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|S22",
+"fmt": "f2",
+"text": "24.13"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|G22",
+"fmt": "g2",
+"text": "+0.53"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|P26",
+"fmt": "f2",
+"text": "22.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|S26",
+"fmt": "f2",
+"text": "31.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|G26",
+"fmt": "g2",
+"text": "+9.62"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|dG",
+"fmt": "g2",
+"text": "+9.09"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|residual",
+"fmt": "g2",
+"text": "+7.48"
+},
+{
+"page": "Reverse-Math",
+"key": "Tehama|implied",
+"fmt": "s",
+"text": "+1,622"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|P22",
+"fmt": "f2",
+"text": "29.06"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|S22",
+"fmt": "f2",
+"text": "36.07"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|G22",
+"fmt": "g2",
+"text": "+7.02"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|P26",
+"fmt": "f2",
+"text": "27.10"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|S26",
+"fmt": "f2",
+"text": "40.25"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|G26",
+"fmt": "g2",
+"text": "+13.15"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|dG",
+"fmt": "g2",
+"text": "+6.13"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|residual",
+"fmt": "g2",
+"text": "+4.18"
+},
+{
+"page": "Reverse-Math",
+"key": "Tuolumne|implied",
+"fmt": "s",
+"text": "+1,004"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|P22",
+"fmt": "f2",
+"text": "26.51"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|S22",
+"fmt": "f2",
+"text": "32.94"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|G22",
+"fmt": "g2",
+"text": "+6.43"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|P26",
+"fmt": "f2",
+"text": "23.83"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|S26",
+"fmt": "f2",
+"text": "35.95"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|G26",
+"fmt": "g2",
+"text": "+12.12"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|dG",
+"fmt": "g2",
+"text": "+5.70"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|residual",
+"fmt": "g2",
+"text": "+3.02"
+},
+{
+"page": "Reverse-Math",
+"key": "Calaveras|implied",
+"fmt": "s",
+"text": "+661"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|P22",
+"fmt": "f2",
+"text": "29.07"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|S22",
+"fmt": "f2",
+"text": "35.33"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|G22",
+"fmt": "g2",
+"text": "+6.25"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|P26",
+"fmt": "f2",
+"text": "26.95"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|S26",
+"fmt": "f2",
+"text": "41.29"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|G26",
+"fmt": "g2",
+"text": "+14.34"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|dG",
+"fmt": "g2",
+"text": "+8.08"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|residual",
+"fmt": "g2",
+"text": "+5.96"
+},
+{
+"page": "Reverse-Math",
+"key": "Siskiyou|implied",
+"fmt": "s",
+"text": "+1,044"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|P22",
+"fmt": "f2",
+"text": "27.22"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|S22",
+"fmt": "f2",
+"text": "31.86"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|G22",
+"fmt": "g2",
+"text": "+4.64"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|P26",
+"fmt": "f2",
+"text": "24.57"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|S26",
+"fmt": "f2",
+"text": "35.80"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|G26",
+"fmt": "g2",
+"text": "+11.23"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|dG",
+"fmt": "g2",
+"text": "+6.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|residual",
+"fmt": "g2",
+"text": "+3.94"
+},
+{
+"page": "Reverse-Math",
+"key": "Amador|implied",
+"fmt": "s",
+"text": "+755"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|P22",
+"fmt": "f2",
+"text": "28.01"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|S22",
+"fmt": "f2",
+"text": "24.17"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|G22",
+"fmt": "g2",
+"text": "\u22123.85"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|P26",
+"fmt": "f2",
+"text": "26.82"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|S26",
+"fmt": "f2",
+"text": "35.99"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|G26",
+"fmt": "g2",
+"text": "+9.17"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|dG",
+"fmt": "g2",
+"text": "+13.02"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|residual",
+"fmt": "g2",
+"text": "+11.82"
+},
+{
+"page": "Reverse-Math",
+"key": "Glenn|implied",
+"fmt": "s",
+"text": "+1,036"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|P22",
+"fmt": "f2",
+"text": "17.04"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|S22",
+"fmt": "f2",
+"text": "15.58"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|G22",
+"fmt": "g2",
+"text": "\u22121.47"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|P26",
+"fmt": "f2",
+"text": "15.72"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|S26",
+"fmt": "f2",
+"text": "23.33"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|G26",
+"fmt": "g2",
+"text": "+7.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|dG",
+"fmt": "g2",
+"text": "+9.07"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|residual",
+"fmt": "g2",
+"text": "+7.75"
+},
+{
+"page": "Reverse-Math",
+"key": "Lassen|implied",
+"fmt": "s",
+"text": "+706"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|P22",
+"fmt": "f2",
+"text": "30.15"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|S22",
+"fmt": "f2",
+"text": "38.63"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|G22",
+"fmt": "g2",
+"text": "+8.48"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|P26",
+"fmt": "f2",
+"text": "28.45"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|S26",
+"fmt": "f2",
+"text": "44.53"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|G26",
+"fmt": "g2",
+"text": "+16.08"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|dG",
+"fmt": "g2",
+"text": "+7.60"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|residual",
+"fmt": "g2",
+"text": "+5.90"
+},
+{
+"page": "Reverse-Math",
+"key": "Del Norte|implied",
+"fmt": "s",
+"text": "+501"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|P22",
+"fmt": "f2",
+"text": "31.68"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|S22",
+"fmt": "f2",
+"text": "27.65"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|G22",
+"fmt": "g2",
+"text": "\u22124.04"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|P26",
+"fmt": "f2",
+"text": "30.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|S26",
+"fmt": "f2",
+"text": "43.30"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|G26",
+"fmt": "g2",
+"text": "+12.71"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|dG",
+"fmt": "g2",
+"text": "+16.75"
+},
+{
+"page": "Reverse-Math",
+"key": "Colusa|implied",
+"fmt": "s",
+"text": "+969"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|P22",
+"fmt": "f2",
+"text": "28.16"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|S22",
+"fmt": "f2",
+"text": "35.35"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|G22",
+"fmt": "g2",
+"text": "+7.20"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|P26",
+"fmt": "f2",
+"text": "27.09"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|S26",
+"fmt": "f2",
+"text": "42.28"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|G26",
+"fmt": "g2",
+"text": "+15.19"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|dG",
+"fmt": "g2",
+"text": "+8.00"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|residual",
+"fmt": "g2",
+"text": "+6.93"
+},
+{
+"page": "Reverse-Math",
+"key": "Plumas|implied",
+"fmt": "s",
+"text": "+595"
+},
+{
+"page": "Reverse-Math",
+"key": "Inyo|P22",
+"fmt": "f2",
+"text": "34.19"
+},
+{
+"page": "Reverse-Math",
+"key": "Inyo|S22",
+"fmt": "f2",
+"text": "44.64"
+},
+{
+"page": "Reverse-Math",
+"key": "Inyo|G22",
+"fmt": "g2",
+"text": "+10.45"
+},
+{
+"page": "Reverse-Math",
+"key": "Inyo|P26",
+"fmt": "f2",
+"text": "33.68"
+},
+{
+"page": "Reverse-Math",
+"key": "Inyo|S26",
+"fmt": "f2",
+"text": "51.94"
+},
+{
+"page": "Reverse-Math",
+"key": "Inyo|G26",
+"fmt": "g2",
+"text": "+18.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Inyo|dG",
+"fmt": "g2",
+"text": "+7.81"
+},
+{
+"page": "Reverse-Math",
+"key": "Inyo|implied",
+"fmt": "s",
+"text": "+558"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|P22",
+"fmt": "f2",
+"text": "27.78"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|S22",
+"fmt": "f2",
+"text": "37.13"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|G22",
+"fmt": "g2",
+"text": "+9.35"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|P26",
+"fmt": "f2",
+"text": "26.12"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|S26",
+"fmt": "f2",
+"text": "40.92"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|G26",
+"fmt": "g2",
+"text": "+14.80"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|dG",
+"fmt": "g2",
+"text": "+5.45"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|residual",
+"fmt": "g2",
+"text": "+3.78"
+},
+{
+"page": "Reverse-Math",
+"key": "Mariposa|implied",
+"fmt": "s",
+"text": "+302"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|P22",
+"fmt": "f2",
+"text": "31.45"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|S22",
+"fmt": "f2",
+"text": "40.36"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|G22",
+"fmt": "g2",
+"text": "+8.91"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|P26",
+"fmt": "f2",
+"text": "28.62"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|S26",
+"fmt": "f2",
+"text": "46.31"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|G26",
+"fmt": "g2",
+"text": "+17.69"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|dG",
+"fmt": "g2",
+"text": "+8.78"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|residual",
+"fmt": "g2",
+"text": "+5.95"
+},
+{
+"page": "Reverse-Math",
+"key": "Trinity|implied",
+"fmt": "s",
+"text": "+285"
+},
+{
+"page": "Reverse-Math",
+"key": "Mono|P22",
+"fmt": "f2",
+"text": "40.05"
+},
+{
+"page": "Reverse-Math",
+"key": "Mono|S22",
+"fmt": "f2",
+"text": "53.81"
+},
+{
+"page": "Reverse-Math",
+"key": "Mono|G22",
+"fmt": "g2",
+"text": "+13.76"
+},
+{
+"page": "Reverse-Math",
+"key": "Mono|P26",
+"fmt": "f2",
+"text": "39.85"
+},
+{
+"page": "Reverse-Math",
+"key": "Mono|S26",
+"fmt": "f2",
+"text": "60.71"
+},
+{
+"page": "Reverse-Math",
+"key": "Mono|G26",
+"fmt": "g2",
+"text": "+20.86"
+},
+{
+"page": "Reverse-Math",
+"key": "Mono|dG",
+"fmt": "g2",
+"text": "+7.10"
+},
+{
+"page": "Reverse-Math",
+"key": "Mono|implied",
+"fmt": "s",
+"text": "+360"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|P22",
+"fmt": "f2",
+"text": "20.32"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|S22",
+"fmt": "f2",
+"text": "19.97"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|G22",
+"fmt": "g2",
+"text": "\u22120.35"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|P26",
+"fmt": "f2",
+"text": "17.88"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|S26",
+"fmt": "f2",
+"text": "26.14"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|G26",
+"fmt": "g2",
+"text": "+8.26"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|dG",
+"fmt": "g2",
+"text": "+8.61"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|residual",
+"fmt": "g2",
+"text": "+6.18"
+},
+{
+"page": "Reverse-Math",
+"key": "Modoc|implied",
+"fmt": "s",
+"text": "+200"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|P22",
+"fmt": "f2",
+"text": "26.59"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|S22",
+"fmt": "f2",
+"text": "33.38"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|G22",
+"fmt": "g2",
+"text": "+6.79"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|P26",
+"fmt": "f2",
+"text": "24.54"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|S26",
+"fmt": "f2",
+"text": "37.88"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|G26",
+"fmt": "g2",
+"text": "+13.35"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|dG",
+"fmt": "g2",
+"text": "+6.56"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|residual",
+"fmt": "g2",
+"text": "+4.51"
+},
+{
+"page": "Reverse-Math",
+"key": "Sierra|implied",
+"fmt": "s",
+"text": "+69"
+},
+{
+"page": "Reverse-Math",
+"key": "Alpine|P22",
+"fmt": "f2",
+"text": "42.40"
+},
+{
+"page": "Reverse-Math",
+"key": "Alpine|S22",
+"fmt": "f2",
+"text": "58.27"
+},
+{
+"page": "Reverse-Math",
+"key": "Alpine|G22",
+"fmt": "g2",
+"text": "+15.86"
+},
+{
+"page": "Reverse-Math",
+"key": "Alpine|P26",
+"fmt": "f2",
+"text": "42.31"
+},
+{
+"page": "Reverse-Math",
+"key": "Alpine|S26",
+"fmt": "f2",
+"text": "66.40"
+},
+{
+"page": "Reverse-Math",
+"key": "Alpine|G26",
+"fmt": "g2",
+"text": "+24.08"
+},
+{
+"page": "Reverse-Math",
+"key": "Alpine|dG",
+"fmt": "g2",
+"text": "+8.22"
+},
+{
+"page": "Reverse-Math",
+"key": "Alpine|implied",
+"fmt": "s",
+"text": "+50"
+},
+{
+"page": "Locked-California-Formula",
+"key": "raw|unproc_remaining",
+"fmt": "i",
+"text": "100,313"
+},
+{
+"page": "Locked-California-Formula",
+"key": "raw|unproc_cure",
+"fmt": "i",
+"text": "96,238"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|const",
+"fmt": "g2",
+"text": "+6.09"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|mult",
+"fmt": "f2",
+"text": "1.53"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|const",
+"fmt": "g4",
+"text": "+6.0938"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|mult",
+"fmt": "f4",
+"text": "1.5300"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|const",
+"fmt": "g2",
+"text": "+6.09"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|const",
+"fmt": "g4",
+"text": "+6.0938"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|mult",
+"fmt": "f2",
+"text": "1.53"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|mult",
+"fmt": "f4",
+"text": "1.5300"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|const_se",
+"fmt": "f2",
+"text": "1.05"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|const_se",
+"fmt": "f4",
+"text": "1.0516"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|mult_se",
+"fmt": "f2",
+"text": "0.54"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|mult_se",
+"fmt": "f4",
+"text": "0.5396"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|r2",
+"fmt": "f2",
+"text": "0.13"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|r2",
+"fmt": "f4",
+"text": "0.1255"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|n",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|n",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|mult",
+"fmt": "f2",
+"text": "1.53"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|const",
+"fmt": "g2",
+"text": "+6.09"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|r2",
+"fmt": "f2",
+"text": "0.13"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|mult_se",
+"fmt": "f2",
+"text": "0.54"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Los Angeles|P22",
+"fmt": "f2",
+"text": "53.49"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Los Angeles|P26",
+"fmt": "f2",
+"text": "51.00"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Los Angeles|drop",
+"fmt": "f4",
+"text": "2.4908"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|const",
+"fmt": "g4",
+"text": "+6.0938"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|mult",
+"fmt": "f4",
+"text": "1.5300"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Los Angeles|drop",
+"fmt": "f4",
+"text": "2.4908"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Los Angeles|eq_pred",
+"fmt": "g2",
+"text": "+9.90"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Los Angeles|dG",
+"fmt": "g2",
+"text": "+8.17"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Los Angeles|eq_diff",
+"fmt": "g2",
+"text": "\u22121.74"
+},
+{
+"page": "Locked-California-Formula",
+"key": "State|drop",
+"fmt": "f4",
+"text": "1.9081"
+},
+{
+"page": "Locked-California-Formula",
+"key": "eq|state_pred",
+"fmt": "g2",
+"text": "+9.01"
+},
+{
+"page": "Locked-California-Formula",
+"key": "State|dG",
+"fmt": "g2",
+"text": "+8.45"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|dem_2022",
+"fmt": "i",
+"text": "1,553"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|dem_2026",
+"fmt": "i",
+"text": "2,682"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|ballots_2022",
+"fmt": "i",
+"text": "5,617"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|ballots_2026",
+"fmt": "i",
+"text": "6,194"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|S22",
+"fmt": "f2",
+"text": "27.65"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|S26",
+"fmt": "f2",
+"text": "43.30"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|regdem_2022",
+"fmt": "i",
+"text": "3,214"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|regdem_2026",
+"fmt": "i",
+"text": "3,346"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|regtot_2022",
+"fmt": "i",
+"text": "10,144"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|regtot_2026",
+"fmt": "i",
+"text": "10,940"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|P22",
+"fmt": "f2",
+"text": "31.68"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|P26",
+"fmt": "f2",
+"text": "30.59"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|G22",
+"fmt": "g2",
+"text": "\u22124.04"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|G26",
+"fmt": "g2",
+"text": "+12.71"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|dG",
+"fmt": "g2",
+"text": "+16.75"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|dP",
+"fmt": "g2",
+"text": "\u22121.10"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|implied",
+"fmt": "s",
+"text": "+969"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|gapreg",
+"fmt": "s",
+"text": "+1,065"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|fit22",
+"fmt": "g2",
+"text": "+5.35"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|fit26",
+"fmt": "g2",
+"text": "+15.22"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|res22",
+"fmt": "g2",
+"text": "\u22129.39"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|res26",
+"fmt": "g2",
+"text": "\u22122.51"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|eq_pred",
+"fmt": "g2",
+"text": "+7.77"
+},
+{
+"page": "Locked-California-Formula",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|n",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|m",
+"fmt": "g2",
+"text": "+36.93"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|m_se",
+"fmt": "f2",
+"text": "4.43"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|b",
+"fmt": "g2",
+"text": "\u22126.35"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|b_se",
+"fmt": "f2",
+"text": "1.82"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|r2",
+"fmt": "f3",
+"text": "0.554"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|resid_se",
+"fmt": "f2",
+"text": "3.77"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|within1",
+"fmt": "pct0",
+"text": "17%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|within2",
+"fmt": "pct0",
+"text": "36%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|within3",
+"fmt": "pct0",
+"text": "53%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|med_abs",
+"fmt": "f2",
+"text": "2.98"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|n",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|m",
+"fmt": "g2",
+"text": "+24.89"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|m_se",
+"fmt": "f2",
+"text": "2.69"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|b",
+"fmt": "g2",
+"text": "+7.61"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|b_se",
+"fmt": "f2",
+"text": "1.06"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|r2",
+"fmt": "f3",
+"text": "0.604"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|resid_se",
+"fmt": "f2",
+"text": "2.29"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|within1",
+"fmt": "pct0",
+"text": "36%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|within2",
+"fmt": "pct0",
+"text": "64%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|within3",
+"fmt": "pct0",
+"text": "83%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|med_abs",
+"fmt": "f2",
+"text": "1.37"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|n",
+"fmt": "i",
+"text": "51"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|m",
+"fmt": "g2",
+"text": "+30.86"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|m_se",
+"fmt": "f2",
+"text": "4.77"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|b",
+"fmt": "g2",
+"text": "\u22123.71"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|b_se",
+"fmt": "f2",
+"text": "1.96"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|r2",
+"fmt": "f3",
+"text": "0.460"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|resid_se",
+"fmt": "f2",
+"text": "3.40"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|within1",
+"fmt": "pct0",
+"text": "25%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|within2",
+"fmt": "pct0",
+"text": "43%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|within3",
+"fmt": "pct0",
+"text": "57%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_narrowed|med_abs",
+"fmt": "f2",
+"text": "2.29"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|n",
+"fmt": "i",
+"text": "51"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|m",
+"fmt": "g2",
+"text": "+23.96"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|m_se",
+"fmt": "f2",
+"text": "2.43"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|b",
+"fmt": "g2",
+"text": "+8.33"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|b_se",
+"fmt": "f2",
+"text": "0.96"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|r2",
+"fmt": "f3",
+"text": "0.665"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|resid_se",
+"fmt": "f2",
+"text": "1.72"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|within1",
+"fmt": "pct0",
+"text": "47%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|within2",
+"fmt": "pct0",
+"text": "75%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|within3",
+"fmt": "pct0",
+"text": "94%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_narrowed|med_abs",
+"fmt": "f2",
+"text": "1.03"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|n",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|m",
+"fmt": "g2",
+"text": "+38.10"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|m_se",
+"fmt": "f2",
+"text": "4.31"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|b",
+"fmt": "g2",
+"text": "\u22126.58"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|b_se",
+"fmt": "f2",
+"text": "2.05"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|r2",
+"fmt": "f3",
+"text": "0.582"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|resid_se",
+"fmt": "f2",
+"text": "3.78"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|within1",
+"fmt": "pct0",
+"text": "17%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|within2",
+"fmt": "pct0",
+"text": "34%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|within3",
+"fmt": "pct0",
+"text": "55%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022_wtd|med_abs",
+"fmt": "f2",
+"text": "2.72"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|n",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|m",
+"fmt": "g2",
+"text": "+13.27"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|m_se",
+"fmt": "f2",
+"text": "2.45"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|b",
+"fmt": "g2",
+"text": "+13.56"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|b_se",
+"fmt": "f2",
+"text": "1.12"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|r2",
+"fmt": "f3",
+"text": "0.344"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|resid_se",
+"fmt": "f2",
+"text": "3.08"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|within1",
+"fmt": "pct0",
+"text": "28%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|within2",
+"fmt": "pct0",
+"text": "62%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|within3",
+"fmt": "pct0",
+"text": "74%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026_wtd|med_abs",
+"fmt": "f2",
+"text": "1.71"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|n",
+"fmt": "i",
+"text": "116"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|m",
+"fmt": "g2",
+"text": "+27.70"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|m_se",
+"fmt": "f2",
+"text": "4.67"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|b",
+"fmt": "g2",
+"text": "+1.93"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|b_se",
+"fmt": "f2",
+"text": "1.89"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|r2",
+"fmt": "f3",
+"text": "0.236"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|resid_se",
+"fmt": "f2",
+"text": "5.64"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|within1",
+"fmt": "pct0",
+"text": "9%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|within2",
+"fmt": "pct0",
+"text": "19%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|within3",
+"fmt": "pct0",
+"text": "33%"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|pooled|med_abs",
+"fmt": "f2",
+"text": "4.50"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|m",
+"fmt": "g2",
+"text": "+36.93"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|b",
+"fmt": "g2",
+"text": "\u22126.35"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|m",
+"fmt": "g2",
+"text": "+24.89"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|b",
+"fmt": "g2",
+"text": "+7.61"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|b_lo",
+"fmt": "g2",
+"text": "\u221210.00"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2022|b_hi",
+"fmt": "g2",
+"text": "\u22122.70"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|b_lo",
+"fmt": "g2",
+"text": "+5.48"
+},
+{
+"page": "Locked-California-Formula",
+"key": "fit|2026|b_hi",
+"fmt": "g2",
+"text": "+9.74"
+},
+{
+"page": "Locked-California-Formula",
+"key": "n|loss",
+"fmt": "i",
+"text": "25"
+},
+{
+"page": "Locked-California-Formula",
+"key": "n|nonloss",
+"fmt": "i",
+"text": "33"
+},
+{
+"page": "Locked-California-Formula",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Los Angeles|ballots_2026",
+"fmt": "i",
+"text": "3,180,986"
+},
+{
+"page": "Locked-California-Formula",
+"key": "State|ballots_2026",
+"fmt": "i",
+"text": "13,422,913"
+},
+{
+"page": "Locked-California-Formula",
+"key": "Colusa|dG",
+"fmt": "g2",
+"text": "+16.75"
+},
+{
+"page": "Locked-California-Formula",
+"key": "San Francisco|dG",
+"fmt": "g2",
+"text": "\u22120.34"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "raw|unproc_remaining",
+"fmt": "i",
+"text": "100,313"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "raw|unproc_cure",
+"fmt": "i",
+"text": "96,238"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|P22",
+"fmt": "f2",
+"text": "31.68"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|P26",
+"fmt": "f2",
+"text": "30.59"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|S22",
+"fmt": "f2",
+"text": "27.65"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|S26",
+"fmt": "f2",
+"text": "43.30"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|dG",
+"fmt": "g2",
+"text": "+16.75"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Merced|P22",
+"fmt": "f2",
+"text": "42.88"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Merced|P26",
+"fmt": "f2",
+"text": "39.47"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Merced|S22",
+"fmt": "f2",
+"text": "45.12"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Merced|S26",
+"fmt": "f2",
+"text": "58.41"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Merced|dG",
+"fmt": "g2",
+"text": "+16.69"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tulare|P22",
+"fmt": "f2",
+"text": "33.50"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tulare|P26",
+"fmt": "f2",
+"text": "31.72"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tulare|S22",
+"fmt": "f2",
+"text": "36.01"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tulare|S26",
+"fmt": "f2",
+"text": "49.67"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tulare|dG",
+"fmt": "g2",
+"text": "+15.44"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kings|P22",
+"fmt": "f2",
+"text": "33.59"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kings|P26",
+"fmt": "f2",
+"text": "31.24"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kings|S22",
+"fmt": "f2",
+"text": "34.61"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kings|S26",
+"fmt": "f2",
+"text": "47.37"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kings|dG",
+"fmt": "g2",
+"text": "+15.10"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kern|P22",
+"fmt": "f2",
+"text": "34.96"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kern|P26",
+"fmt": "f2",
+"text": "33.72"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kern|S22",
+"fmt": "f2",
+"text": "36.55"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kern|S26",
+"fmt": "f2",
+"text": "50.38"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Kern|dG",
+"fmt": "g2",
+"text": "+15.07"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|P22",
+"fmt": "f2",
+"text": "17.04"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|P26",
+"fmt": "f2",
+"text": "15.72"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|S22",
+"fmt": "f2",
+"text": "15.58"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|S26",
+"fmt": "f2",
+"text": "23.33"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|dG",
+"fmt": "g2",
+"text": "+9.07"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|P22",
+"fmt": "f2",
+"text": "20.32"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|P26",
+"fmt": "f2",
+"text": "17.88"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|S22",
+"fmt": "f2",
+"text": "19.97"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|S26",
+"fmt": "f2",
+"text": "26.14"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|dG",
+"fmt": "g2",
+"text": "+8.61"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Shasta|P22",
+"fmt": "f2",
+"text": "22.70"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Shasta|P26",
+"fmt": "f2",
+"text": "21.14"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Shasta|S22",
+"fmt": "f2",
+"text": "26.97"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Shasta|S26",
+"fmt": "f2",
+"text": "33.07"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Shasta|dG",
+"fmt": "g2",
+"text": "+7.65"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tehama|P22",
+"fmt": "f2",
+"text": "23.60"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tehama|P26",
+"fmt": "f2",
+"text": "22.00"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tehama|S22",
+"fmt": "f2",
+"text": "24.13"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tehama|S26",
+"fmt": "f2",
+"text": "31.61"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Tehama|dG",
+"fmt": "g2",
+"text": "+9.09"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Calaveras|P22",
+"fmt": "f2",
+"text": "26.51"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Calaveras|P26",
+"fmt": "f2",
+"text": "23.83"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Calaveras|S22",
+"fmt": "f2",
+"text": "32.94"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Calaveras|S26",
+"fmt": "f2",
+"text": "35.95"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Calaveras|dG",
+"fmt": "g2",
+"text": "+5.70"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "San Francisco|dG",
+"fmt": "g2",
+"text": "\u22120.34"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|dG",
+"fmt": "g2",
+"text": "+0.97"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "San Mateo|dG",
+"fmt": "g2",
+"text": "+2.14"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Santa Clara|dG",
+"fmt": "g2",
+"text": "+3.16"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alameda|dG",
+"fmt": "g2",
+"text": "+4.16"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "fit|cut",
+"fmt": "f3",
+"text": "0.069"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n|narrowed_out",
+"fmt": "i",
+"text": "7"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n|narrowed_in",
+"fmt": "i",
+"text": "51"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "San Francisco|cooks22",
+"fmt": "f3",
+"text": "0.036"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "San Francisco|stud22",
+"fmt": "g2",
+"text": "+0.83"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "San Francisco|cooks26",
+"fmt": "f3",
+"text": "0.141"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "San Francisco|stud26",
+"fmt": "g2",
+"text": "\u22121.63"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "San Francisco|P22",
+"fmt": "f2",
+"text": "63.07"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "San Francisco|G22",
+"fmt": "g2",
+"text": "+19.94"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "San Francisco|G26",
+"fmt": "g2",
+"text": "+19.61"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|cooks22",
+"fmt": "f3",
+"text": "0.001"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|stud22",
+"fmt": "g2",
+"text": "\u22120.11"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|cooks26",
+"fmt": "f3",
+"text": "0.359"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|stud26",
+"fmt": "g2",
+"text": "\u22122.78"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|P22",
+"fmt": "f2",
+"text": "62.25"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|G22",
+"fmt": "g2",
+"text": "+16.24"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|G26",
+"fmt": "g2",
+"text": "+17.20"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Glenn|cooks22",
+"fmt": "f3",
+"text": "0.084"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Glenn|stud22",
+"fmt": "g2",
+"text": "\u22122.19"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Glenn|cooks26",
+"fmt": "f3",
+"text": "0.091"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Glenn|stud26",
+"fmt": "g2",
+"text": "\u22122.36"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Glenn|P22",
+"fmt": "f2",
+"text": "28.01"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Glenn|G22",
+"fmt": "g2",
+"text": "\u22123.85"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Glenn|G26",
+"fmt": "g2",
+"text": "+9.17"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|cooks22",
+"fmt": "f3",
+"text": "0.007"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|stud22",
+"fmt": "g2",
+"text": "\u22120.39"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|cooks26",
+"fmt": "f3",
+"text": "0.148"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|stud26",
+"fmt": "g2",
+"text": "\u22121.82"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|P22",
+"fmt": "f2",
+"text": "17.04"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|G22",
+"fmt": "g2",
+"text": "\u22121.47"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Lassen|G26",
+"fmt": "g2",
+"text": "+7.60"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|cooks22",
+"fmt": "f3",
+"text": "0.085"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|stud22",
+"fmt": "g2",
+"text": "\u22122.66"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|cooks26",
+"fmt": "f3",
+"text": "0.015"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|stud26",
+"fmt": "g2",
+"text": "\u22121.11"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|P22",
+"fmt": "f2",
+"text": "31.68"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|G22",
+"fmt": "g2",
+"text": "\u22124.04"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Colusa|G26",
+"fmt": "g2",
+"text": "+12.71"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|cooks22",
+"fmt": "f3",
+"text": "0.006"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|stud22",
+"fmt": "g2",
+"text": "\u22120.41"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|cooks26",
+"fmt": "f3",
+"text": "0.116"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|stud26",
+"fmt": "g2",
+"text": "\u22121.75"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|P22",
+"fmt": "f2",
+"text": "20.32"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|G22",
+"fmt": "g2",
+"text": "\u22120.35"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Modoc|G26",
+"fmt": "g2",
+"text": "+8.26"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alpine|cooks22",
+"fmt": "f3",
+"text": "0.029"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alpine|stud22",
+"fmt": "g2",
+"text": "+1.79"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alpine|cooks26",
+"fmt": "f3",
+"text": "0.070"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alpine|stud26",
+"fmt": "g2",
+"text": "+2.77"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alpine|P22",
+"fmt": "f2",
+"text": "42.40"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alpine|G22",
+"fmt": "g2",
+"text": "+15.86"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alpine|G26",
+"fmt": "g2",
+"text": "+24.08"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2022|n_ballots_gt_reg",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2026|n_ballots_gt_reg",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2022|n_ballots_gt_elig",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2026|n_ballots_gt_elig",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2022|n_reg_gt_elig",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2026|n_reg_gt_elig",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2022|n_DR_gt_ballots",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2026|n_DR_gt_ballots",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2022|under_median",
+"fmt": "p2",
+"text": "1.27%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "ob|2026|under_median",
+"fmt": "p2",
+"text": "1.12%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "State|under_pct22",
+"fmt": "p2",
+"text": "1.92%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "State|under_pct26",
+"fmt": "p2",
+"text": "1.57%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Amador|turnout_reg22",
+"fmt": "p2",
+"text": "72.89%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|turnout_reg26",
+"fmt": "p2",
+"text": "72.85%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "El Dorado|reg_elig22",
+"fmt": "p2",
+"text": "95.50%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Marin|reg_elig26",
+"fmt": "p2",
+"text": "95.70%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alpine|margin_DR22",
+"fmt": "i",
+"text": "4"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "Alpine|margin_DR26",
+"fmt": "i",
+"text": "6"
+},
+{
+"page": "Graphs",
+"key": "raw|unproc_remaining",
+"fmt": "i",
+"text": "100,313"
+},
+{
+"page": "Graphs",
+"key": "raw|unproc_cure",
+"fmt": "i",
+"text": "96,238"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "raw|unproc_remaining",
+"fmt": "i",
+"text": "100,313"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "raw|unproc_cure",
+"fmt": "i",
+"text": "96,238"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "cmp|pdf_pages",
+"fmt": "i",
+"text": "4"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|P26",
+"fmt": "p1",
+"text": "45.0%"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|regdem_2022",
+"fmt": "i",
+"text": "10,283,258"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|regdem_2026",
+"fmt": "i",
+"text": "10,464,099"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|dreg",
+"fmt": "s",
+"text": "+180,841"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|dreg_pct",
+"fmt": "gp1",
+"text": "+1.8%"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|dem_2022",
+"fmt": "i",
+"text": "6,470,104"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|dem_2026",
+"fmt": "i",
+"text": "8,669,071"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|ddem",
+"fmt": "s",
+"text": "+2,198,967"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|ddem_pct",
+"fmt": "gp1",
+"text": "+34.0%"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|ballots_2022",
+"fmt": "i",
+"text": "11,146,620"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|ballots_2026",
+"fmt": "i",
+"text": "13,422,913"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|dbal",
+"fmt": "s",
+"text": "+2,276,293"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "State|dbal_pct",
+"fmt": "gp1",
+"text": "+20.4%"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "cmp|pdf_matched",
+"fmt": "i",
+"text": "1,180"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "cmp|pdf_cells",
+"fmt": "i",
+"text": "1,180"
+},
+{
+"page": "California-County-PDF-Information",
+"key": "cmp|pdf_mismatches",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "README",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "README",
+"key": "eq|const",
+"fmt": "g2",
+"text": "+6.09"
+},
+{
+"page": "README",
+"key": "eq|mult",
+"fmt": "f2",
+"text": "1.53"
+},
+{
+"page": "README",
+"key": "fit|2022|m",
+"fmt": "g2",
+"text": "+36.93"
+},
+{
+"page": "README",
+"key": "fit|2022|b",
+"fmt": "g2",
+"text": "\u22126.35"
+},
+{
+"page": "README",
+"key": "fit|2026|m",
+"fmt": "g2",
+"text": "+24.89"
+},
+{
+"page": "README",
+"key": "fit|2026|b",
+"fmt": "g2",
+"text": "+7.61"
+},
+{
+"page": "README",
+"key": "cmp|comparisons",
+"fmt": "i",
+"text": "1,160"
+},
+{
+"page": "README",
+"key": "cmp|matched",
+"fmt": "i",
+"text": "1,160"
+},
+{
+"page": "README",
+"key": "cmp|mismatches",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "README",
+"key": "cmp|pdf_matched",
+"fmt": "i",
+"text": "1,180"
+},
+{
+"page": "README",
+"key": "cmp|pdf_cells",
+"fmt": "i",
+"text": "1,180"
+}
+]

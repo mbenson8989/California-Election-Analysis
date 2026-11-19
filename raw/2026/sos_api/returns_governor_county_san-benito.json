@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "Governor - San Benito County Results",
+    "Reporting": "100% (67 of 67) precincts reporting",
+    "ReportingTime": "November 16, 2026, 6:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Xavier Becerra",
+        "Party": "Dem",
+        "Votes": "14,440",
+        "Percent": "61.8",
+        "incumbent": false
+      },
+      {
+        "Name": "Steve Hilton",
+        "Party": "Rep",
+        "Votes": "8,936",
+        "Percent": "38.2",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "Governor - Statewide Results",
+    "Reporting": "100% (23,860 of 23,860) precincts reporting",
+    "ReportingTime": "November 19, 2026, 1:59 p.m.",
+    "candidates": [
+      {
+        "Name": "Xavier Becerra",
+        "Party": "Dem",
+        "Votes": "8,669,071",
+        "Percent": "65.6",
+        "incumbent": false
+      },
+      {
+        "Name": "Steve Hilton",
+        "Party": "Rep",
+        "Votes": "4,542,458",
+        "Percent": "34.4",
+        "incumbent": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,415 @@
+[
+ {
+  "url": "https://api.sos.ca.gov/returns/maps/status/gubernatorial-general",
+  "file": "returns_maps_status_gubernatorial-general.json",
+  "bytes": 43107,
+  "sha256": "de2459a806da21d5c2271f898a839c315ec931072d3da7212b0fe5058c9c4871",
+  "fetched": "2026-11-19T17:27:25.160132-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/alameda",
+  "file": "returns_governor_county_alameda.json",
+  "bytes": 1029,
+  "sha256": "4f6a92710622f7bd7d0dedc3124a22c8b927b39ded68a5998efd89fd8c714e06",
+  "fetched": "2026-11-19T17:27:25.833359-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/alpine",
+  "file": "returns_governor_county_alpine.json",
+  "bytes": 1016,
+  "sha256": "6a978b1a2a28bdc42939df1f5f2278ecf3ee3cd14a0014c258d74d961e2e5103",
+  "fetched": "2026-11-19T17:27:26.181343-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/amador",
+  "file": "returns_governor_county_amador.json",
+  "bytes": 1023,
+  "sha256": "bfbd5499a8c9813a2a86f7f6b480f176ae9db3967fbf7a9455808290b870d9c0",
+  "fetched": "2026-11-19T17:27:26.892656-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/butte",
+  "file": "returns_governor_county_butte.json",
+  "bytes": 1025,
+  "sha256": "b7a31a12898602d77936aec3e15585f5de2a220fcd502cbf3bb2a2f69b0d02c5",
+  "fetched": "2026-11-19T17:27:27.815220-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/calaveras",
+  "file": "returns_governor_county_calaveras.json",
+  "bytes": 1027,
+  "sha256": "816e6e283a455fb7399f5b2395ce7bed349e1b062798a46ec9d11f9bfeedd127",
+  "fetched": "2026-11-19T17:27:28.569224-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/colusa",
+  "file": "returns_governor_county_colusa.json",
+  "bytes": 1022,
+  "sha256": "0d5475f8b2a805c7bc168c890561bf0e3ca36835c6244a4e2c006efa5899ff15",
+  "fetched": "2026-11-19T17:27:28.959335-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/contra-costa",
+  "file": "returns_governor_county_contra-costa.json",
+  "bytes": 1034,
+  "sha256": "867b54cdfb8cdcb7761712097ffc91c295f327375137094b63bb74ce63cc8d5d",
+  "fetched": "2026-11-19T17:27:34.450140-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/del-norte",
+  "file": "returns_governor_county_del-norte.json",
+  "bytes": 1025,
+  "sha256": "9ea2cf37f260e4da36b84336171b3696017aea41149f67c5eb72cf6949fc757b",
+  "fetched": "2026-11-19T17:27:34.882543-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/el-dorado",
+  "file": "returns_governor_county_el-dorado.json",
+  "bytes": 1029,
+  "sha256": "5745ac67682d928816eee6e1a837c03c2d559b501077bbb74f0247843e58f2e6",
+  "fetched": "2026-11-19T17:27:35.588267-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/fresno",
+  "file": "returns_governor_county_fresno.json",
+  "bytes": 1028,
+  "sha256": "6567b864bbd026f21bb1608bb5dbdaf50ba52fa74499a0d647e06046bced4d9b",
+  "fetched": "2026-11-19T17:27:36.403920-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/glenn",
+  "file": "returns_governor_county_glenn.json",
+  "bytes": 1023,
+  "sha256": "7294db34c8335a99fcf7e80c2c45d74b72910482f737b608e8f073a05b9cc200",
+  "fetched": "2026-11-19T17:27:36.725285-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/humboldt",
+  "file": "returns_governor_county_humboldt.json",
+  "bytes": 1028,
+  "sha256": "56883e0b3a4b4f063d126cd31b86ddc9f32cb45d2c3683670c56714474cb4d95",
+  "fetched": "2026-11-19T17:27:37.050278-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/imperial",
+  "file": "returns_governor_county_imperial.json",
+  "bytes": 1028,
+  "sha256": "20b1968132cddea550d39ba71e0ecea4a9fddd1831147c520ae529be249744d1",
+  "fetched": "2026-11-19T17:27:37.718321-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/inyo",
+  "file": "returns_governor_county_inyo.json",
+  "bytes": 1020,
+  "sha256": "94c5d56aaa3f36d06b5145197bf21afb5cda2adaa1f6c5d05956e1e450beaf7d",
+  "fetched": "2026-11-19T17:27:38.232041-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/kern",
+  "file": "returns_governor_county_kern.json",
+  "bytes": 1026,
+  "sha256": "5daf59fabbf9ae4cba35fd42b6f7bf9e4bb745a9c0bb7820168d98821b9022fb",
+  "fetched": "2026-11-19T17:27:38.670147-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/kings",
+  "file": "returns_governor_county_kings.json",
+  "bytes": 1023,
+  "sha256": "d9f33009507932447fdea02f3ecb7c7c86b3a50ac76d42d1981878b1919f9125",
+  "fetched": "2026-11-19T17:27:39.061178-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/lake",
+  "file": "returns_governor_county_lake.json",
+  "bytes": 1021,
+  "sha256": "b8b9f6524f036b204185b80f7fa42655f43ed17f00766f942205819acd19327b",
+  "fetched": "2026-11-19T17:27:39.406081-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/lassen",
+  "file": "returns_governor_county_lassen.json",
+  "bytes": 1022,
+  "sha256": "534ad5012387447f97650a3a8d338a393625eb125f97ad635ab97b71b0c3f5cf",
+  "fetched": "2026-11-19T17:27:39.823246-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/los-angeles",
+  "file": "returns_governor_county_los-angeles.json",
+  "bytes": 1039,
+  "sha256": "1865f29e54c44a77199735f9d7a9964aeaf85ced771c99d8ed52389cd8a42611",
+  "fetched": "2026-11-19T17:27:40.283437-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/madera",
+  "file": "returns_governor_county_madera.json",
+  "bytes": 1024,
+  "sha256": "a51e51b65eea9178569deef5aef050f79aff3f4eeabfea55d80348b89fae99eb",
+  "fetched": "2026-11-19T17:27:41.001131-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/marin",
+  "file": "returns_governor_county_marin.json",
+  "bytes": 1025,
+  "sha256": "d66164e5ab4ca5fd388ce59c637a849786025f2a8c0363fa7ae8a7d76f41b211",
+  "fetched": "2026-11-19T17:27:41.503904-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/mariposa",
+  "file": "returns_governor_county_mariposa.json",
+  "bytes": 1024,
+  "sha256": "69beeff12c3cabef78851269ae7b71e80c73e306d738ca8e7754b3087f72b383",
+  "fetched": "2026-11-19T17:27:42.165753-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/mendocino",
+  "file": "returns_governor_county_mendocino.json",
+  "bytes": 1029,
+  "sha256": "2b2d79a7c83329935593efd5776bfdc00ef71db9851918ac08ebe55f85e84118",
+  "fetched": "2026-11-19T17:27:42.903703-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/merced",
+  "file": "returns_governor_county_merced.json",
+  "bytes": 1026,
+  "sha256": "3e959c18883599c594823ffdb27098e074c037692b3fbfd0061b364f0e222aee",
+  "fetched": "2026-11-19T17:27:43.327310-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/modoc",
+  "file": "returns_governor_county_modoc.json",
+  "bytes": 1019,
+  "sha256": "cd2e889c9983eb67af3b8255ca921c549b735b25663fc6eedf3722c9e14eee1a",
+  "fetched": "2026-11-19T17:27:44.111482-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/mono",
+  "file": "returns_governor_county_mono.json",
+  "bytes": 1020,
+  "sha256": "aae8eabd5301b64f4e01950ad32e88f9e6c82d8d19330c190a46eae9c2819d83",
+  "fetched": "2026-11-19T17:27:44.817097-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/monterey",
+  "file": "returns_governor_county_monterey.json",
+  "bytes": 1028,
+  "sha256": "612c6bfa9eeba633ae3aadb71d1dc26d188c8fb3d6360d69bd1de47dd780eefc",
+  "fetched": "2026-11-19T17:27:45.571510-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/napa",
+  "file": "returns_governor_county_napa.json",
+  "bytes": 1024,
+  "sha256": "645aed1c84ab211db76181b176ecb3b385ebe9b7880189ee01ab5bf2c34de981",
+  "fetched": "2026-11-19T17:27:45.936398-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/nevada",
+  "file": "returns_governor_county_nevada.json",
+  "bytes": 1026,
+  "sha256": "7f5ff91849c4ec6fbdcf184dcb4a36e8bf160cfc2b145383227d3fa658e88423",
+  "fetched": "2026-11-19T17:27:46.392882-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/orange",
+  "file": "returns_governor_county_orange.json",
+  "bytes": 1032,
+  "sha256": "905024d7f1227629e19e5f48bd67e317a332a400bd117fee83a5e4adb97479c5",
+  "fetched": "2026-11-19T17:27:46.723226-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/placer",
+  "file": "returns_governor_county_placer.json",
+  "bytes": 1027,
+  "sha256": "6e0b795da4552d447d5731c146b1a46dc0d962eefeedb4e7c3a8a2b736c9cd4b",
+  "fetched": "2026-11-19T17:27:47.453491-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/plumas",
+  "file": "returns_governor_county_plumas.json",
+  "bytes": 1022,
+  "sha256": "0457e7d9870d32d47b2260ee2cebde2d34df756f3e59861244044d0c1c94b425",
+  "fetched": "2026-11-19T17:27:48.183533-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/riverside",
+  "file": "returns_governor_county_riverside.json",
+  "bytes": 1035,
+  "sha256": "5558ff4f48353a7b220449fe612cb1d7751624812825dea3173b4cfcea6f3369",
+  "fetched": "2026-11-19T17:27:48.962268-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/sacramento",
+  "file": "returns_governor_county_sacramento.json",
+  "bytes": 1032,
+  "sha256": "5aacbc377f3d39ed3ad6b6f09f854620a20d949038d6c2287040658512d79f9c",
+  "fetched": "2026-11-19T17:27:49.391563-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/san-benito",
+  "file": "returns_governor_county_san-benito.json",
+  "bytes": 1027,
+  "sha256": "b71578fd353eec949389a002577ddb45894cfd86de84f144b3217c0ecf5912c8",
+  "fetched": "2026-11-19T17:27:49.747730-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/san-bernardino",
+  "file": "returns_governor_county_san-bernardino.json",
+  "bytes": 1041,
+  "sha256": "33aadfeb8bf69e7e829234560b8ee74a19a2c6a7e327beabeab2c9d802cc5231",
+  "fetched": "2026-11-19T17:27:50.406200-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/san-diego",
+  "file": "returns_governor_county_san-diego.json",
+  "bytes": 1035,
+  "sha256": "edd0625af0f2388f59efa41d8a384f55d21cf61ad4b56fcb182d2cb230c0ade5",
+  "fetched": "2026-11-19T17:27:51.184914-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/san-francisco",
+  "file": "returns_governor_county_san-francisco.json",
+  "bytes": 1034,
+  "sha256": "009e12c76adb90bc777ff19534a82274fbfa828c22bd99e3d540ccda5d7e36da",
+  "fetched": "2026-11-19T17:27:51.628499-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/san-joaquin",
+  "file": "returns_governor_county_san-joaquin.json",
+  "bytes": 1033,
+  "sha256": "72d49cbfb0a9a27ab71d208e40f8d8089b68ec258e2ecdf5fb86df27524c33af",
+  "fetched": "2026-11-19T17:27:52.244676-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/san-luis-obispo",
+  "file": "returns_governor_county_san-luis-obispo.json",
+  "bytes": 1035,
+  "sha256": "db3515036c9a8e828b1fd2d0ddf6d678649475befd4bf63934c6fc260fdcbee4",
+  "fetched": "2026-11-19T17:27:52.622672-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/san-mateo",
+  "file": "returns_governor_county_san-mateo.json",
+  "bytes": 1030,
+  "sha256": "2979f15f510db1a80e3f06e779cbf4d9026be359a7576f8d719c7c87879d92ea",
+  "fetched": "2026-11-19T17:27:53.152019-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/santa-barbara",
+  "file": "returns_governor_county_santa-barbara.json",
+  "bytes": 1034,
+  "sha256": "3055f2bc742c0f554e1fc8a7eb39d9bdbf919e3aec8e366f26944dba17b80a98",
+  "fetched": "2026-11-19T17:27:53.468939-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/santa-clara",
+  "file": "returns_governor_county_santa-clara.json",
+  "bytes": 1033,
+  "sha256": "c71c0c0fb24023fc996b4ff648d33757e6363c72778b7a1ea0d47fd569e4bcde",
+  "fetched": "2026-11-19T17:27:54.206549-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/santa-cruz",
+  "file": "returns_governor_county_santa-cruz.json",
+  "bytes": 1030,
+  "sha256": "cedd291a04c822b7082e8cdb280ba705a574c1f12fe521d71f1710c17df6a53e",
+  "fetched": "2026-11-19T17:27:54.848679-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/shasta",
+  "file": "returns_governor_county_shasta.json",
+  "bytes": 1024,
+  "sha256": "51a5e35d89c36eacdc41e40fa5ad8202020f21b02cb8dca6bd877a0c23eec285",
+  "fetched": "2026-11-19T17:27:55.261359-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/sierra",
+  "file": "returns_governor_county_sierra.json",
+  "bytes": 1018,
+  "sha256": "ed973283dcf5c6c276214f53c674ef7adc33b5d51a78e36856614201e0df1ebf",
+  "fetched": "2026-11-19T17:27:55.924204-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/siskiyou",
+  "file": "returns_governor_county_siskiyou.json",
+  "bytes": 1025,
+  "sha256": "3daf8b1b72b635c98424bb87b5b7259e72b9903f8b2b58182cf0f3b5e0e0c234",
+  "fetched": "2026-11-19T17:27:56.262522-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/solano",
+  "file": "returns_governor_county_solano.json",
+  "bytes": 1027,
+  "sha256": "53fbf0550d6c005af332000d04c72bd5d5be95272a2b3ed09432011c867e493d",
+  "fetched": "2026-11-19T17:27:56.642521-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/sonoma",
+  "file": "returns_governor_county_sonoma.json",
+  "bytes": 1028,
+  "sha256": "7a883d97ba8a14dcc23b32b7a36193867c694efb717fb0e7d16ab49092d095fb",
+  "fetched": "2026-11-19T17:27:57.030355-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/stanislaus",
+  "file": "returns_governor_county_stanislaus.json",
+  "bytes": 1030,
+  "sha256": "daa5f4e32b89a04f71e8be742d4f16a1786b096912ecdce120586e2578f535e7",
+  "fetched": "2026-11-19T17:27:57.518531-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/sutter",
+  "file": "returns_governor_county_sutter.json",
+  "bytes": 1024,
+  "sha256": "d88bf3b201b9ea36448956cf30d88aba7ae2869cacccfd0cacaeb32d3fe73fb4",
+  "fetched": "2026-11-19T17:27:58.038106-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/tehama",
+  "file": "returns_governor_county_tehama.json",
+  "bytes": 1023,
+  "sha256": "0b1b97248758d0a54a54bbbf4489bd4e0e8f588ef1a0e10fe10223ab1a25a74f",
+  "fetched": "2026-11-19T17:27:59.163156-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/trinity",
+  "file": "returns_governor_county_trinity.json",
+  "bytes": 1023,
+  "sha256": "e2c4e25317685e9179aa3cac76b89661dc9eb49d991ad68a3f44eb07742fccb7",
+  "fetched": "2026-11-19T17:27:59.580956-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/tulare",
+  "file": "returns_governor_county_tulare.json",
+  "bytes": 1026,
+  "sha256": "2f2f518343106bc1d0cf950d90f62b01f3840db36fff2e4e2ed7980da600e453",
+  "fetched": "2026-11-19T17:28:00.072116-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/tuolumne",
+  "file": "returns_governor_county_tuolumne.json",
+  "bytes": 1025,
+  "sha256": "381e74dac6ee013dab488b4e8d708db3df4bc913442640925c2796126b855f19",
+  "fetched": "2026-11-19T17:28:00.789480-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/ventura",
+  "file": "returns_governor_county_ventura.json",
+  "bytes": 1034,
+  "sha256": "e963b6abaddcc039eb9ee28ffd8abeb883bd5a8c593b4a519bb973ae1f3bbb28",
+  "fetched": "2026-11-19T17:28:01.481565-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/yolo",
+  "file": "returns_governor_county_yolo.json",
+  "bytes": 1022,
+  "sha256": "37ab11ec345aa52cb01661040e4e992e9f69c5f9b339f58a797a6a29a7de0278",
+  "fetched": "2026-11-19T17:28:01.927817-06:00"
+ },
+ {
+  "url": "https://api.sos.ca.gov/returns/governor/county/yuba",
+  "file": "returns_governor_county_yuba.json",
+  "bytes": 1022,
+  "sha256": "ecff7a178b71959028426b225d3fdf4fcca794007ba85d153044ffac2597f1e1",
+  "fetched": "2026-11-19T17:28:02.630138-06:00"
+ }
+]

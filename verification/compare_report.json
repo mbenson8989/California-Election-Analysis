@@ -1,0 +1,122 @@
+{
+ "counties": 58,
+ "figures_per_county": 20,
+ "comparisons": 1160,
+ "matched": 1160,
+ "mismatches_total": 0,
+ "analysis_figures_per_county": 18,
+ "analysis_comparisons": 1044,
+ "analysis_mismatches": [],
+ "reference_only_mismatches": [],
+ "statewide_checks": [
+  {
+   "item": "dem_2022",
+   "SOS_published": 6470104,
+   "passA_sum": 6470104,
+   "passB_sum": 6470104,
+   "ok": true
+  },
+  {
+   "item": "rep_2022",
+   "SOS_published": 4462914,
+   "passA_sum": 4462914,
+   "passB_sum": 4462914,
+   "ok": true
+  },
+  {
+   "item": "ballots_2022",
+   "SOS_published": 11146620,
+   "passA_sum": 11146620,
+   "passB_sum": 11146620,
+   "ok": true
+  },
+  {
+   "item": "regdem_2022",
+   "SOS_published": 10283258,
+   "passA_sum": 10283258,
+   "passB_sum": 10283258,
+   "ok": true
+  },
+  {
+   "item": "regrep_2022",
+   "SOS_published": 5232094,
+   "passA_sum": 5232094,
+   "passB_sum": 5232094,
+   "ok": true
+  },
+  {
+   "item": "regtot_2022",
+   "SOS_published": 21940274,
+   "passA_sum": 21940274,
+   "passB_sum": 21940274,
+   "ok": true
+  },
+  {
+   "item": "eligible_2022",
+   "SOS_published": 26876800,
+   "passA_sum": 26876800,
+   "passB_sum": 26876800,
+   "ok": true
+  },
+  {
+   "item": "dem_2026",
+   "SOS_published": 8669071,
+   "passA_sum": 8669071,
+   "passB_sum": 8669071,
+   "ok": true
+  },
+  {
+   "item": "rep_2026",
+   "SOS_published": 4542458,
+   "passA_sum": 4542458,
+   "passB_sum": 4542458,
+   "ok": true
+  },
+  {
+   "item": "ballots_2026",
+   "SOS_published": 13422913,
+   "passA_sum": 13422913,
+   "passB_sum": 13422913,
+   "ok": true
+  },
+  {
+   "item": "regdem_2026",
+   "SOS_published": 10464099,
+   "passA_sum": 10464099,
+   "passB_sum": 10464099,
+   "ok": true
+  },
+  {
+   "item": "regrep_2026",
+   "SOS_published": 5746921,
+   "passA_sum": 5746921,
+   "passB_sum": 5746921,
+   "ok": true
+  },
+  {
+   "item": "regtot_2026",
+   "SOS_published": 23273590,
+   "passA_sum": 23273590,
+   "passB_sum": 23273590,
+   "ok": true
+  },
+  {
+   "item": "eligible_2026",
+   "SOS_published": 27168679,
+   "passA_sum": 27168679,
+   "passB_sum": 27168679,
+   "ok": true
+  }
+ ],
+ "statewide_sources": {
+  "2022": "State Totals row of the 2022 SOV governor table (19-governor.pdf/.xlsx; SOV certified Dec 16, 2022); State Total row of SOV Voter Participation Statistics by County (Total Voters)",
+  "2026": "Governor statewide card (as of Nov 19, 2026, 1:59 p.m. PT) and Statewide row of County Reporting Status (Ballots Cast) on electionresults.sos.ca.gov, UNOFFICIAL",
+  "reg": "State Total row of each 15-day Report of Registration (as of Oct 24, 2022 and Oct 19, 2026)"
+ },
+ "fitted_equation_checks": {
+  "n": 122,
+  "mismatches": [],
+  "tolerance": 1e-09
+ },
+ "CLEAN": true
+}

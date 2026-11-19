@@ -1,0 +1,264 @@
+{
+ "runs": [
+  {
+   "pages": [
+    {
+     "name": "home",
+     "url": "https://electionresults.sos.ca.gov/",
+     "captured": "2026-11-19T16:54:00.262117-06:00",
+     "chars": 2035
+    },
+    {
+     "name": "governor",
+     "url": "https://electionresults.sos.ca.gov/returns/governor",
+     "captured": "2026-11-19T16:54:10.188671-06:00",
+     "chars": 2689
+    },
+    {
+     "name": "county_status",
+     "url": "https://electionresults.sos.ca.gov/returns/status",
+     "captured": "2026-11-19T16:54:20.020479-06:00",
+     "chars": 7982
+    },
+    {
+     "name": "voter_turnout_map",
+     "url": "https://electionresults.sos.ca.gov/returns/maps/voter-turnout",
+     "captured": "2026-11-19T16:54:29.988792-06:00",
+     "chars": 1772
+    },
+    {
+     "name": "unprocessed_ballots",
+     "url": "https://electionresults.sos.ca.gov/unprocessed-ballots-status",
+     "captured": "2026-11-19T16:54:39.828720-06:00",
+     "chars": 7918
+    }
+   ],
+   "xhr": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1h1v9123753434za20oxf1&_p=1795128830801&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAI&cid=911693186.1795128831&frm=0&ngs=1&pscdl=noapi&rcb=5&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938465~115938469~120213116~120385423~120469145~120469153~121246026~121246034~123785233&sid=1795128831&sct=1&seg=0&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2F&dt=Election%20Night%20Results%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=976",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1h1v9123753434za20oxf1&_p=1795128840887&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAIAAQ&cid=911693186.1795128831&frm=0&ngs=1&pscdl=noapi&rcb=13&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938468~120213116~120385422~120469145~120469153~121246026~121246034~123785234&sid=1795128831&sct=1&seg=1&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2Freturns%2Fgovernor&dt=Governor%20-%20Statewide%20Results%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&tfd=5748",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1h1v9123753434za20oxf1&_p=1795128850698&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAIAAQ&cid=911693186.1795128831&frm=0&ngs=1&pscdl=noapi&rcb=11&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~120213116~120385423~120469145~120469153~121246026~121246034&sid=1795128831&sct=1&seg=1&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2Freturns%2Fstatus&dt=County%20Reporting%20Status%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&tfd=5607",
+     "type": "fetch"
+    },
+    {
+     "url": "https://api.sos.ca.gov/returns/maps/status/gubernatorial-general",
+     "type": "xhr"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1h1v9123753434za20oxf1&_p=1795128860516&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAIAAQ&cid=911693186.1795128831&frm=0&ngs=1&pscdl=noapi&rcb=11&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~120213116~120385422~120469145~120469153~121246026~121246034~123785233&sid=1795128831&sct=1&seg=1&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2Freturns%2Fmaps%2Fvoter-turnout&dt=Voter%20Turnout%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&tfd=5677",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1h1v9123753434za20oxf1&_p=1795128870581&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAIAAQ&cid=911693186.1795128831&frm=0&ngs=1&pscdl=noapi&rcb=8&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938466~115938469~120213116~120385422~120469145~120469153~121246026~121246034&sid=1795128831&sct=1&seg=1&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2Funprocessed-ballots-status&dt=Unprocessed%20Ballots%20Status%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&tfd=5686",
+     "type": "fetch"
+    }
+   ]
+  },
+  {
+   "pages": [
+    {
+     "name": "home",
+     "url": "https://electionresults.sos.ca.gov/",
+     "captured": "2026-11-19T17:01:18.742985-06:00",
+     "chars": 2035
+    },
+    {
+     "name": "governor",
+     "url": "https://electionresults.sos.ca.gov/returns/governor",
+     "captured": "2026-11-19T17:01:28.606964-06:00",
+     "chars": 2689
+    },
+    {
+     "name": "county_status",
+     "url": "https://electionresults.sos.ca.gov/returns/status",
+     "captured": "2026-11-19T17:01:38.617576-06:00",
+     "chars": 7982
+    },
+    {
+     "name": "voter_turnout_map",
+     "url": "https://electionresults.sos.ca.gov/returns/maps/voter-turnout",
+     "captured": "2026-11-19T17:01:48.561537-06:00",
+     "chars": 1772
+    },
+    {
+     "name": "unprocessed_ballots",
+     "url": "https://electionresults.sos.ca.gov/unprocessed-ballots-status",
+     "captured": "2026-11-19T17:01:58.290080-06:00",
+     "chars": 7918
+    },
+    {
+     "name": "gov_county_sonoma",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/sonoma",
+     "captured": "2026-11-19T17:02:03.035800-06:00",
+     "chars": 2288
+    },
+    {
+     "name": "gov_county_stanislaus",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/stanislaus",
+     "captured": "2026-11-19T17:02:07.613754-06:00",
+     "chars": 2290
+    },
+    {
+     "name": "gov_county_sutter",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/sutter",
+     "captured": "2026-11-19T17:02:12.329434-06:00",
+     "chars": 2284
+    },
+    {
+     "name": "gov_county_tehama",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/tehama",
+     "captured": "2026-11-19T17:02:16.887596-06:00",
+     "chars": 2283
+    },
+    {
+     "name": "gov_county_trinity",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/trinity",
+     "captured": "2026-11-19T17:02:21.497730-06:00",
+     "chars": 2283
+    },
+    {
+     "name": "gov_county_tulare",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/tulare",
+     "captured": "2026-11-19T17:02:25.955886-06:00",
+     "chars": 2286
+    },
+    {
+     "name": "gov_county_tuolumne",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/tuolumne",
+     "captured": "2026-11-19T17:02:30.529709-06:00",
+     "chars": 2285
+    },
+    {
+     "name": "gov_county_ventura",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/ventura",
+     "captured": "2026-11-19T17:02:35.119227-06:00",
+     "chars": 2294
+    },
+    {
+     "name": "gov_county_yolo",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/yolo",
+     "captured": "2026-11-19T17:02:39.697512-06:00",
+     "chars": 2282
+    },
+    {
+     "name": "gov_county_yuba",
+     "url": "https://electionresults.sos.ca.gov/returns/governor/county/yuba",
+     "captured": "2026-11-19T17:02:44.312487-06:00",
+     "chars": 2282
+    }
+   ],
+   "xhr": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1v9123753434za20oxf1&_p=1795129269110&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAI&cid=2104296508.1795129270&frm=0&ngs=1&pscdl=noapi&rcb=18&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938468~120213116~120385422~120469145~120469153~121246026~121246034&sid=1795129269&sct=1&seg=0&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2F&dt=Election%20Night%20Results%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=1189",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1v9123753434za20oxf1&_p=1795129279299&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAIAAQ&cid=2104296508.1795129270&frm=0&ngs=1&pscdl=noapi&rcb=6&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938465~115938469~118012007~120213116~120385423~120469145~120469153~121246026~121246034&sid=1795129269&sct=1&seg=1&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2Freturns%2Fgovernor&dt=Governor%20-%20Statewide%20Results%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&tfd=5699",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1v9123753434za20oxf1&_p=1795129289380&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAIAAQ&cid=2104296508.1795129270&frm=0&ngs=1&pscdl=noapi&rcb=4&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~120213116~120385423~120469145~120469153~121246026~121246034~123785234&sid=1795129269&sct=1&seg=1&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2Freturns%2Fstatus&dt=County%20Reporting%20Status%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&tfd=5908",
+     "type": "fetch"
+    },
+    {
+     "url": "https://api.sos.ca.gov/returns/maps/status/gubernatorial-general",
+     "type": "xhr"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1v9123753434za20oxf1&_p=1795129299178&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAIAAQ&cid=2104296508.1795129270&frm=0&ngs=1&pscdl=noapi&rcb=2&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~120213116~120385423~120469145~120469153~121246026~121246034~123785232&sid=1795129269&sct=1&seg=1&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2Freturns%2Fmaps%2Fvoter-turnout&dt=Voter%20Turnout%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&tfd=5645",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-4XHX92N48M&gtm=45je6bh1v9123753434za20oxf1&_p=1795129309137&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAIAAQ&cid=2104296508.1795129270&frm=0&ngs=1&pscdl=noapi&rcb=13&sr=1500x1200&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.47%7CGoogle%2520Chrome%3B156.0.8078.47&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938468~120213116~120385422~120469145~120469153~121246026~121246034&sid=1795129269&sct=1&seg=1&dl=https%3A%2F%2Felectionresults.sos.ca.gov%2Funprocessed-ballots-status&dt=Unprocessed%20Ballots%20Status%20%7C%202026%20General%20Election%20%7C%20California%20Secretary%20of%20State&en=page_view&tfd=5693",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    },
+    {
+     "url": "https://electionresults.sos.ca.gov/barres-speach-do-Horse-Art-is-it-prochese-Hath-m?d=electionresults.sos.ca.gov",
+     "type": "fetch"
+    }
+   ]
+  }
+ ]
+}

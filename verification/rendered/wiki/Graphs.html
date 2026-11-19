@@ -1,0 +1,36 @@
+<blockquote>
+<p><strong>*2026 figures are UNOFFICIAL.</strong> The California Secretary of State (SOS) results site, electionresults.sos.ca.gov, labels the November 3, 2026 general election results "Unofficial" (semi-final unofficial results with county updates; statewide figures as of November 19, 2026, 1:59 p.m. Pacific; pulled November 19, 2026). Counties are still in the canvass: the SOS Unprocessed Ballots Report (as of 11/18/2026 5:33 p.m.) estimated 100,313 ballots statewide still to process, plus 96,238 ballots left to cure. Counties must report final official results by December 4, 2026, and the SOS certifies on December 11, 2026, so these pages need a re-run after certification. 2022 figures are the certified Statement of Vote (certificate dated the 16th day of December, 2022). <strong>P</strong> = Democratic share of registered voters in the SOS 15-day Report of Registration (close of registration: as of October 24, 2022 and as of October 19, 2026). Governor race only. Votes are votes for the Democratic candidate, not a count of registered Democrats who voted. These pages measure a pattern; they make no claim about intent, fraud or cause.</p>
+</blockquote>
+<p>Every chart carries the source and the 2026 UNOFFICIAL label in its footer. Bars run left to right from the largest county to the smallest (Census Vintage 2025).</p>
+<h2>Slope chart: G, 2022 to 2026</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Slope_G2022_to_G2026.png"><img src="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Slope_G2022_to_G2026.png" alt="County G in 2022 and 2026" style="max-width: 100%;"></a></p>
+<p><em>Each line is one county. Red lines are the ceiling counties, blue lines the floor counties.</em></p>
+<h2>ΔG by county, population order</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_DeltaG_by_Population.png"><img src="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_DeltaG_by_Population.png" alt="Bar chart of ΔG by county" style="max-width: 100%;"></a></p>
+<p><em>Largest county on the left. Red = ceiling, blue = floor.</em></p>
+<h2>What ΔG is made of: ΔS vs ΔP</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_DeltaG_Components_dS_vs_dP_by_Population.png"><img src="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_DeltaG_Components_dS_vs_dP_by_Population.png" alt="ΔS and minus ΔP by county" style="max-width: 100%;"></a></p>
+<p><em>Blue = change in the Democratic share of ballots; orange = minus the change in the Democratic registration share; black tick = ΔG.</em></p>
+<h2>Democratic share of ballots and P, population order</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Stacked_Share_and_Registration_by_Population.png"><img src="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Stacked_Share_and_Registration_by_Population.png" alt="Democratic share of ballots with registration markers" style="max-width: 100%;"></a></p>
+<p><em>Bars: the Democratic share of ballots, with the 2026 gain stacked on top. Markers: P in each year.</em></p>
+<h2>Forward fit: CA-only constants</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Forward_Fit_G_vs_P_2022_2026.png"><img src="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Forward_Fit_G_vs_P_2022_2026.png" alt="G against P with fitted lines" style="max-width: 100%;"></a></p>
+<p><em>Solid line: all-county fit. Dashed: narrowed fit. Black outline = narrowed-out county.</em></p>
+<h2>ΔG vs ΔP</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_DeltaG_vs_DeltaP_Scatter.png"><img src="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_DeltaG_vs_DeltaP_Scatter.png" alt="ΔG against the registration-share change" style="max-width: 100%;"></a></p>
+<p><em>Counties above the dotted line had a rise in S.</em></p>
+<h2>Residual step and implied extra votes</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Residual_and_Implied_Votes_by_Population.png"><img src="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Residual_and_Implied_Votes_by_Population.png" alt="Residual and implied extra votes by county" style="max-width: 100%;"></a></p>
+<p><em>Top: residual = ΔG − |ΔP| for loss counties only. Bottom: implied extra votes (symmetric log scale).</em></p>
+<h2>Over-ballot check</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Overballot_Check_by_Population.png"><img src="https://raw.githubusercontent.com/mbenson8989/California-Election-Analysis/main/CA_Overballot_Check_by_Population.png" alt="Ballots against governor votes and against registration" style="max-width: 100%;"></a></p>
+<p><em>Top: ballots minus governor votes, as a share of ballots. Bottom: ballots as a share of 15-day registration. No county crosses either line.</em></p>
+<h2>Data behind the charts</h2>
+<ul>
+<li>County table: <a href="https://github.com/mbenson8989/California-Election-Analysis/blob/main/data/CA_Governor_2022_2026_DeltaG_by_County.csv">data/CA_Governor_2022_2026_DeltaG_by_County.csv</a></li>
+<li>Fits, narrowed fits, floor and ceiling, over-ballot checks: <a href="https://github.com/mbenson8989/California-Election-Analysis/blob/main/data/CA_results_summary.json">data/CA_results_summary.json</a></li>
+<li>Verification (both passes, figure by figure): <a href="https://github.com/mbenson8989/California-Election-Analysis/tree/main/verification">verification/</a></li>
+</ul>
+<hr>
+<p><strong>Related:</strong> <a href="Home">Home</a> · <a href="Reverse-Math">Bottom-Up Reverse Math</a> · <a href="Locked-California-Formula">Locked California Formula</a> · <a href="Floor-and-Ceiling">Floor and Ceiling Counties</a> · <a href="California-County-PDF-Information">California County PDF Information</a> · <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit (Nebraska)</a></p>

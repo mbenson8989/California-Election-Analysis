@@ -1,0 +1,326 @@
+{
+ "2022_sov_governor_state_totals": [
+  6470104,
+  4462914
+ ],
+ "2022_participation_state_total_line": [
+  25554,
+  26876800,
+  21940274,
+  1391422,
+  9755198,
+  11146620
+ ],
+ "2026_rendered_county_as_of": {
+  "Alameda": "November 16, 2026, 6:56 p.m.",
+  "Alpine": "November 16, 2026, 2:32 p.m.",
+  "Amador": "November 13, 2026, 2:27 p.m.",
+  "Butte": "November 17, 2026, 3:13 p.m.",
+  "Calaveras": "November 17, 2026, 10:41 a.m.",
+  "Colusa": "November 16, 2026, 3:43 p.m.",
+  "Contra Costa": "November 18, 2026, 3:13 p.m.",
+  "Del Norte": "November 17, 2026, 4:08 p.m.",
+  "El Dorado": "November 19, 2026, 1:59 p.m.",
+  "Fresno": "November 16, 2026, 4:44 p.m.",
+  "Glenn": "November 16, 2026, 3:52 p.m.",
+  "Humboldt": "November 18, 2026, 3:11 p.m.",
+  "Imperial": "November 18, 2026, 5:18 p.m.",
+  "Inyo": "November 10, 2026, 3:18 p.m.",
+  "Kern": "November 17, 2026, 5:25 p.m.",
+  "Kings": "November 17, 2026, 2:19 p.m.",
+  "Lake": "November 16, 2026, 3:45 p.m.",
+  "Lassen": "November 18, 2026, 4:23 p.m.",
+  "Los Angeles": "November 17, 2026, 4:01 p.m.",
+  "Madera": "November 12, 2026, 4:13 p.m.",
+  "Marin": "November 17, 2026, 4:05 p.m.",
+  "Mariposa": "November 12, 2026, 2:01 p.m.",
+  "Mendocino": "November 16, 2026, 3:38 p.m.",
+  "Merced": "November 17, 2026, 3:35 p.m.",
+  "Modoc": "November 13, 2026, 3:08 p.m.",
+  "Mono": "November 13, 2026, 7:09 p.m.",
+  "Monterey": "November 18, 2026, 4:33 p.m.",
+  "Napa": "November 16, 2026, 5:04 p.m.",
+  "Nevada": "November 17, 2026, 4:03 p.m.",
+  "Orange": "November 18, 2026, 5:13 p.m.",
+  "Placer": "November 17, 2026, 5:13 p.m.",
+  "Plumas": "November 17, 2026, 3:42 p.m.",
+  "Riverside": "November 18, 2026, 5:21 p.m.",
+  "Sacramento": "November 16, 2026, 3:16 p.m.",
+  "San Benito": "November 16, 2026, 6:44 p.m.",
+  "San Bernardino": "November 17, 2026, 12:43 p.m.",
+  "San Diego": "November 16, 2026, 5:36 p.m.",
+  "San Francisco": "November 17, 2026, 4:03 p.m.",
+  "San Joaquin": "November 19, 2026, 10:57 a.m.",
+  "San Luis Obispo": "November 16, 2026, 3:50 p.m.",
+  "San Mateo": "November 16, 2026, 4:26 p.m.",
+  "Santa Barbara": "November 19, 2026, 1:17 p.m.",
+  "Santa Clara": "November 18, 2026, 4:49 p.m.",
+  "Santa Cruz": "November 17, 2026, 4:21 p.m.",
+  "Shasta": "November 16, 2026, 5:15 p.m.",
+  "Sierra": "November 16, 2026, 3:48 p.m.",
+  "Siskiyou": "November 17, 2026, 2:10 p.m.",
+  "Solano": "November 18, 2026, 4:49 p.m.",
+  "Sonoma": "November 18, 2026, 12:33 p.m.",
+  "Stanislaus": "November 16, 2026, 2:35 p.m.",
+  "Sutter": "November 13, 2026, 4:21 p.m.",
+  "Tehama": "November 16, 2026, 4:16 p.m.",
+  "Trinity": "November 12, 2026, 4:04 p.m.",
+  "Tulare": "November 16, 2026, 5:34 p.m.",
+  "Tuolumne": "November 12, 2026, 5:04 p.m.",
+  "Ventura": "November 19, 2026, 12:41 p.m.",
+  "Yolo": "November 17, 2026, 4:33 p.m.",
+  "Yuba": "November 16, 2026, 5:41 p.m."
+ },
+ "2026_rendered_state_votes_on_county_pages": {
+  "Alameda": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Alpine": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Amador": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Butte": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Calaveras": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Colusa": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Contra Costa": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Del Norte": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "El Dorado": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Fresno": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Glenn": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Humboldt": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Imperial": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Inyo": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Kern": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Kings": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Lake": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Lassen": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Los Angeles": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Madera": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Marin": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Mariposa": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Mendocino": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Merced": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Modoc": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Mono": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Monterey": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Napa": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Nevada": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Orange": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Placer": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Plumas": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Riverside": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Sacramento": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "San Benito": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "San Bernardino": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "San Diego": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "San Francisco": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "San Joaquin": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "San Luis Obispo": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "San Mateo": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Santa Barbara": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Santa Clara": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Santa Cruz": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Shasta": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Sierra": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Siskiyou": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Solano": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Sonoma": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Stanislaus": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Sutter": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Tehama": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Trinity": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Tulare": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Tuolumne": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Ventura": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Yolo": {
+   "DEM": 8669071,
+   "REP": 4542458
+  },
+  "Yuba": {
+   "DEM": 8669071,
+   "REP": 4542458
+  }
+ },
+ "2026_status_statewide_row": {
+  "registered": 23273590,
+  "ballots": 13422913
+ },
+ "ror_2022_as_of": "October 24, 2022",
+ "ror_2022_state_total": {
+  "elig": 26876800,
+  "tot": 21940274,
+  "dem": 10283258,
+  "rep": 5232094
+ },
+ "ror_2026_as_of": "October 19, 2026",
+ "ror_2026_state_total": {
+  "elig": 27168679,
+  "tot": 23273590,
+  "dem": 10464099,
+  "rep": 5746921
+ }
+}

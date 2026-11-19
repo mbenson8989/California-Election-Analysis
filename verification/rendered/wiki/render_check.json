@@ -1,0 +1,54 @@
+{
+ "summary": {
+  "Home": {
+   "h1": [],
+   "table_blocks": 1,
+   "rendered_tables": 1,
+   "headings": 5,
+   "bytes": 8725
+  },
+  "Reverse-Math": {
+   "h1": [],
+   "table_blocks": 5,
+   "rendered_tables": 5,
+   "headings": 7,
+   "bytes": 12045
+  },
+  "Locked-California-Formula": {
+   "h1": [],
+   "table_blocks": 4,
+   "rendered_tables": 4,
+   "headings": 7,
+   "bytes": 8785
+  },
+  "Floor-and-Ceiling": {
+   "h1": [],
+   "table_blocks": 3,
+   "rendered_tables": 3,
+   "headings": 6,
+   "bytes": 6776
+  },
+  "Graphs": {
+   "h1": [],
+   "table_blocks": 0,
+   "rendered_tables": 0,
+   "headings": 9,
+   "bytes": 4549
+  },
+  "California-County-PDF-Information": {
+   "h1": [],
+   "table_blocks": 2,
+   "rendered_tables": 2,
+   "headings": 3,
+   "bytes": 4452
+  },
+  "_Sidebar": {
+   "h1": [],
+   "table_blocks": 0,
+   "rendered_tables": 0,
+   "headings": 0,
+   "bytes": 483
+  }
+ },
+ "issues": []
+}

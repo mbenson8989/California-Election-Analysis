@@ -1,0 +1,1181 @@
+county,sheet,column,pdf_value,recomputed_passA,recomputed_passB,match
+San Francisco,Registration and Votes,Dem Reg Share 2026 %,62.2%,62.2%,62.2%,True
+San Francisco,Registration and Votes,Dem Reg 2022,"314,227","314,227","314,227",True
+San Francisco,Registration and Votes,Dem Reg 2026,"333,528","333,528","333,528",True
+San Francisco,Registration and Votes,Reg Change #,"+19,301","+19,301","+19,301",True
+San Francisco,Registration and Votes,Reg Change %,+6.1%,+6.1%,+6.1%,True
+San Francisco,Registration and Votes,Dem Gov Votes 2022,"257,402","257,402","257,402",True
+San Francisco,Registration and Votes,Dem Gov Votes 2026*,"288,799","288,799","288,799",True
+San Francisco,Registration and Votes,Vote Change #,"+31,397","+31,397","+31,397",True
+San Francisco,Registration and Votes,Vote Change %,+12.2%,+12.2%,+12.2%,True
+San Francisco,Registration and Votes,Total Ballots 2022,"310,071","310,071","310,071",True
+San Francisco,Registration and Votes,Total Ballots 2026*,"352,939","352,939","352,939",True
+San Francisco,Registration and Votes,Ballot Change #,"+42,868","+42,868","+42,868",True
+San Francisco,Registration and Votes,Ballot Change %,+13.8%,+13.8%,+13.8%,True
+Marin,Registration and Votes,Dem Reg Share 2026 %,61.6%,61.6%,61.6%,True
+Marin,Registration and Votes,Dem Reg 2022,"106,169","106,169","106,169",True
+Marin,Registration and Votes,Dem Reg 2026,"107,020","107,020","107,020",True
+Marin,Registration and Votes,Reg Change #,+851,+851,+851,True
+Marin,Registration and Votes,Reg Change %,+0.8%,+0.8%,+0.8%,True
+Marin,Registration and Votes,Dem Gov Votes 2022,"95,289","95,289","95,289",True
+Marin,Registration and Votes,Dem Gov Votes 2026*,"99,748","99,748","99,748",True
+Marin,Registration and Votes,Vote Change #,"+4,459","+4,459","+4,459",True
+Marin,Registration and Votes,Vote Change %,+4.7%,+4.7%,+4.7%,True
+Marin,Registration and Votes,Total Ballots 2022,"121,402","121,402","121,402",True
+Marin,Registration and Votes,Total Ballots 2026*,"126,640","126,640","126,640",True
+Marin,Registration and Votes,Ballot Change #,"+5,238","+5,238","+5,238",True
+Marin,Registration and Votes,Ballot Change %,+4.3%,+4.3%,+4.3%,True
+Santa Cruz,Registration and Votes,Dem Reg Share 2026 %,58.5%,58.5%,58.5%,True
+Santa Cruz,Registration and Votes,Dem Reg 2022,"100,324","100,324","100,324",True
+Santa Cruz,Registration and Votes,Dem Reg 2026,"101,237","101,237","101,237",True
+Santa Cruz,Registration and Votes,Reg Change #,+913,+913,+913,True
+Santa Cruz,Registration and Votes,Reg Change %,+0.9%,+0.9%,+0.9%,True
+Santa Cruz,Registration and Votes,Dem Gov Votes 2022,"79,117","79,117","79,117",True
+Santa Cruz,Registration and Votes,Dem Gov Votes 2026*,"91,852","91,852","91,852",True
+Santa Cruz,Registration and Votes,Vote Change #,"+12,735","+12,735","+12,735",True
+Santa Cruz,Registration and Votes,Vote Change %,+16.1%,+16.1%,+16.1%,True
+Santa Cruz,Registration and Votes,Total Ballots 2022,"106,044","106,044","106,044",True
+Santa Cruz,Registration and Votes,Total Ballots 2026*,"117,667","117,667","117,667",True
+Santa Cruz,Registration and Votes,Ballot Change #,"+11,623","+11,623","+11,623",True
+Santa Cruz,Registration and Votes,Ballot Change %,+11.0%,+11.0%,+11.0%,True
+Alameda,Registration and Votes,Dem Reg Share 2026 %,57.6%,57.6%,57.6%,True
+Alameda,Registration and Votes,Dem Reg 2022,"562,093","562,093","562,093",True
+Alameda,Registration and Votes,Dem Reg 2026,"566,638","566,638","566,638",True
+Alameda,Registration and Votes,Reg Change #,"+4,545","+4,545","+4,545",True
+Alameda,Registration and Votes,Reg Change %,+0.8%,+0.8%,+0.8%,True
+Alameda,Registration and Votes,Dem Gov Votes 2022,"387,046","387,046","387,046",True
+Alameda,Registration and Votes,Dem Gov Votes 2026*,"458,215","458,215","458,215",True
+Alameda,Registration and Votes,Vote Change #,"+71,169","+71,169","+71,169",True
+Alameda,Registration and Votes,Vote Change %,+18.4%,+18.4%,+18.4%,True
+Alameda,Registration and Votes,Total Ballots 2022,"496,125","496,125","496,125",True
+Alameda,Registration and Votes,Total Ballots 2026*,"577,102","577,102","577,102",True
+Alameda,Registration and Votes,Ballot Change #,"+80,977","+80,977","+80,977",True
+Alameda,Registration and Votes,Ballot Change %,+16.3%,+16.3%,+16.3%,True
+Sonoma,Registration and Votes,Dem Reg Share 2026 %,55.3%,55.3%,55.3%,True
+Sonoma,Registration and Votes,Dem Reg 2022,"172,675","172,675","172,675",True
+Sonoma,Registration and Votes,Dem Reg 2026,"177,514","177,514","177,514",True
+Sonoma,Registration and Votes,Reg Change #,"+4,839","+4,839","+4,839",True
+Sonoma,Registration and Votes,Reg Change %,+2.8%,+2.8%,+2.8%,True
+Sonoma,Registration and Votes,Dem Gov Votes 2022,"140,041","140,041","140,041",True
+Sonoma,Registration and Votes,Dem Gov Votes 2026*,"166,183","166,183","166,183",True
+Sonoma,Registration and Votes,Vote Change #,"+26,142","+26,142","+26,142",True
+Sonoma,Registration and Votes,Vote Change %,+18.7%,+18.7%,+18.7%,True
+Sonoma,Registration and Votes,Total Ballots 2022,"200,347","200,347","200,347",True
+Sonoma,Registration and Votes,Total Ballots 2026*,"223,516","223,516","223,516",True
+Sonoma,Registration and Votes,Ballot Change #,"+23,169","+23,169","+23,169",True
+Sonoma,Registration and Votes,Ballot Change %,+11.6%,+11.6%,+11.6%,True
+San Mateo,Registration and Votes,Dem Reg Share 2026 %,54.8%,54.8%,54.8%,True
+San Mateo,Registration and Votes,Dem Reg 2022,"243,202","243,202","243,202",True
+San Mateo,Registration and Votes,Dem Reg 2026,"246,285","246,285","246,285",True
+San Mateo,Registration and Votes,Reg Change #,"+3,083","+3,083","+3,083",True
+San Mateo,Registration and Votes,Reg Change %,+1.3%,+1.3%,+1.3%,True
+San Mateo,Registration and Votes,Dem Gov Votes 2022,"185,599","185,599","185,599",True
+San Mateo,Registration and Votes,Dem Gov Votes 2026*,"210,379","210,379","210,379",True
+San Mateo,Registration and Votes,Vote Change #,"+24,780","+24,780","+24,780",True
+San Mateo,Registration and Votes,Vote Change %,+13.4%,+13.4%,+13.4%,True
+San Mateo,Registration and Votes,Total Ballots 2022,"252,233","252,233","252,233",True
+San Mateo,Registration and Votes,Total Ballots 2026*,"283,061","283,061","283,061",True
+San Mateo,Registration and Votes,Ballot Change #,"+30,828","+30,828","+30,828",True
+San Mateo,Registration and Votes,Ballot Change %,+12.2%,+12.2%,+12.2%,True
+Contra Costa,Registration and Votes,Dem Reg Share 2026 %,51.6%,51.6%,51.6%,True
+Contra Costa,Registration and Votes,Dem Reg 2022,"377,431","377,431","377,431",True
+Contra Costa,Registration and Votes,Dem Reg 2026,"378,384","378,384","378,384",True
+Contra Costa,Registration and Votes,Reg Change #,+953,+953,+953,True
+Contra Costa,Registration and Votes,Reg Change %,+0.3%,+0.3%,+0.3%,True
+Contra Costa,Registration and Votes,Dem Gov Votes 2022,"265,371","265,371","265,371",True
+Contra Costa,Registration and Votes,Dem Gov Votes 2026*,"317,326","317,326","317,326",True
+Contra Costa,Registration and Votes,Vote Change #,"+51,955","+51,955","+51,955",True
+Contra Costa,Registration and Votes,Vote Change %,+19.6%,+19.6%,+19.6%,True
+Contra Costa,Registration and Votes,Total Ballots 2022,"394,153","394,153","394,153",True
+Contra Costa,Registration and Votes,Total Ballots 2026*,"450,690","450,690","450,690",True
+Contra Costa,Registration and Votes,Ballot Change #,"+56,537","+56,537","+56,537",True
+Contra Costa,Registration and Votes,Ballot Change %,+14.3%,+14.3%,+14.3%,True
+Los Angeles,Registration and Votes,Dem Reg Share 2026 %,51.0%,51.0%,51.0%,True
+Los Angeles,Registration and Votes,Dem Reg 2022,"2,996,565","2,996,565","2,996,565",True
+Los Angeles,Registration and Votes,Dem Reg 2026,"3,016,342","3,016,342","3,016,342",True
+Los Angeles,Registration and Votes,Reg Change #,"+19,777","+19,777","+19,777",True
+Los Angeles,Registration and Votes,Reg Change %,+0.7%,+0.7%,+0.7%,True
+Los Angeles,Registration and Votes,Dem Gov Votes 2022,"1,620,053","1,620,053","1,620,053",True
+Los Angeles,Registration and Votes,Dem Gov Votes 2026*,"2,278,246","2,278,246","2,278,246",True
+Los Angeles,Registration and Votes,Vote Change #,"+658,193","+658,193","+658,193",True
+Los Angeles,Registration and Votes,Vote Change %,+40.6%,+40.6%,+40.6%,True
+Los Angeles,Registration and Votes,Total Ballots 2022,"2,456,701","2,456,701","2,456,701",True
+Los Angeles,Registration and Votes,Total Ballots 2026*,"3,180,986","3,180,986","3,180,986",True
+Los Angeles,Registration and Votes,Ballot Change #,"+724,285","+724,285","+724,285",True
+Los Angeles,Registration and Votes,Ballot Change %,+29.5%,+29.5%,+29.5%,True
+Napa,Registration and Votes,Dem Reg Share 2026 %,50.1%,50.1%,50.1%,True
+Napa,Registration and Votes,Dem Reg 2022,"42,194","42,194","42,194",True
+Napa,Registration and Votes,Dem Reg 2026,"43,339","43,339","43,339",True
+Napa,Registration and Votes,Reg Change #,"+1,145","+1,145","+1,145",True
+Napa,Registration and Votes,Reg Change %,+2.7%,+2.7%,+2.7%,True
+Napa,Registration and Votes,Dem Gov Votes 2022,"32,437","32,437","32,437",True
+Napa,Registration and Votes,Dem Gov Votes 2026*,"38,615","38,615","38,615",True
+Napa,Registration and Votes,Vote Change #,"+6,178","+6,178","+6,178",True
+Napa,Registration and Votes,Vote Change %,+19.0%,+19.0%,+19.0%,True
+Napa,Registration and Votes,Total Ballots 2022,"50,788","50,788","50,788",True
+Napa,Registration and Votes,Total Ballots 2026*,"55,867","55,867","55,867",True
+Napa,Registration and Votes,Ballot Change #,"+5,079","+5,079","+5,079",True
+Napa,Registration and Votes,Ballot Change %,+10.0%,+10.0%,+10.0%,True
+Yolo,Registration and Votes,Dem Reg Share 2026 %,50.0%,50.0%,50.0%,True
+Yolo,Registration and Votes,Dem Reg 2022,"60,978","60,978","60,978",True
+Yolo,Registration and Votes,Dem Reg 2026,"61,505","61,505","61,505",True
+Yolo,Registration and Votes,Reg Change #,+527,+527,+527,True
+Yolo,Registration and Votes,Reg Change %,+0.9%,+0.9%,+0.9%,True
+Yolo,Registration and Votes,Dem Gov Votes 2022,"44,328","44,328","44,328",True
+Yolo,Registration and Votes,Dem Gov Votes 2026*,"58,385","58,385","58,385",True
+Yolo,Registration and Votes,Vote Change #,"+14,057","+14,057","+14,057",True
+Yolo,Registration and Votes,Vote Change %,+31.7%,+31.7%,+31.7%,True
+Yolo,Registration and Votes,Total Ballots 2022,"68,794","68,794","68,794",True
+Yolo,Registration and Votes,Total Ballots 2026*,"81,206","81,206","81,206",True
+Yolo,Registration and Votes,Ballot Change #,"+12,412","+12,412","+12,412",True
+Yolo,Registration and Votes,Ballot Change %,+18.0%,+18.0%,+18.0%,True
+Monterey,Registration and Votes,Dem Reg Share 2026 %,49.9%,49.9%,49.9%,True
+Monterey,Registration and Votes,Dem Reg 2022,"109,843","109,843","109,843",True
+Monterey,Registration and Votes,Dem Reg 2026,"109,848","109,848","109,848",True
+Monterey,Registration and Votes,Reg Change #,+5,+5,+5,True
+Monterey,Registration and Votes,Reg Change %,+0.0%,+0.0%,+0.0%,True
+Monterey,Registration and Votes,Dem Gov Votes 2022,"65,262","65,262","65,262",True
+Monterey,Registration and Votes,Dem Gov Votes 2026*,"89,644","89,644","89,644",True
+Monterey,Registration and Votes,Vote Change #,"+24,382","+24,382","+24,382",True
+Monterey,Registration and Votes,Vote Change %,+37.4%,+37.4%,+37.4%,True
+Monterey,Registration and Votes,Total Ballots 2022,"103,147","103,147","103,147",True
+Monterey,Registration and Votes,Total Ballots 2026*,"127,941","127,941","127,941",True
+Monterey,Registration and Votes,Ballot Change #,"+24,794","+24,794","+24,794",True
+Monterey,Registration and Votes,Ballot Change %,+24.0%,+24.0%,+24.0%,True
+Santa Clara,Registration and Votes,Dem Reg Share 2026 %,49.6%,49.6%,49.6%,True
+Santa Clara,Registration and Votes,Dem Reg 2022,"515,886","515,886","515,886",True
+Santa Clara,Registration and Votes,Dem Reg 2026,"535,877","535,877","535,877",True
+Santa Clara,Registration and Votes,Reg Change #,"+19,991","+19,991","+19,991",True
+Santa Clara,Registration and Votes,Reg Change %,+3.9%,+3.9%,+3.9%,True
+Santa Clara,Registration and Votes,Dem Gov Votes 2022,"379,377","379,377","379,377",True
+Santa Clara,Registration and Votes,Dem Gov Votes 2026*,"445,505","445,505","445,505",True
+Santa Clara,Registration and Votes,Vote Change #,"+66,128","+66,128","+66,128",True
+Santa Clara,Registration and Votes,Vote Change %,+17.4%,+17.4%,+17.4%,True
+Santa Clara,Registration and Votes,Total Ballots 2022,"550,602","550,602","550,602",True
+Santa Clara,Registration and Votes,Total Ballots 2026*,"631,514","631,514","631,514",True
+Santa Clara,Registration and Votes,Ballot Change #,"+80,912","+80,912","+80,912",True
+Santa Clara,Registration and Votes,Ballot Change %,+14.7%,+14.7%,+14.7%,True
+Solano,Registration and Votes,Dem Reg Share 2026 %,46.8%,46.8%,46.8%,True
+Solano,Registration and Votes,Dem Reg 2022,"127,526","127,526","127,526",True
+Solano,Registration and Votes,Dem Reg 2026,"129,356","129,356","129,356",True
+Solano,Registration and Votes,Reg Change #,"+1,830","+1,830","+1,830",True
+Solano,Registration and Votes,Reg Change %,+1.4%,+1.4%,+1.4%,True
+Solano,Registration and Votes,Dem Gov Votes 2022,"77,769","77,769","77,769",True
+Solano,Registration and Votes,Dem Gov Votes 2026*,"102,758","102,758","102,758",True
+Solano,Registration and Votes,Vote Change #,"+24,989","+24,989","+24,989",True
+Solano,Registration and Votes,Vote Change %,+32.1%,+32.1%,+32.1%,True
+Solano,Registration and Votes,Total Ballots 2022,"132,244","132,244","132,244",True
+Solano,Registration and Votes,Total Ballots 2026*,"158,750","158,750","158,750",True
+Solano,Registration and Votes,Ballot Change #,"+26,506","+26,506","+26,506",True
+Solano,Registration and Votes,Ballot Change %,+20.0%,+20.0%,+20.0%,True
+Santa Barbara,Registration and Votes,Dem Reg Share 2026 %,46.4%,46.4%,46.4%,True
+Santa Barbara,Registration and Votes,Dem Reg 2022,"112,373","112,373","112,373",True
+Santa Barbara,Registration and Votes,Dem Reg 2026,"115,820","115,820","115,820",True
+Santa Barbara,Registration and Votes,Reg Change #,"+3,447","+3,447","+3,447",True
+Santa Barbara,Registration and Votes,Reg Change %,+3.1%,+3.1%,+3.1%,True
+Santa Barbara,Registration and Votes,Dem Gov Votes 2022,"80,648","80,648","80,648",True
+Santa Barbara,Registration and Votes,Dem Gov Votes 2026*,"105,856","105,856","105,856",True
+Santa Barbara,Registration and Votes,Vote Change #,"+25,208","+25,208","+25,208",True
+Santa Barbara,Registration and Votes,Vote Change %,+31.3%,+31.3%,+31.3%,True
+Santa Barbara,Registration and Votes,Total Ballots 2022,"137,044","137,044","137,044",True
+Santa Barbara,Registration and Votes,Total Ballots 2026*,"160,329","160,329","160,329",True
+Santa Barbara,Registration and Votes,Ballot Change #,"+23,285","+23,285","+23,285",True
+Santa Barbara,Registration and Votes,Ballot Change %,+17.0%,+17.0%,+17.0%,True
+Mendocino,Registration and Votes,Dem Reg Share 2026 %,45.8%,45.8%,45.8%,True
+Mendocino,Registration and Votes,Dem Reg 2022,"25,897","25,897","25,897",True
+Mendocino,Registration and Votes,Dem Reg 2026,"24,715","24,715","24,715",True
+Mendocino,Registration and Votes,Reg Change #,"-1,182","-1,182","-1,182",True
+Mendocino,Registration and Votes,Reg Change %,-4.6%,-4.6%,-4.6%,True
+Mendocino,Registration and Votes,Dem Gov Votes 2022,"19,031","19,031","19,031",True
+Mendocino,Registration and Votes,Dem Gov Votes 2026*,"21,133","21,133","21,133",True
+Mendocino,Registration and Votes,Vote Change #,"+2,102","+2,102","+2,102",True
+Mendocino,Registration and Votes,Vote Change %,+11.0%,+11.0%,+11.0%,True
+Mendocino,Registration and Votes,Total Ballots 2022,"31,008","31,008","31,008",True
+Mendocino,Registration and Votes,Total Ballots 2026*,"32,523","32,523","32,523",True
+Mendocino,Registration and Votes,Ballot Change #,"+1,515","+1,515","+1,515",True
+Mendocino,Registration and Votes,Ballot Change %,+4.9%,+4.9%,+4.9%,True
+San Benito,Registration and Votes,Dem Reg Share 2026 %,45.4%,45.4%,45.4%,True
+San Benito,Registration and Votes,Dem Reg 2022,"18,058","18,058","18,058",True
+San Benito,Registration and Votes,Dem Reg 2026,"18,183","18,183","18,183",True
+San Benito,Registration and Votes,Reg Change #,+125,+125,+125,True
+San Benito,Registration and Votes,Reg Change %,+0.7%,+0.7%,+0.7%,True
+San Benito,Registration and Votes,Dem Gov Votes 2022,"10,428","10,428","10,428",True
+San Benito,Registration and Votes,Dem Gov Votes 2026*,"14,440","14,440","14,440",True
+San Benito,Registration and Votes,Vote Change #,"+4,012","+4,012","+4,012",True
+San Benito,Registration and Votes,Vote Change %,+38.5%,+38.5%,+38.5%,True
+San Benito,Registration and Votes,Total Ballots 2022,"19,845","19,845","19,845",True
+San Benito,Registration and Votes,Total Ballots 2026*,"23,595","23,595","23,595",True
+San Benito,Registration and Votes,Ballot Change #,"+3,750","+3,750","+3,750",True
+San Benito,Registration and Votes,Ballot Change %,+18.9%,+18.9%,+18.9%,True
+Humboldt,Registration and Votes,Dem Reg Share 2026 %,44.9%,44.9%,44.9%,True
+Humboldt,Registration and Votes,Dem Reg 2022,"39,399","39,399","39,399",True
+Humboldt,Registration and Votes,Dem Reg 2026,"38,820","38,820","38,820",True
+Humboldt,Registration and Votes,Reg Change #,-579,-579,-579,True
+Humboldt,Registration and Votes,Reg Change %,-1.5%,-1.5%,-1.5%,True
+Humboldt,Registration and Votes,Dem Gov Votes 2022,"29,541","29,541","29,541",True
+Humboldt,Registration and Votes,Dem Gov Votes 2026*,"35,405","35,405","35,405",True
+Humboldt,Registration and Votes,Vote Change #,"+5,864","+5,864","+5,864",True
+Humboldt,Registration and Votes,Vote Change %,+19.9%,+19.9%,+19.9%,True
+Humboldt,Registration and Votes,Total Ballots 2022,"48,741","48,741","48,741",True
+Humboldt,Registration and Votes,Total Ballots 2026*,"53,186","53,186","53,186",True
+Humboldt,Registration and Votes,Ballot Change #,"+4,445","+4,445","+4,445",True
+Humboldt,Registration and Votes,Ballot Change %,+9.1%,+9.1%,+9.1%,True
+Sacramento,Registration and Votes,Dem Reg Share 2026 %,44.3%,44.3%,44.3%,True
+Sacramento,Registration and Votes,Dem Reg 2022,"397,482","397,482","397,482",True
+Sacramento,Registration and Votes,Dem Reg 2026,"407,701","407,701","407,701",True
+Sacramento,Registration and Votes,Reg Change #,"+10,219","+10,219","+10,219",True
+Sacramento,Registration and Votes,Reg Change %,+2.6%,+2.6%,+2.6%,True
+Sacramento,Registration and Votes,Dem Gov Votes 2022,"274,680","274,680","274,680",True
+Sacramento,Registration and Votes,Dem Gov Votes 2026*,"358,918","358,918","358,918",True
+Sacramento,Registration and Votes,Vote Change #,"+84,238","+84,238","+84,238",True
+Sacramento,Registration and Votes,Vote Change %,+30.7%,+30.7%,+30.7%,True
+Sacramento,Registration and Votes,Total Ballots 2022,"484,315","484,315","484,315",True
+Sacramento,Registration and Votes,Total Ballots 2026*,"559,153","559,153","559,153",True
+Sacramento,Registration and Votes,Ballot Change #,"+74,838","+74,838","+74,838",True
+Sacramento,Registration and Votes,Ballot Change %,+15.5%,+15.5%,+15.5%,True
+Imperial,Registration and Votes,Dem Reg Share 2026 %,43.4%,43.4%,43.4%,True
+Imperial,Registration and Votes,Dem Reg 2022,"41,600","41,600","41,600",True
+Imperial,Registration and Votes,Dem Reg 2026,"40,738","40,738","40,738",True
+Imperial,Registration and Votes,Reg Change #,-862,-862,-862,True
+Imperial,Registration and Votes,Reg Change %,-2.1%,-2.1%,-2.1%,True
+Imperial,Registration and Votes,Dem Gov Votes 2022,"16,711","16,711","16,711",True
+Imperial,Registration and Votes,Dem Gov Votes 2026*,"27,175","27,175","27,175",True
+Imperial,Registration and Votes,Vote Change #,"+10,464","+10,464","+10,464",True
+Imperial,Registration and Votes,Vote Change %,+62.6%,+62.6%,+62.6%,True
+Imperial,Registration and Votes,Total Ballots 2022,"30,386","30,386","30,386",True
+Imperial,Registration and Votes,Total Ballots 2026*,"42,273","42,273","42,273",True
+Imperial,Registration and Votes,Ballot Change #,"+11,887","+11,887","+11,887",True
+Imperial,Registration and Votes,Ballot Change %,+39.1%,+39.1%,+39.1%,True
+Ventura,Registration and Votes,Dem Reg Share 2026 %,42.6%,42.6%,42.6%,True
+Ventura,Registration and Votes,Dem Reg 2022,"220,831","220,831","220,831",True
+Ventura,Registration and Votes,Dem Reg 2026,"223,879","223,879","223,879",True
+Ventura,Registration and Votes,Reg Change #,"+3,048","+3,048","+3,048",True
+Ventura,Registration and Votes,Reg Change %,+1.4%,+1.4%,+1.4%,True
+Ventura,Registration and Votes,Dem Gov Votes 2022,"153,226","153,226","153,226",True
+Ventura,Registration and Votes,Dem Gov Votes 2026*,"202,234","202,234","202,234",True
+Ventura,Registration and Votes,Vote Change #,"+49,008","+49,008","+49,008",True
+Ventura,Registration and Votes,Vote Change %,+32.0%,+32.0%,+32.0%,True
+Ventura,Registration and Votes,Total Ballots 2022,"284,013","284,013","284,013",True
+Ventura,Registration and Votes,Total Ballots 2026*,"330,335","330,335","330,335",True
+Ventura,Registration and Votes,Ballot Change #,"+46,322","+46,322","+46,322",True
+Ventura,Registration and Votes,Ballot Change %,+16.3%,+16.3%,+16.3%,True
+Alpine,Registration and Votes,Dem Reg Share 2026 %,42.3%,42.3%,42.3%,True
+Alpine,Registration and Votes,Dem Reg 2022,388,388,388,True
+Alpine,Registration and Votes,Dem Reg 2026,388,388,388,True
+Alpine,Registration and Votes,Reg Change #,0,0,0,True
+Alpine,Registration and Votes,Reg Change %,0.0%,0.0%,0.0%,True
+Alpine,Registration and Votes,Dem Gov Votes 2022,363,363,363,True
+Alpine,Registration and Votes,Dem Gov Votes 2026*,409,409,409,True
+Alpine,Registration and Votes,Vote Change #,+46,+46,+46,True
+Alpine,Registration and Votes,Vote Change %,+12.7%,+12.7%,+12.7%,True
+Alpine,Registration and Votes,Total Ballots 2022,623,623,623,True
+Alpine,Registration and Votes,Total Ballots 2026*,616,616,616,True
+Alpine,Registration and Votes,Ballot Change #,-7,-7,-7,True
+Alpine,Registration and Votes,Ballot Change %,-1.1%,-1.1%,-1.1%,True
+San Diego,Registration and Votes,Dem Reg Share 2026 %,40.7%,40.7%,40.7%,True
+San Diego,Registration and Votes,Dem Reg 2022,"798,990","798,990","798,990",True
+San Diego,Registration and Votes,Dem Reg 2026,"827,077","827,077","827,077",True
+San Diego,Registration and Votes,Reg Change #,"+28,087","+28,087","+28,087",True
+San Diego,Registration and Votes,Reg Change %,+3.5%,+3.5%,+3.5%,True
+San Diego,Registration and Votes,Dem Gov Votes 2022,"574,121","574,121","574,121",True
+San Diego,Registration and Votes,Dem Gov Votes 2026*,"781,021","781,021","781,021",True
+San Diego,Registration and Votes,Vote Change #,"+206,900","+206,900","+206,900",True
+San Diego,Registration and Votes,Vote Change %,+36.0%,+36.0%,+36.0%,True
+San Diego,Registration and Votes,Total Ballots 2022,"1,043,490","1,043,490","1,043,490",True
+San Diego,Registration and Votes,Total Ballots 2026*,"1,255,092","1,255,092","1,255,092",True
+San Diego,Registration and Votes,Ballot Change #,"+211,602","+211,602","+211,602",True
+San Diego,Registration and Votes,Ballot Change %,+20.3%,+20.3%,+20.3%,True
+San Joaquin,Registration and Votes,Dem Reg Share 2026 %,40.6%,40.6%,40.6%,True
+San Joaquin,Registration and Votes,Dem Reg 2022,"170,362","170,362","170,362",True
+San Joaquin,Registration and Votes,Dem Reg 2026,"168,776","168,776","168,776",True
+San Joaquin,Registration and Votes,Reg Change #,"-1,586","-1,586","-1,586",True
+San Joaquin,Registration and Votes,Reg Change %,-0.9%,-0.9%,-0.9%,True
+San Joaquin,Registration and Votes,Dem Gov Votes 2022,"85,498","85,498","85,498",True
+San Joaquin,Registration and Votes,Dem Gov Votes 2026*,"128,306","128,306","128,306",True
+San Joaquin,Registration and Votes,Vote Change #,"+42,808","+42,808","+42,808",True
+San Joaquin,Registration and Votes,Vote Change %,+50.1%,+50.1%,+50.1%,True
+San Joaquin,Registration and Votes,Total Ballots 2022,"179,333","179,333","179,333",True
+San Joaquin,Registration and Votes,Total Ballots 2026*,"222,024","222,024","222,024",True
+San Joaquin,Registration and Votes,Ballot Change #,"+42,691","+42,691","+42,691",True
+San Joaquin,Registration and Votes,Ballot Change %,+23.8%,+23.8%,+23.8%,True
+Mono,Registration and Votes,Dem Reg Share 2026 %,39.8%,39.8%,39.8%,True
+Mono,Registration and Votes,Dem Reg 2022,"3,088","3,088","3,088",True
+Mono,Registration and Votes,Dem Reg 2026,"3,172","3,172","3,172",True
+Mono,Registration and Votes,Reg Change #,+84,+84,+84,True
+Mono,Registration and Votes,Reg Change %,+2.7%,+2.7%,+2.7%,True
+Mono,Registration and Votes,Dem Gov Votes 2022,"2,493","2,493","2,493",True
+Mono,Registration and Votes,Dem Gov Votes 2026*,"3,163","3,163","3,163",True
+Mono,Registration and Votes,Vote Change #,+670,+670,+670,True
+Mono,Registration and Votes,Vote Change %,+26.9%,+26.9%,+26.9%,True
+Mono,Registration and Votes,Total Ballots 2022,"4,633","4,633","4,633",True
+Mono,Registration and Votes,Total Ballots 2026*,"5,210","5,210","5,210",True
+Mono,Registration and Votes,Ballot Change #,+577,+577,+577,True
+Mono,Registration and Votes,Ballot Change %,+12.5%,+12.5%,+12.5%,True
+Merced,Registration and Votes,Dem Reg Share 2026 %,39.5%,39.5%,39.5%,True
+Merced,Registration and Votes,Dem Reg 2022,"53,451","53,451","53,451",True
+Merced,Registration and Votes,Dem Reg 2026,"54,190","54,190","54,190",True
+Merced,Registration and Votes,Reg Change #,+739,+739,+739,True
+Merced,Registration and Votes,Reg Change %,+1.4%,+1.4%,+1.4%,True
+Merced,Registration and Votes,Dem Gov Votes 2022,"25,200","25,200","25,200",True
+Merced,Registration and Votes,Dem Gov Votes 2026*,"43,796","43,796","43,796",True
+Merced,Registration and Votes,Vote Change #,"+18,596","+18,596","+18,596",True
+Merced,Registration and Votes,Vote Change %,+73.8%,+73.8%,+73.8%,True
+Merced,Registration and Votes,Total Ballots 2022,"55,850","55,850","55,850",True
+Merced,Registration and Votes,Total Ballots 2026*,"74,985","74,985","74,985",True
+Merced,Registration and Votes,Ballot Change #,"+19,135","+19,135","+19,135",True
+Merced,Registration and Votes,Ballot Change %,+34.3%,+34.3%,+34.3%,True
+San Bernardino,Registration and Votes,Dem Reg Share 2026 %,38.8%,38.8%,38.8%,True
+San Bernardino,Registration and Votes,Dem Reg 2022,"470,494","470,494","470,494",True
+San Bernardino,Registration and Votes,Dem Reg 2026,"485,053","485,053","485,053",True
+San Bernardino,Registration and Votes,Reg Change #,"+14,559","+14,559","+14,559",True
+San Bernardino,Registration and Votes,Reg Change %,+3.1%,+3.1%,+3.1%,True
+San Bernardino,Registration and Votes,Dem Gov Votes 2022,"215,391","215,391","215,391",True
+San Bernardino,Registration and Votes,Dem Gov Votes 2026*,"371,439","371,439","371,439",True
+San Bernardino,Registration and Votes,Vote Change #,"+156,048","+156,048","+156,048",True
+San Bernardino,Registration and Votes,Vote Change %,+72.4%,+72.4%,+72.4%,True
+San Bernardino,Registration and Votes,Total Ballots 2022,"458,946","458,946","458,946",True
+San Bernardino,Registration and Votes,Total Ballots 2026*,"629,288","629,288","629,288",True
+San Bernardino,Registration and Votes,Ballot Change #,"+170,342","+170,342","+170,342",True
+San Bernardino,Registration and Votes,Ballot Change %,+37.1%,+37.1%,+37.1%,True
+Nevada,Registration and Votes,Dem Reg Share 2026 %,38.8%,38.8%,38.8%,True
+Nevada,Registration and Votes,Dem Reg 2022,"29,593","29,593","29,593",True
+Nevada,Registration and Votes,Dem Reg 2026,"29,772","29,772","29,772",True
+Nevada,Registration and Votes,Reg Change #,+179,+179,+179,True
+Nevada,Registration and Votes,Reg Change %,+0.6%,+0.6%,+0.6%,True
+Nevada,Registration and Votes,Dem Gov Votes 2022,"26,655","26,655","26,655",True
+Nevada,Registration and Votes,Dem Gov Votes 2026*,"29,799","29,799","29,799",True
+Nevada,Registration and Votes,Vote Change #,"+3,144","+3,144","+3,144",True
+Nevada,Registration and Votes,Vote Change %,+11.8%,+11.8%,+11.8%,True
+Nevada,Registration and Votes,Total Ballots 2022,"51,370","51,370","51,370",True
+Nevada,Registration and Votes,Total Ballots 2026*,"52,513","52,513","52,513",True
+Nevada,Registration and Votes,Ballot Change #,"+1,143","+1,143","+1,143",True
+Nevada,Registration and Votes,Ballot Change %,+2.2%,+2.2%,+2.2%,True
+San Luis Obispo,Registration and Votes,Dem Reg Share 2026 %,38.3%,38.3%,38.3%,True
+San Luis Obispo,Registration and Votes,Dem Reg 2022,"69,908","69,908","69,908",True
+San Luis Obispo,Registration and Votes,Dem Reg 2026,"70,448","70,448","70,448",True
+San Luis Obispo,Registration and Votes,Reg Change #,+540,+540,+540,True
+San Luis Obispo,Registration and Votes,Reg Change %,+0.8%,+0.8%,+0.8%,True
+San Luis Obispo,Registration and Votes,Dem Gov Votes 2022,"61,166","61,166","61,166",True
+San Luis Obispo,Registration and Votes,Dem Gov Votes 2026*,"71,183","71,183","71,183",True
+San Luis Obispo,Registration and Votes,Vote Change #,"+10,017","+10,017","+10,017",True
+San Luis Obispo,Registration and Votes,Vote Change %,+16.4%,+16.4%,+16.4%,True
+San Luis Obispo,Registration and Votes,Total Ballots 2022,"121,156","121,156","121,156",True
+San Luis Obispo,Registration and Votes,Total Ballots 2026*,"127,778","127,778","127,778",True
+San Luis Obispo,Registration and Votes,Ballot Change #,"+6,622","+6,622","+6,622",True
+San Luis Obispo,Registration and Votes,Ballot Change %,+5.5%,+5.5%,+5.5%,True
+Riverside,Registration and Votes,Dem Reg Share 2026 %,38.3%,38.3%,38.3%,True
+Riverside,Registration and Votes,Dem Reg 2022,"531,203","531,203","531,203",True
+Riverside,Registration and Votes,Dem Reg 2026,"556,523","556,523","556,523",True
+Riverside,Registration and Votes,Reg Change #,"+25,320","+25,320","+25,320",True
+Riverside,Registration and Votes,Reg Change %,+4.8%,+4.8%,+4.8%,True
+Riverside,Registration and Votes,Dem Gov Votes 2022,"285,000","285,000","285,000",True
+Riverside,Registration and Votes,Dem Gov Votes 2026*,"445,189","445,189","445,189",True
+Riverside,Registration and Votes,Vote Change #,"+160,189","+160,189","+160,189",True
+Riverside,Registration and Votes,Vote Change %,+56.2%,+56.2%,+56.2%,True
+Riverside,Registration and Votes,Total Ballots 2022,"604,617","604,617","604,617",True
+Riverside,Registration and Votes,Total Ballots 2026*,"764,193","764,193","764,193",True
+Riverside,Registration and Votes,Ballot Change #,"+159,576","+159,576","+159,576",True
+Riverside,Registration and Votes,Ballot Change %,+26.4%,+26.4%,+26.4%,True
+Fresno,Registration and Votes,Dem Reg Share 2026 %,37.2%,37.2%,37.2%,True
+Fresno,Registration and Votes,Dem Reg 2022,"197,395","197,395","197,395",True
+Fresno,Registration and Votes,Dem Reg 2026,"197,070","197,070","197,070",True
+Fresno,Registration and Votes,Reg Change #,-325,-325,-325,True
+Fresno,Registration and Votes,Reg Change %,-0.2%,-0.2%,-0.2%,True
+Fresno,Registration and Votes,Dem Gov Votes 2022,"98,417","98,417","98,417",True
+Fresno,Registration and Votes,Dem Gov Votes 2026*,"149,941","149,941","149,941",True
+Fresno,Registration and Votes,Vote Change #,"+51,524","+51,524","+51,524",True
+Fresno,Registration and Votes,Vote Change %,+52.4%,+52.4%,+52.4%,True
+Fresno,Registration and Votes,Total Ballots 2022,"221,419","221,419","221,419",True
+Fresno,Registration and Votes,Total Ballots 2026*,"271,383","271,383","271,383",True
+Fresno,Registration and Votes,Ballot Change #,"+49,964","+49,964","+49,964",True
+Fresno,Registration and Votes,Ballot Change %,+22.6%,+22.6%,+22.6%,True
+Orange,Registration and Votes,Dem Reg Share 2026 %,36.5%,36.5%,36.5%,True
+Orange,Registration and Votes,Dem Reg 2022,"682,547","682,547","682,547",True
+Orange,Registration and Votes,Dem Reg 2026,"700,032","700,032","700,032",True
+Orange,Registration and Votes,Reg Change #,"+17,485","+17,485","+17,485",True
+Orange,Registration and Votes,Reg Change %,+2.6%,+2.6%,+2.6%,True
+Orange,Registration and Votes,Dem Gov Votes 2022,"464,206","464,206","464,206",True
+Orange,Registration and Votes,Dem Gov Votes 2026*,"638,082","638,082","638,082",True
+Orange,Registration and Votes,Vote Change #,"+173,876","+173,876","+173,876",True
+Orange,Registration and Votes,Vote Change %,+37.5%,+37.5%,+37.5%,True
+Orange,Registration and Votes,Total Ballots 2022,"994,277","994,277","994,277",True
+Orange,Registration and Votes,Total Ballots 2026*,"1,167,480","1,167,480","1,167,480",True
+Orange,Registration and Votes,Ballot Change #,"+173,203","+173,203","+173,203",True
+Orange,Registration and Votes,Ballot Change %,+17.4%,+17.4%,+17.4%,True
+Stanislaus,Registration and Votes,Dem Reg Share 2026 %,36.1%,36.1%,36.1%,True
+Stanislaus,Registration and Votes,Dem Reg 2022,"109,731","109,731","109,731",True
+Stanislaus,Registration and Votes,Dem Reg 2026,"108,828","108,828","108,828",True
+Stanislaus,Registration and Votes,Reg Change #,-903,-903,-903,True
+Stanislaus,Registration and Votes,Reg Change %,-0.8%,-0.8%,-0.8%,True
+Stanislaus,Registration and Votes,Dem Gov Votes 2022,"55,311","55,311","55,311",True
+Stanislaus,Registration and Votes,Dem Gov Votes 2026*,"85,177","85,177","85,177",True
+Stanislaus,Registration and Votes,Vote Change #,"+29,866","+29,866","+29,866",True
+Stanislaus,Registration and Votes,Vote Change %,+54.0%,+54.0%,+54.0%,True
+Stanislaus,Registration and Votes,Total Ballots 2022,"132,142","132,142","132,142",True
+Stanislaus,Registration and Votes,Total Ballots 2026*,"161,567","161,567","161,567",True
+Stanislaus,Registration and Votes,Ballot Change #,"+29,425","+29,425","+29,425",True
+Stanislaus,Registration and Votes,Ballot Change %,+22.3%,+22.3%,+22.3%,True
+Lake,Registration and Votes,Dem Reg Share 2026 %,35.2%,35.2%,35.2%,True
+Lake,Registration and Votes,Dem Reg 2022,"14,133","14,133","14,133",True
+Lake,Registration and Votes,Dem Reg 2026,"13,383","13,383","13,383",True
+Lake,Registration and Votes,Reg Change #,-750,-750,-750,True
+Lake,Registration and Votes,Reg Change %,-5.3%,-5.3%,-5.3%,True
+Lake,Registration and Votes,Dem Gov Votes 2022,"9,771","9,771","9,771",True
+Lake,Registration and Votes,Dem Gov Votes 2026*,"11,239","11,239","11,239",True
+Lake,Registration and Votes,Vote Change #,"+1,468","+1,468","+1,468",True
+Lake,Registration and Votes,Vote Change %,+15.0%,+15.0%,+15.0%,True
+Lake,Registration and Votes,Total Ballots 2022,"20,362","20,362","20,362",True
+Lake,Registration and Votes,Total Ballots 2026*,"21,227","21,227","21,227",True
+Lake,Registration and Votes,Ballot Change #,+865,+865,+865,True
+Lake,Registration and Votes,Ballot Change %,+4.2%,+4.2%,+4.2%,True
+Kern,Registration and Votes,Dem Reg Share 2026 %,33.7%,33.7%,33.7%,True
+Kern,Registration and Votes,Dem Reg 2022,"152,390","152,390","152,390",True
+Kern,Registration and Votes,Dem Reg 2026,"157,098","157,098","157,098",True
+Kern,Registration and Votes,Reg Change #,"+4,708","+4,708","+4,708",True
+Kern,Registration and Votes,Reg Change %,+3.1%,+3.1%,+3.1%,True
+Kern,Registration and Votes,Dem Gov Votes 2022,"69,706","69,706","69,706",True
+Kern,Registration and Votes,Dem Gov Votes 2026*,"118,131","118,131","118,131",True
+Kern,Registration and Votes,Vote Change #,"+48,425","+48,425","+48,425",True
+Kern,Registration and Votes,Vote Change %,+69.5%,+69.5%,+69.5%,True
+Kern,Registration and Votes,Total Ballots 2022,"190,715","190,715","190,715",True
+Kern,Registration and Votes,Total Ballots 2026*,"234,485","234,485","234,485",True
+Kern,Registration and Votes,Ballot Change #,"+43,770","+43,770","+43,770",True
+Kern,Registration and Votes,Ballot Change %,+23.0%,+23.0%,+23.0%,True
+Inyo,Registration and Votes,Dem Reg Share 2026 %,33.7%,33.7%,33.7%,True
+Inyo,Registration and Votes,Dem Reg 2022,"3,668","3,668","3,668",True
+Inyo,Registration and Votes,Dem Reg 2026,"3,680","3,680","3,680",True
+Inyo,Registration and Votes,Reg Change #,+12,+12,+12,True
+Inyo,Registration and Votes,Reg Change %,+0.3%,+0.3%,+0.3%,True
+Inyo,Registration and Votes,Dem Gov Votes 2022,"3,382","3,382","3,382",True
+Inyo,Registration and Votes,Dem Gov Votes 2026*,"3,966","3,966","3,966",True
+Inyo,Registration and Votes,Vote Change #,+584,+584,+584,True
+Inyo,Registration and Votes,Vote Change %,+17.3%,+17.3%,+17.3%,True
+Inyo,Registration and Votes,Total Ballots 2022,"7,577","7,577","7,577",True
+Inyo,Registration and Votes,Total Ballots 2026*,"7,636","7,636","7,636",True
+Inyo,Registration and Votes,Ballot Change #,+59,+59,+59,True
+Inyo,Registration and Votes,Ballot Change %,+0.8%,+0.8%,+0.8%,True
+Butte,Registration and Votes,Dem Reg Share 2026 %,33.3%,33.3%,33.3%,True
+Butte,Registration and Votes,Dem Reg 2022,"43,407","43,407","43,407",True
+Butte,Registration and Votes,Dem Reg 2026,"42,522","42,522","42,522",True
+Butte,Registration and Votes,Reg Change #,-885,-885,-885,True
+Butte,Registration and Votes,Reg Change %,-2.0%,-2.0%,-2.0%,True
+Butte,Registration and Votes,Dem Gov Votes 2022,"31,502","31,502","31,502",True
+Butte,Registration and Votes,Dem Gov Votes 2026*,"39,195","39,195","39,195",True
+Butte,Registration and Votes,Vote Change #,"+7,693","+7,693","+7,693",True
+Butte,Registration and Votes,Vote Change %,+24.4%,+24.4%,+24.4%,True
+Butte,Registration and Votes,Total Ballots 2022,"73,211","73,211","73,211",True
+Butte,Registration and Votes,Total Ballots 2026*,"79,012","79,012","79,012",True
+Butte,Registration and Votes,Ballot Change #,"+5,801","+5,801","+5,801",True
+Butte,Registration and Votes,Ballot Change %,+7.9%,+7.9%,+7.9%,True
+Tulare,Registration and Votes,Dem Reg Share 2026 %,31.7%,31.7%,31.7%,True
+Tulare,Registration and Votes,Dem Reg 2022,"69,963","69,963","69,963",True
+Tulare,Registration and Votes,Dem Reg 2026,"72,541","72,541","72,541",True
+Tulare,Registration and Votes,Reg Change #,"+2,578","+2,578","+2,578",True
+Tulare,Registration and Votes,Reg Change %,+3.7%,+3.7%,+3.7%,True
+Tulare,Registration and Votes,Dem Gov Votes 2022,"33,273","33,273","33,273",True
+Tulare,Registration and Votes,Dem Gov Votes 2026*,"58,276","58,276","58,276",True
+Tulare,Registration and Votes,Vote Change #,"+25,003","+25,003","+25,003",True
+Tulare,Registration and Votes,Vote Change %,+75.1%,+75.1%,+75.1%,True
+Tulare,Registration and Votes,Total Ballots 2022,"92,404","92,404","92,404",True
+Tulare,Registration and Votes,Total Ballots 2026*,"117,326","117,326","117,326",True
+Tulare,Registration and Votes,Ballot Change #,"+24,922","+24,922","+24,922",True
+Tulare,Registration and Votes,Ballot Change %,+27.0%,+27.0%,+27.0%,True
+Kings,Registration and Votes,Dem Reg Share 2026 %,31.2%,31.2%,31.2%,True
+Kings,Registration and Votes,Dem Reg 2022,"20,670","20,670","20,670",True
+Kings,Registration and Votes,Dem Reg 2026,"19,100","19,100","19,100",True
+Kings,Registration and Votes,Reg Change #,"-1,570","-1,570","-1,570",True
+Kings,Registration and Votes,Reg Change %,-7.6%,-7.6%,-7.6%,True
+Kings,Registration and Votes,Dem Gov Votes 2022,"9,389","9,389","9,389",True
+Kings,Registration and Votes,Dem Gov Votes 2026*,"16,577","16,577","16,577",True
+Kings,Registration and Votes,Vote Change #,"+7,188","+7,188","+7,188",True
+Kings,Registration and Votes,Vote Change %,+76.6%,+76.6%,+76.6%,True
+Kings,Registration and Votes,Total Ballots 2022,"27,125","27,125","27,125",True
+Kings,Registration and Votes,Total Ballots 2026*,"34,998","34,998","34,998",True
+Kings,Registration and Votes,Ballot Change #,"+7,873","+7,873","+7,873",True
+Kings,Registration and Votes,Ballot Change %,+29.0%,+29.0%,+29.0%,True
+Madera,Registration and Votes,Dem Reg Share 2026 %,31.2%,31.2%,31.2%,True
+Madera,Registration and Votes,Dem Reg 2022,"24,091","24,091","24,091",True
+Madera,Registration and Votes,Dem Reg 2026,"26,135","26,135","26,135",True
+Madera,Registration and Votes,Reg Change #,"+2,044","+2,044","+2,044",True
+Madera,Registration and Votes,Reg Change %,+8.5%,+8.5%,+8.5%,True
+Madera,Registration and Votes,Dem Gov Votes 2022,"13,283","13,283","13,283",True
+Madera,Registration and Votes,Dem Gov Votes 2026*,"22,979","22,979","22,979",True
+Madera,Registration and Votes,Vote Change #,"+9,696","+9,696","+9,696",True
+Madera,Registration and Votes,Vote Change %,+73.0%,+73.0%,+73.0%,True
+Madera,Registration and Votes,Total Ballots 2022,"37,345","37,345","37,345",True
+Madera,Registration and Votes,Total Ballots 2026*,"47,938","47,938","47,938",True
+Madera,Registration and Votes,Ballot Change #,"+10,593","+10,593","+10,593",True
+Madera,Registration and Votes,Ballot Change %,+28.4%,+28.4%,+28.4%,True
+Placer,Registration and Votes,Dem Reg Share 2026 %,31.1%,31.1%,31.1%,True
+Placer,Registration and Votes,Dem Reg 2022,"88,405","88,405","88,405",True
+Placer,Registration and Votes,Dem Reg 2026,"93,389","93,389","93,389",True
+Placer,Registration and Votes,Reg Change #,"+4,984","+4,984","+4,984",True
+Placer,Registration and Votes,Reg Change %,+5.6%,+5.6%,+5.6%,True
+Placer,Registration and Votes,Dem Gov Votes 2022,"73,619","73,619","73,619",True
+Placer,Registration and Votes,Dem Gov Votes 2026*,"91,095","91,095","91,095",True
+Placer,Registration and Votes,Vote Change #,"+17,476","+17,476","+17,476",True
+Placer,Registration and Votes,Vote Change %,+23.7%,+23.7%,+23.7%,True
+Placer,Registration and Votes,Total Ballots 2022,"184,507","184,507","184,507",True
+Placer,Registration and Votes,Total Ballots 2026*,"195,469","195,469","195,469",True
+Placer,Registration and Votes,Ballot Change #,"+10,962","+10,962","+10,962",True
+Placer,Registration and Votes,Ballot Change %,+5.9%,+5.9%,+5.9%,True
+Colusa,Registration and Votes,Dem Reg Share 2026 %,30.6%,30.6%,30.6%,True
+Colusa,Registration and Votes,Dem Reg 2022,"3,214","3,214","3,214",True
+Colusa,Registration and Votes,Dem Reg 2026,"3,346","3,346","3,346",True
+Colusa,Registration and Votes,Reg Change #,+132,+132,+132,True
+Colusa,Registration and Votes,Reg Change %,+4.1%,+4.1%,+4.1%,True
+Colusa,Registration and Votes,Dem Gov Votes 2022,"1,553","1,553","1,553",True
+Colusa,Registration and Votes,Dem Gov Votes 2026*,"2,682","2,682","2,682",True
+Colusa,Registration and Votes,Vote Change #,"+1,129","+1,129","+1,129",True
+Colusa,Registration and Votes,Vote Change %,+72.7%,+72.7%,+72.7%,True
+Colusa,Registration and Votes,Total Ballots 2022,"5,617","5,617","5,617",True
+Colusa,Registration and Votes,Total Ballots 2026*,"6,194","6,194","6,194",True
+Colusa,Registration and Votes,Ballot Change #,+577,+577,+577,True
+Colusa,Registration and Votes,Ballot Change %,+10.3%,+10.3%,+10.3%,True
+El Dorado,Registration and Votes,Dem Reg Share 2026 %,29.6%,29.6%,29.6%,True
+El Dorado,Registration and Votes,Dem Reg 2022,"42,789","42,789","42,789",True
+El Dorado,Registration and Votes,Dem Reg 2026,"40,769","40,769","40,769",True
+El Dorado,Registration and Votes,Reg Change #,"-2,020","-2,020","-2,020",True
+El Dorado,Registration and Votes,Reg Change %,-4.7%,-4.7%,-4.7%,True
+El Dorado,Registration and Votes,Dem Gov Votes 2022,"34,534","34,534","34,534",True
+El Dorado,Registration and Votes,Dem Gov Votes 2026*,"41,930","41,930","41,930",True
+El Dorado,Registration and Votes,Vote Change #,"+7,396","+7,396","+7,396",True
+El Dorado,Registration and Votes,Vote Change %,+21.4%,+21.4%,+21.4%,True
+El Dorado,Registration and Votes,Total Ballots 2022,"89,823","89,823","89,823",True
+El Dorado,Registration and Votes,Total Ballots 2026*,"96,727","96,727","96,727",True
+El Dorado,Registration and Votes,Ballot Change #,"+6,904","+6,904","+6,904",True
+El Dorado,Registration and Votes,Ballot Change %,+7.7%,+7.7%,+7.7%,True
+Sutter,Registration and Votes,Dem Reg Share 2026 %,29.1%,29.1%,29.1%,True
+Sutter,Registration and Votes,Dem Reg 2022,"16,406","16,406","16,406",True
+Sutter,Registration and Votes,Dem Reg 2026,"16,036","16,036","16,036",True
+Sutter,Registration and Votes,Reg Change #,-370,-370,-370,True
+Sutter,Registration and Votes,Reg Change %,-2.3%,-2.3%,-2.3%,True
+Sutter,Registration and Votes,Dem Gov Votes 2022,"9,082","9,082","9,082",True
+Sutter,Registration and Votes,Dem Gov Votes 2026*,"13,733","13,733","13,733",True
+Sutter,Registration and Votes,Vote Change #,"+4,651","+4,651","+4,651",True
+Sutter,Registration and Votes,Vote Change %,+51.2%,+51.2%,+51.2%,True
+Sutter,Registration and Votes,Total Ballots 2022,"28,521","28,521","28,521",True
+Sutter,Registration and Votes,Total Ballots 2026*,"31,708","31,708","31,708",True
+Sutter,Registration and Votes,Ballot Change #,"+3,187","+3,187","+3,187",True
+Sutter,Registration and Votes,Ballot Change %,+11.2%,+11.2%,+11.2%,True
+Trinity,Registration and Votes,Dem Reg Share 2026 %,28.6%,28.6%,28.6%,True
+Trinity,Registration and Votes,Dem Reg 2022,"2,299","2,299","2,299",True
+Trinity,Registration and Votes,Dem Reg 2026,"2,175","2,175","2,175",True
+Trinity,Registration and Votes,Reg Change #,-124,-124,-124,True
+Trinity,Registration and Votes,Reg Change %,-5.4%,-5.4%,-5.4%,True
+Trinity,Registration and Votes,Dem Gov Votes 2022,"1,860","1,860","1,860",True
+Trinity,Registration and Votes,Dem Gov Votes 2026*,"2,217","2,217","2,217",True
+Trinity,Registration and Votes,Vote Change #,+357,+357,+357,True
+Trinity,Registration and Votes,Vote Change %,+19.2%,+19.2%,+19.2%,True
+Trinity,Registration and Votes,Total Ballots 2022,"4,608","4,608","4,608",True
+Trinity,Registration and Votes,Total Ballots 2026*,"4,787","4,787","4,787",True
+Trinity,Registration and Votes,Ballot Change #,+179,+179,+179,True
+Trinity,Registration and Votes,Ballot Change %,+3.9%,+3.9%,+3.9%,True
+Del Norte,Registration and Votes,Dem Reg Share 2026 %,28.4%,28.4%,28.4%,True
+Del Norte,Registration and Votes,Dem Reg 2022,"4,505","4,505","4,505",True
+Del Norte,Registration and Votes,Dem Reg 2026,"4,311","4,311","4,311",True
+Del Norte,Registration and Votes,Reg Change #,-194,-194,-194,True
+Del Norte,Registration and Votes,Reg Change %,-4.3%,-4.3%,-4.3%,True
+Del Norte,Registration and Votes,Dem Gov Votes 2022,"3,264","3,264","3,264",True
+Del Norte,Registration and Votes,Dem Gov Votes 2026*,"3,780","3,780","3,780",True
+Del Norte,Registration and Votes,Vote Change #,+516,+516,+516,True
+Del Norte,Registration and Votes,Vote Change %,+15.8%,+15.8%,+15.8%,True
+Del Norte,Registration and Votes,Total Ballots 2022,"8,450","8,450","8,450",True
+Del Norte,Registration and Votes,Total Ballots 2026*,"8,489","8,489","8,489",True
+Del Norte,Registration and Votes,Ballot Change #,+39,+39,+39,True
+Del Norte,Registration and Votes,Ballot Change %,+0.5%,+0.5%,+0.5%,True
+Yuba,Registration and Votes,Dem Reg Share 2026 %,27.8%,27.8%,27.8%,True
+Yuba,Registration and Votes,Dem Reg 2022,"11,805","11,805","11,805",True
+Yuba,Registration and Votes,Dem Reg 2026,"13,041","13,041","13,041",True
+Yuba,Registration and Votes,Reg Change #,"+1,236","+1,236","+1,236",True
+Yuba,Registration and Votes,Reg Change %,+10.5%,+10.5%,+10.5%,True
+Yuba,Registration and Votes,Dem Gov Votes 2022,"6,534","6,534","6,534",True
+Yuba,Registration and Votes,Dem Gov Votes 2026*,"10,436","10,436","10,436",True
+Yuba,Registration and Votes,Vote Change #,"+3,902","+3,902","+3,902",True
+Yuba,Registration and Votes,Vote Change %,+59.7%,+59.7%,+59.7%,True
+Yuba,Registration and Votes,Total Ballots 2022,"19,886","19,886","19,886",True
+Yuba,Registration and Votes,Total Ballots 2026*,"24,213","24,213","24,213",True
+Yuba,Registration and Votes,Ballot Change #,"+4,327","+4,327","+4,327",True
+Yuba,Registration and Votes,Ballot Change %,+21.8%,+21.8%,+21.8%,True
+Tuolumne,Registration and Votes,Dem Reg Share 2026 %,27.1%,27.1%,27.1%,True
+Tuolumne,Registration and Votes,Dem Reg 2022,"10,273","10,273","10,273",True
+Tuolumne,Registration and Votes,Dem Reg 2026,"9,699","9,699","9,699",True
+Tuolumne,Registration and Votes,Reg Change #,-574,-574,-574,True
+Tuolumne,Registration and Votes,Reg Change %,-5.6%,-5.6%,-5.6%,True
+Tuolumne,Registration and Votes,Dem Gov Votes 2022,"8,471","8,471","8,471",True
+Tuolumne,Registration and Votes,Dem Gov Votes 2026*,"9,670","9,670","9,670",True
+Tuolumne,Registration and Votes,Vote Change #,"+1,199","+1,199","+1,199",True
+Tuolumne,Registration and Votes,Vote Change %,+14.2%,+14.2%,+14.2%,True
+Tuolumne,Registration and Votes,Total Ballots 2022,"23,482","23,482","23,482",True
+Tuolumne,Registration and Votes,Total Ballots 2026*,"24,022","24,022","24,022",True
+Tuolumne,Registration and Votes,Ballot Change #,+540,+540,+540,True
+Tuolumne,Registration and Votes,Ballot Change %,+2.3%,+2.3%,+2.3%,True
+Plumas,Registration and Votes,Dem Reg Share 2026 %,27.1%,27.1%,27.1%,True
+Plumas,Registration and Votes,Dem Reg 2022,"3,899","3,899","3,899",True
+Plumas,Registration and Votes,Dem Reg 2026,"3,491","3,491","3,491",True
+Plumas,Registration and Votes,Reg Change #,-408,-408,-408,True
+Plumas,Registration and Votes,Reg Change %,-10.5%,-10.5%,-10.5%,True
+Plumas,Registration and Votes,Dem Gov Votes 2022,"3,083","3,083","3,083",True
+Plumas,Registration and Votes,Dem Gov Votes 2026*,"3,631","3,631","3,631",True
+Plumas,Registration and Votes,Vote Change #,+548,+548,+548,True
+Plumas,Registration and Votes,Vote Change %,+17.8%,+17.8%,+17.8%,True
+Plumas,Registration and Votes,Total Ballots 2022,"8,721","8,721","8,721",True
+Plumas,Registration and Votes,Total Ballots 2026*,"8,588","8,588","8,588",True
+Plumas,Registration and Votes,Ballot Change #,-133,-133,-133,True
+Plumas,Registration and Votes,Ballot Change %,-1.5%,-1.5%,-1.5%,True
+Siskiyou,Registration and Votes,Dem Reg Share 2026 %,27.0%,27.0%,27.0%,True
+Siskiyou,Registration and Votes,Dem Reg 2022,"8,351","8,351","8,351",True
+Siskiyou,Registration and Votes,Dem Reg 2026,"7,457","7,457","7,457",True
+Siskiyou,Registration and Votes,Reg Change #,-894,-894,-894,True
+Siskiyou,Registration and Votes,Reg Change %,-10.7%,-10.7%,-10.7%,True
+Siskiyou,Registration and Votes,Dem Gov Votes 2022,"6,326","6,326","6,326",True
+Siskiyou,Registration and Votes,Dem Gov Votes 2026*,"7,231","7,231","7,231",True
+Siskiyou,Registration and Votes,Vote Change #,+905,+905,+905,True
+Siskiyou,Registration and Votes,Vote Change %,+14.3%,+14.3%,+14.3%,True
+Siskiyou,Registration and Votes,Total Ballots 2022,"17,907","17,907","17,907",True
+Siskiyou,Registration and Votes,Total Ballots 2026*,"17,514","17,514","17,514",True
+Siskiyou,Registration and Votes,Ballot Change #,-393,-393,-393,True
+Siskiyou,Registration and Votes,Ballot Change %,-2.2%,-2.2%,-2.2%,True
+Glenn,Registration and Votes,Dem Reg Share 2026 %,26.8%,26.8%,26.8%,True
+Glenn,Registration and Votes,Dem Reg 2022,"4,019","4,019","4,019",True
+Glenn,Registration and Votes,Dem Reg 2026,"3,815","3,815","3,815",True
+Glenn,Registration and Votes,Reg Change #,-204,-204,-204,True
+Glenn,Registration and Votes,Reg Change %,-5.1%,-5.1%,-5.1%,True
+Glenn,Registration and Votes,Dem Gov Votes 2022,"1,930","1,930","1,930",True
+Glenn,Registration and Votes,Dem Gov Votes 2026*,"3,155","3,155","3,155",True
+Glenn,Registration and Votes,Vote Change #,"+1,225","+1,225","+1,225",True
+Glenn,Registration and Votes,Vote Change %,+63.5%,+63.5%,+63.5%,True
+Glenn,Registration and Votes,Total Ballots 2022,"7,986","7,986","7,986",True
+Glenn,Registration and Votes,Total Ballots 2026*,"8,767","8,767","8,767",True
+Glenn,Registration and Votes,Ballot Change #,+781,+781,+781,True
+Glenn,Registration and Votes,Ballot Change %,+9.8%,+9.8%,+9.8%,True
+Mariposa,Registration and Votes,Dem Reg Share 2026 %,26.1%,26.1%,26.1%,True
+Mariposa,Registration and Votes,Dem Reg 2022,"3,211","3,211","3,211",True
+Mariposa,Registration and Votes,Dem Reg 2026,"3,082","3,082","3,082",True
+Mariposa,Registration and Votes,Reg Change #,-129,-129,-129,True
+Mariposa,Registration and Votes,Reg Change %,-4.0%,-4.0%,-4.0%,True
+Mariposa,Registration and Votes,Dem Gov Votes 2022,"2,944","2,944","2,944",True
+Mariposa,Registration and Votes,Dem Gov Votes 2026*,"3,269","3,269","3,269",True
+Mariposa,Registration and Votes,Vote Change #,+325,+325,+325,True
+Mariposa,Registration and Votes,Vote Change %,+11.0%,+11.0%,+11.0%,True
+Mariposa,Registration and Votes,Total Ballots 2022,"7,928","7,928","7,928",True
+Mariposa,Registration and Votes,Total Ballots 2026*,"7,989","7,989","7,989",True
+Mariposa,Registration and Votes,Ballot Change #,+61,+61,+61,True
+Mariposa,Registration and Votes,Ballot Change %,+0.8%,+0.8%,+0.8%,True
+Amador,Registration and Votes,Dem Reg Share 2026 %,24.6%,24.6%,24.6%,True
+Amador,Registration and Votes,Dem Reg 2022,"7,065","7,065","7,065",True
+Amador,Registration and Votes,Dem Reg 2026,"6,632","6,632","6,632",True
+Amador,Registration and Votes,Reg Change #,-433,-433,-433,True
+Amador,Registration and Votes,Reg Change %,-6.1%,-6.1%,-6.1%,True
+Amador,Registration and Votes,Dem Gov Votes 2022,"6,027","6,027","6,027",True
+Amador,Registration and Votes,Dem Gov Votes 2026*,"6,865","6,865","6,865",True
+Amador,Registration and Votes,Vote Change #,+838,+838,+838,True
+Amador,Registration and Votes,Vote Change %,+13.9%,+13.9%,+13.9%,True
+Amador,Registration and Votes,Total Ballots 2022,"18,918","18,918","18,918",True
+Amador,Registration and Votes,Total Ballots 2026*,"19,178","19,178","19,178",True
+Amador,Registration and Votes,Ballot Change #,+260,+260,+260,True
+Amador,Registration and Votes,Ballot Change %,+1.4%,+1.4%,+1.4%,True
+Sierra,Registration and Votes,Dem Reg Share 2026 %,24.5%,24.5%,24.5%,True
+Sierra,Registration and Votes,Dem Reg 2022,590,590,590,True
+Sierra,Registration and Votes,Dem Reg 2026,531,531,531,True
+Sierra,Registration and Votes,Reg Change #,-59,-59,-59,True
+Sierra,Registration and Votes,Reg Change %,-10.0%,-10.0%,-10.0%,True
+Sierra,Registration and Votes,Dem Gov Votes 2022,529,529,529,True
+Sierra,Registration and Votes,Dem Gov Votes 2026*,580,580,580,True
+Sierra,Registration and Votes,Vote Change #,+51,+51,+51,True
+Sierra,Registration and Votes,Vote Change %,+9.6%,+9.6%,+9.6%,True
+Sierra,Registration and Votes,Total Ballots 2022,"1,585","1,585","1,585",True
+Sierra,Registration and Votes,Total Ballots 2026*,"1,531","1,531","1,531",True
+Sierra,Registration and Votes,Ballot Change #,-54,-54,-54,True
+Sierra,Registration and Votes,Ballot Change %,-3.4%,-3.4%,-3.4%,True
+Calaveras,Registration and Votes,Dem Reg Share 2026 %,23.8%,23.8%,23.8%,True
+Calaveras,Registration and Votes,Dem Reg 2022,"8,529","8,529","8,529",True
+Calaveras,Registration and Votes,Dem Reg 2026,"7,799","7,799","7,799",True
+Calaveras,Registration and Votes,Reg Change #,-730,-730,-730,True
+Calaveras,Registration and Votes,Reg Change %,-8.6%,-8.6%,-8.6%,True
+Calaveras,Registration and Votes,Dem Gov Votes 2022,"7,103","7,103","7,103",True
+Calaveras,Registration and Votes,Dem Gov Votes 2026*,"7,885","7,885","7,885",True
+Calaveras,Registration and Votes,Vote Change #,+782,+782,+782,True
+Calaveras,Registration and Votes,Vote Change %,+11.0%,+11.0%,+11.0%,True
+Calaveras,Registration and Votes,Total Ballots 2022,"21,566","21,566","21,566",True
+Calaveras,Registration and Votes,Total Ballots 2026*,"21,932","21,932","21,932",True
+Calaveras,Registration and Votes,Ballot Change #,+366,+366,+366,True
+Calaveras,Registration and Votes,Ballot Change %,+1.7%,+1.7%,+1.7%,True
+Tehama,Registration and Votes,Dem Reg Share 2026 %,22.0%,22.0%,22.0%,True
+Tehama,Registration and Votes,Dem Reg 2022,"8,764","8,764","8,764",True
+Tehama,Registration and Votes,Dem Reg 2026,"8,199","8,199","8,199",True
+Tehama,Registration and Votes,Reg Change #,-565,-565,-565,True
+Tehama,Registration and Votes,Reg Change %,-6.4%,-6.4%,-6.4%,True
+Tehama,Registration and Votes,Dem Gov Votes 2022,"5,024","5,024","5,024",True
+Tehama,Registration and Votes,Dem Gov Votes 2026*,"6,854","6,854","6,854",True
+Tehama,Registration and Votes,Vote Change #,"+1,830","+1,830","+1,830",True
+Tehama,Registration and Votes,Vote Change %,+36.4%,+36.4%,+36.4%,True
+Tehama,Registration and Votes,Total Ballots 2022,"20,819","20,819","20,819",True
+Tehama,Registration and Votes,Total Ballots 2026*,"21,682","21,682","21,682",True
+Tehama,Registration and Votes,Ballot Change #,+863,+863,+863,True
+Tehama,Registration and Votes,Ballot Change %,+4.1%,+4.1%,+4.1%,True
+Shasta,Registration and Votes,Dem Reg Share 2026 %,21.1%,21.1%,21.1%,True
+Shasta,Registration and Votes,Dem Reg 2022,"25,338","25,338","25,338",True
+Shasta,Registration and Votes,Dem Reg 2026,"24,474","24,474","24,474",True
+Shasta,Registration and Votes,Reg Change #,-864,-864,-864,True
+Shasta,Registration and Votes,Reg Change %,-3.4%,-3.4%,-3.4%,True
+Shasta,Registration and Votes,Dem Gov Votes 2022,"18,607","18,607","18,607",True
+Shasta,Registration and Votes,Dem Gov Votes 2026*,"22,403","22,403","22,403",True
+Shasta,Registration and Votes,Vote Change #,"+3,796","+3,796","+3,796",True
+Shasta,Registration and Votes,Vote Change %,+20.4%,+20.4%,+20.4%,True
+Shasta,Registration and Votes,Total Ballots 2022,"68,986","68,986","68,986",True
+Shasta,Registration and Votes,Total Ballots 2026*,"67,753","67,753","67,753",True
+Shasta,Registration and Votes,Ballot Change #,"-1,233","-1,233","-1,233",True
+Shasta,Registration and Votes,Ballot Change %,-1.8%,-1.8%,-1.8%,True
+Modoc,Registration and Votes,Dem Reg Share 2026 %,17.9%,17.9%,17.9%,True
+Modoc,Registration and Votes,Dem Reg 2022,"1,056","1,056","1,056",True
+Modoc,Registration and Votes,Dem Reg 2026,925,925,925,True
+Modoc,Registration and Votes,Reg Change #,-131,-131,-131,True
+Modoc,Registration and Votes,Reg Change %,-12.4%,-12.4%,-12.4%,True
+Modoc,Registration and Votes,Dem Gov Votes 2022,687,687,687,True
+Modoc,Registration and Votes,Dem Gov Votes 2026*,847,847,847,True
+Modoc,Registration and Votes,Vote Change #,+160,+160,+160,True
+Modoc,Registration and Votes,Vote Change %,+23.3%,+23.3%,+23.3%,True
+Modoc,Registration and Votes,Total Ballots 2022,"3,441","3,441","3,441",True
+Modoc,Registration and Votes,Total Ballots 2026*,"3,240","3,240","3,240",True
+Modoc,Registration and Votes,Ballot Change #,-201,-201,-201,True
+Modoc,Registration and Votes,Ballot Change %,-5.8%,-5.8%,-5.8%,True
+Lassen,Registration and Votes,Dem Reg Share 2026 %,15.7%,15.7%,15.7%,True
+Lassen,Registration and Votes,Dem Reg 2022,"2,515","2,515","2,515",True
+Lassen,Registration and Votes,Dem Reg 2026,"2,411","2,411","2,411",True
+Lassen,Registration and Votes,Reg Change #,-104,-104,-104,True
+Lassen,Registration and Votes,Reg Change %,-4.1%,-4.1%,-4.1%,True
+Lassen,Registration and Votes,Dem Gov Votes 2022,"1,444","1,444","1,444",True
+Lassen,Registration and Votes,Dem Gov Votes 2026*,"2,124","2,124","2,124",True
+Lassen,Registration and Votes,Vote Change #,+680,+680,+680,True
+Lassen,Registration and Votes,Vote Change %,+47.1%,+47.1%,+47.1%,True
+Lassen,Registration and Votes,Total Ballots 2022,"9,271","9,271","9,271",True
+Lassen,Registration and Votes,Total Ballots 2026*,"9,106","9,106","9,106",True
+Lassen,Registration and Votes,Ballot Change #,-165,-165,-165,True
+Lassen,Registration and Votes,Ballot Change %,-1.8%,-1.8%,-1.8%,True
+Statewide total,Registration and Votes,Dem Reg Share 2026 %,45.0%,45.0%,45.0%,True
+Statewide total,Registration and Votes,Dem Reg 2022,"10,283,258","10,283,258","10,283,258",True
+Statewide total,Registration and Votes,Dem Reg 2026,"10,464,099","10,464,099","10,464,099",True
+Statewide total,Registration and Votes,Reg Change #,"+180,841","+180,841","+180,841",True
+Statewide total,Registration and Votes,Reg Change %,+1.8%,+1.8%,+1.8%,True
+Statewide total,Registration and Votes,Dem Gov Votes 2022,"6,470,104","6,470,104","6,470,104",True
+Statewide total,Registration and Votes,Dem Gov Votes 2026*,"8,669,071","8,669,071","8,669,071",True
+Statewide total,Registration and Votes,Vote Change #,"+2,198,967","+2,198,967","+2,198,967",True
+Statewide total,Registration and Votes,Vote Change %,+34.0%,+34.0%,+34.0%,True
+Statewide total,Registration and Votes,Total Ballots 2022,"11,146,620","11,146,620","11,146,620",True
+Statewide total,Registration and Votes,Total Ballots 2026*,"13,422,913","13,422,913","13,422,913",True
+Statewide total,Registration and Votes,Ballot Change #,"+2,276,293","+2,276,293","+2,276,293",True
+Statewide total,Registration and Votes,Ballot Change %,+20.4%,+20.4%,+20.4%,True
+San Francisco,Dem Vote Share,Dem Share of Ballots 2022 %,83.0%,83.0%,83.0%,True
+San Francisco,Dem Vote Share,Dem Share of Ballots 2026* %,81.8%,81.8%,81.8%,True
+San Francisco,Dem Vote Share,Change (pts),-1.19,-1.19,-1.19,True
+San Francisco,Dem Vote Share,Dem Share of Registration 2022 %,63.1%,63.1%,63.1%,True
+San Francisco,Dem Vote Share,Total Registered 2022,"498,197","498,197","498,197",True
+San Francisco,Dem Vote Share,Dem Share of Registration 2026 %,62.2%,62.2%,62.2%,True
+San Francisco,Dem Vote Share,Total Registered 2026,"536,037","536,037","536,037",True
+Marin,Dem Vote Share,Dem Share of Ballots 2022 %,78.5%,78.5%,78.5%,True
+Marin,Dem Vote Share,Dem Share of Ballots 2026* %,78.8%,78.8%,78.8%,True
+Marin,Dem Vote Share,Change (pts),+0.27,+0.27,+0.27,True
+Marin,Dem Vote Share,Dem Share of Registration 2022 %,62.3%,62.3%,62.3%,True
+Marin,Dem Vote Share,Total Registered 2022,"170,545","170,545","170,545",True
+Marin,Dem Vote Share,Dem Share of Registration 2026 %,61.6%,61.6%,61.6%,True
+Marin,Dem Vote Share,Total Registered 2026,"173,844","173,844","173,844",True
+Santa Cruz,Dem Vote Share,Dem Share of Ballots 2022 %,74.6%,74.6%,74.6%,True
+Santa Cruz,Dem Vote Share,Dem Share of Ballots 2026* %,78.1%,78.1%,78.1%,True
+Santa Cruz,Dem Vote Share,Change (pts),+3.45,+3.45,+3.45,True
+Santa Cruz,Dem Vote Share,Dem Share of Registration 2022 %,59.9%,59.9%,59.9%,True
+Santa Cruz,Dem Vote Share,Total Registered 2022,"167,442","167,442","167,442",True
+Santa Cruz,Dem Vote Share,Dem Share of Registration 2026 %,58.5%,58.5%,58.5%,True
+Santa Cruz,Dem Vote Share,Total Registered 2026,"173,193","173,193","173,193",True
+Alameda,Dem Vote Share,Dem Share of Ballots 2022 %,78.0%,78.0%,78.0%,True
+Alameda,Dem Vote Share,Dem Share of Ballots 2026* %,79.4%,79.4%,79.4%,True
+Alameda,Dem Vote Share,Change (pts),+1.39,+1.39,+1.39,True
+Alameda,Dem Vote Share,Dem Share of Registration 2022 %,60.4%,60.4%,60.4%,True
+Alameda,Dem Vote Share,Total Registered 2022,"931,130","931,130","931,130",True
+Alameda,Dem Vote Share,Dem Share of Registration 2026 %,57.6%,57.6%,57.6%,True
+Alameda,Dem Vote Share,Total Registered 2026,"983,846","983,846","983,846",True
+Sonoma,Dem Vote Share,Dem Share of Ballots 2022 %,69.9%,69.9%,69.9%,True
+Sonoma,Dem Vote Share,Dem Share of Ballots 2026* %,74.3%,74.3%,74.3%,True
+Sonoma,Dem Vote Share,Change (pts),+4.45,+4.45,+4.45,True
+Sonoma,Dem Vote Share,Dem Share of Registration 2022 %,56.8%,56.8%,56.8%,True
+Sonoma,Dem Vote Share,Total Registered 2022,"304,017","304,017","304,017",True
+Sonoma,Dem Vote Share,Dem Share of Registration 2026 %,55.3%,55.3%,55.3%,True
+Sonoma,Dem Vote Share,Total Registered 2026,"321,074","321,074","321,074",True
+San Mateo,Dem Vote Share,Dem Share of Ballots 2022 %,73.6%,73.6%,73.6%,True
+San Mateo,Dem Vote Share,Dem Share of Ballots 2026* %,74.3%,74.3%,74.3%,True
+San Mateo,Dem Vote Share,Change (pts),+0.74,+0.74,+0.74,True
+San Mateo,Dem Vote Share,Dem Share of Registration 2022 %,56.2%,56.2%,56.2%,True
+San Mateo,Dem Vote Share,Total Registered 2022,"432,734","432,734","432,734",True
+San Mateo,Dem Vote Share,Dem Share of Registration 2026 %,54.8%,54.8%,54.8%,True
+San Mateo,Dem Vote Share,Total Registered 2026,"449,447","449,447","449,447",True
+Contra Costa,Dem Vote Share,Dem Share of Ballots 2022 %,67.3%,67.3%,67.3%,True
+Contra Costa,Dem Vote Share,Dem Share of Ballots 2026* %,70.4%,70.4%,70.4%,True
+Contra Costa,Dem Vote Share,Change (pts),+3.08,+3.08,+3.08,True
+Contra Costa,Dem Vote Share,Dem Share of Registration 2022 %,53.8%,53.8%,53.8%,True
+Contra Costa,Dem Vote Share,Total Registered 2022,"701,969","701,969","701,969",True
+Contra Costa,Dem Vote Share,Dem Share of Registration 2026 %,51.6%,51.6%,51.6%,True
+Contra Costa,Dem Vote Share,Total Registered 2026,"733,037","733,037","733,037",True
+Los Angeles,Dem Vote Share,Dem Share of Ballots 2022 %,65.9%,65.9%,65.9%,True
+Los Angeles,Dem Vote Share,Dem Share of Ballots 2026* %,71.6%,71.6%,71.6%,True
+Los Angeles,Dem Vote Share,Change (pts),+5.68,+5.68,+5.68,True
+Los Angeles,Dem Vote Share,Dem Share of Registration 2022 %,53.5%,53.5%,53.5%,True
+Los Angeles,Dem Vote Share,Total Registered 2022,"5,601,835","5,601,835","5,601,835",True
+Los Angeles,Dem Vote Share,Dem Share of Registration 2026 %,51.0%,51.0%,51.0%,True
+Los Angeles,Dem Vote Share,Total Registered 2026,"5,914,190","5,914,190","5,914,190",True
+Napa,Dem Vote Share,Dem Share of Ballots 2022 %,63.9%,63.9%,63.9%,True
+Napa,Dem Vote Share,Dem Share of Ballots 2026* %,69.1%,69.1%,69.1%,True
+Napa,Dem Vote Share,Change (pts),+5.25,+5.25,+5.25,True
+Napa,Dem Vote Share,Dem Share of Registration 2022 %,50.5%,50.5%,50.5%,True
+Napa,Dem Vote Share,Total Registered 2022,"83,480","83,480","83,480",True
+Napa,Dem Vote Share,Dem Share of Registration 2026 %,50.1%,50.1%,50.1%,True
+Napa,Dem Vote Share,Total Registered 2026,"86,473","86,473","86,473",True
+Yolo,Dem Vote Share,Dem Share of Ballots 2022 %,64.4%,64.4%,64.4%,True
+Yolo,Dem Vote Share,Dem Share of Ballots 2026* %,71.9%,71.9%,71.9%,True
+Yolo,Dem Vote Share,Change (pts),+7.46,+7.46,+7.46,True
+Yolo,Dem Vote Share,Dem Share of Registration 2022 %,51.3%,51.3%,51.3%,True
+Yolo,Dem Vote Share,Total Registered 2022,"118,797","118,797","118,797",True
+Yolo,Dem Vote Share,Dem Share of Registration 2026 %,50.0%,50.0%,50.0%,True
+Yolo,Dem Vote Share,Total Registered 2026,"123,012","123,012","123,012",True
+Monterey,Dem Vote Share,Dem Share of Ballots 2022 %,63.3%,63.3%,63.3%,True
+Monterey,Dem Vote Share,Dem Share of Ballots 2026* %,70.1%,70.1%,70.1%,True
+Monterey,Dem Vote Share,Change (pts),+6.80,+6.80,+6.80,True
+Monterey,Dem Vote Share,Dem Share of Registration 2022 %,52.5%,52.5%,52.5%,True
+Monterey,Dem Vote Share,Total Registered 2022,"209,045","209,045","209,045",True
+Monterey,Dem Vote Share,Dem Share of Registration 2026 %,49.9%,49.9%,49.9%,True
+Monterey,Dem Vote Share,Total Registered 2026,"220,213","220,213","220,213",True
+Santa Clara,Dem Vote Share,Dem Share of Ballots 2022 %,68.9%,68.9%,68.9%,True
+Santa Clara,Dem Vote Share,Dem Share of Ballots 2026* %,70.5%,70.5%,70.5%,True
+Santa Clara,Dem Vote Share,Change (pts),+1.64,+1.64,+1.64,True
+Santa Clara,Dem Vote Share,Dem Share of Registration 2022 %,51.1%,51.1%,51.1%,True
+Santa Clara,Dem Vote Share,Total Registered 2022,"1,009,422","1,009,422","1,009,422",True
+Santa Clara,Dem Vote Share,Dem Share of Registration 2026 %,49.6%,49.6%,49.6%,True
+Santa Clara,Dem Vote Share,Total Registered 2026,"1,080,711","1,080,711","1,080,711",True
+Solano,Dem Vote Share,Dem Share of Ballots 2022 %,58.8%,58.8%,58.8%,True
+Solano,Dem Vote Share,Dem Share of Ballots 2026* %,64.7%,64.7%,64.7%,True
+Solano,Dem Vote Share,Change (pts),+5.92,+5.92,+5.92,True
+Solano,Dem Vote Share,Dem Share of Registration 2022 %,49.0%,49.0%,49.0%,True
+Solano,Dem Vote Share,Total Registered 2022,"260,358","260,358","260,358",True
+Solano,Dem Vote Share,Dem Share of Registration 2026 %,46.8%,46.8%,46.8%,True
+Solano,Dem Vote Share,Total Registered 2026,"276,155","276,155","276,155",True
+Santa Barbara,Dem Vote Share,Dem Share of Ballots 2022 %,58.8%,58.8%,58.8%,True
+Santa Barbara,Dem Vote Share,Dem Share of Ballots 2026* %,66.0%,66.0%,66.0%,True
+Santa Barbara,Dem Vote Share,Change (pts),+7.18,+7.18,+7.18,True
+Santa Barbara,Dem Vote Share,Dem Share of Registration 2022 %,47.3%,47.3%,47.3%,True
+Santa Barbara,Dem Vote Share,Total Registered 2022,"237,759","237,759","237,759",True
+Santa Barbara,Dem Vote Share,Dem Share of Registration 2026 %,46.4%,46.4%,46.4%,True
+Santa Barbara,Dem Vote Share,Total Registered 2026,"249,802","249,802","249,802",True
+Mendocino,Dem Vote Share,Dem Share of Ballots 2022 %,61.4%,61.4%,61.4%,True
+Mendocino,Dem Vote Share,Dem Share of Ballots 2026* %,65.0%,65.0%,65.0%,True
+Mendocino,Dem Vote Share,Change (pts),+3.60,+3.60,+3.60,True
+Mendocino,Dem Vote Share,Dem Share of Registration 2022 %,48.8%,48.8%,48.8%,True
+Mendocino,Dem Vote Share,Total Registered 2022,"53,105","53,105","53,105",True
+Mendocino,Dem Vote Share,Dem Share of Registration 2026 %,45.8%,45.8%,45.8%,True
+Mendocino,Dem Vote Share,Total Registered 2026,"53,969","53,969","53,969",True
+San Benito,Dem Vote Share,Dem Share of Ballots 2022 %,52.5%,52.5%,52.5%,True
+San Benito,Dem Vote Share,Dem Share of Ballots 2026* %,61.2%,61.2%,61.2%,True
+San Benito,Dem Vote Share,Change (pts),+8.65,+8.65,+8.65,True
+San Benito,Dem Vote Share,Dem Share of Registration 2022 %,47.8%,47.8%,47.8%,True
+San Benito,Dem Vote Share,Total Registered 2022,"37,750","37,750","37,750",True
+San Benito,Dem Vote Share,Dem Share of Registration 2026 %,45.4%,45.4%,45.4%,True
+San Benito,Dem Vote Share,Total Registered 2026,"40,035","40,035","40,035",True
+Humboldt,Dem Vote Share,Dem Share of Ballots 2022 %,60.6%,60.6%,60.6%,True
+Humboldt,Dem Vote Share,Dem Share of Ballots 2026* %,66.6%,66.6%,66.6%,True
+Humboldt,Dem Vote Share,Change (pts),+5.96,+5.96,+5.96,True
+Humboldt,Dem Vote Share,Dem Share of Registration 2022 %,46.5%,46.5%,46.5%,True
+Humboldt,Dem Vote Share,Total Registered 2022,"84,756","84,756","84,756",True
+Humboldt,Dem Vote Share,Dem Share of Registration 2026 %,44.9%,44.9%,44.9%,True
+Humboldt,Dem Vote Share,Total Registered 2026,"86,401","86,401","86,401",True
+Sacramento,Dem Vote Share,Dem Share of Ballots 2022 %,56.7%,56.7%,56.7%,True
+Sacramento,Dem Vote Share,Dem Share of Ballots 2026* %,64.2%,64.2%,64.2%,True
+Sacramento,Dem Vote Share,Change (pts),+7.47,+7.47,+7.47,True
+Sacramento,Dem Vote Share,Dem Share of Registration 2022 %,45.9%,45.9%,45.9%,True
+Sacramento,Dem Vote Share,Total Registered 2022,"865,225","865,225","865,225",True
+Sacramento,Dem Vote Share,Dem Share of Registration 2026 %,44.3%,44.3%,44.3%,True
+Sacramento,Dem Vote Share,Total Registered 2026,"921,313","921,313","921,313",True
+Imperial,Dem Vote Share,Dem Share of Ballots 2022 %,55.0%,55.0%,55.0%,True
+Imperial,Dem Vote Share,Dem Share of Ballots 2026* %,64.3%,64.3%,64.3%,True
+Imperial,Dem Vote Share,Change (pts),+9.29,+9.29,+9.29,True
+Imperial,Dem Vote Share,Dem Share of Registration 2022 %,47.8%,47.8%,47.8%,True
+Imperial,Dem Vote Share,Total Registered 2022,"86,942","86,942","86,942",True
+Imperial,Dem Vote Share,Dem Share of Registration 2026 %,43.4%,43.4%,43.4%,True
+Imperial,Dem Vote Share,Total Registered 2026,"93,770","93,770","93,770",True
+Ventura,Dem Vote Share,Dem Share of Ballots 2022 %,54.0%,54.0%,54.0%,True
+Ventura,Dem Vote Share,Dem Share of Ballots 2026* %,61.2%,61.2%,61.2%,True
+Ventura,Dem Vote Share,Change (pts),+7.27,+7.27,+7.27,True
+Ventura,Dem Vote Share,Dem Share of Registration 2022 %,43.7%,43.7%,43.7%,True
+Ventura,Dem Vote Share,Total Registered 2022,"505,110","505,110","505,110",True
+Ventura,Dem Vote Share,Dem Share of Registration 2026 %,42.6%,42.6%,42.6%,True
+Ventura,Dem Vote Share,Total Registered 2026,"525,136","525,136","525,136",True
+Alpine,Dem Vote Share,Dem Share of Ballots 2022 %,58.3%,58.3%,58.3%,True
+Alpine,Dem Vote Share,Dem Share of Ballots 2026* %,66.4%,66.4%,66.4%,True
+Alpine,Dem Vote Share,Change (pts),+8.13,+8.13,+8.13,True
+Alpine,Dem Vote Share,Dem Share of Registration 2022 %,42.4%,42.4%,42.4%,True
+Alpine,Dem Vote Share,Total Registered 2022,915,915,915,True
+Alpine,Dem Vote Share,Dem Share of Registration 2026 %,42.3%,42.3%,42.3%,True
+Alpine,Dem Vote Share,Total Registered 2026,917,917,917,True
+San Diego,Dem Vote Share,Dem Share of Ballots 2022 %,55.0%,55.0%,55.0%,True
+San Diego,Dem Vote Share,Dem Share of Ballots 2026* %,62.2%,62.2%,62.2%,True
+San Diego,Dem Vote Share,Change (pts),+7.21,+7.21,+7.21,True
+San Diego,Dem Vote Share,Dem Share of Registration 2022 %,41.5%,41.5%,41.5%,True
+San Diego,Dem Vote Share,Total Registered 2022,"1,924,634","1,924,634","1,924,634",True
+San Diego,Dem Vote Share,Dem Share of Registration 2026 %,40.7%,40.7%,40.7%,True
+San Diego,Dem Vote Share,Total Registered 2026,"2,030,182","2,030,182","2,030,182",True
+San Joaquin,Dem Vote Share,Dem Share of Ballots 2022 %,47.7%,47.7%,47.7%,True
+San Joaquin,Dem Vote Share,Dem Share of Ballots 2026* %,57.8%,57.8%,57.8%,True
+San Joaquin,Dem Vote Share,Change (pts),+10.11,+10.11,+10.11,True
+San Joaquin,Dem Vote Share,Dem Share of Registration 2022 %,43.8%,43.8%,43.8%,True
+San Joaquin,Dem Vote Share,Total Registered 2022,"388,635","388,635","388,635",True
+San Joaquin,Dem Vote Share,Dem Share of Registration 2026 %,40.6%,40.6%,40.6%,True
+San Joaquin,Dem Vote Share,Total Registered 2026,"415,611","415,611","415,611",True
+Mono,Dem Vote Share,Dem Share of Ballots 2022 %,53.8%,53.8%,53.8%,True
+Mono,Dem Vote Share,Dem Share of Ballots 2026* %,60.7%,60.7%,60.7%,True
+Mono,Dem Vote Share,Change (pts),+6.90,+6.90,+6.90,True
+Mono,Dem Vote Share,Dem Share of Registration 2022 %,40.1%,40.1%,40.1%,True
+Mono,Dem Vote Share,Total Registered 2022,"7,710","7,710","7,710",True
+Mono,Dem Vote Share,Dem Share of Registration 2026 %,39.8%,39.8%,39.8%,True
+Mono,Dem Vote Share,Total Registered 2026,"7,960","7,960","7,960",True
+Merced,Dem Vote Share,Dem Share of Ballots 2022 %,45.1%,45.1%,45.1%,True
+Merced,Dem Vote Share,Dem Share of Ballots 2026* %,58.4%,58.4%,58.4%,True
+Merced,Dem Vote Share,Change (pts),+13.29,+13.29,+13.29,True
+Merced,Dem Vote Share,Dem Share of Registration 2022 %,42.9%,42.9%,42.9%,True
+Merced,Dem Vote Share,Total Registered 2022,"124,659","124,659","124,659",True
+Merced,Dem Vote Share,Dem Share of Registration 2026 %,39.5%,39.5%,39.5%,True
+Merced,Dem Vote Share,Total Registered 2026,"137,293","137,293","137,293",True
+San Bernardino,Dem Vote Share,Dem Share of Ballots 2022 %,46.9%,46.9%,46.9%,True
+San Bernardino,Dem Vote Share,Dem Share of Ballots 2026* %,59.0%,59.0%,59.0%,True
+San Bernardino,Dem Vote Share,Change (pts),+12.09,+12.09,+12.09,True
+San Bernardino,Dem Vote Share,Dem Share of Registration 2022 %,41.3%,41.3%,41.3%,True
+San Bernardino,Dem Vote Share,Total Registered 2022,"1,138,818","1,138,818","1,138,818",True
+San Bernardino,Dem Vote Share,Dem Share of Registration 2026 %,38.8%,38.8%,38.8%,True
+San Bernardino,Dem Vote Share,Total Registered 2026,"1,248,960","1,248,960","1,248,960",True
+Nevada,Dem Vote Share,Dem Share of Ballots 2022 %,51.9%,51.9%,51.9%,True
+Nevada,Dem Vote Share,Dem Share of Ballots 2026* %,56.7%,56.7%,56.7%,True
+Nevada,Dem Vote Share,Change (pts),+4.86,+4.86,+4.86,True
+Nevada,Dem Vote Share,Dem Share of Registration 2022 %,39.7%,39.7%,39.7%,True
+Nevada,Dem Vote Share,Total Registered 2022,"74,488","74,488","74,488",True
+Nevada,Dem Vote Share,Dem Share of Registration 2026 %,38.8%,38.8%,38.8%,True
+Nevada,Dem Vote Share,Total Registered 2026,"76,693","76,693","76,693",True
+San Luis Obispo,Dem Vote Share,Dem Share of Ballots 2022 %,50.5%,50.5%,50.5%,True
+San Luis Obispo,Dem Vote Share,Dem Share of Ballots 2026* %,55.7%,55.7%,55.7%,True
+San Luis Obispo,Dem Vote Share,Change (pts),+5.22,+5.22,+5.22,True
+San Luis Obispo,Dem Vote Share,Dem Share of Registration 2022 %,38.3%,38.3%,38.3%,True
+San Luis Obispo,Dem Vote Share,Total Registered 2022,"182,340","182,340","182,340",True
+San Luis Obispo,Dem Vote Share,Dem Share of Registration 2026 %,38.3%,38.3%,38.3%,True
+San Luis Obispo,Dem Vote Share,Total Registered 2026,"183,732","183,732","183,732",True
+Riverside,Dem Vote Share,Dem Share of Ballots 2022 %,47.1%,47.1%,47.1%,True
+Riverside,Dem Vote Share,Dem Share of Ballots 2026* %,58.3%,58.3%,58.3%,True
+Riverside,Dem Vote Share,Change (pts),+11.12,+11.12,+11.12,True
+Riverside,Dem Vote Share,Dem Share of Registration 2022 %,40.5%,40.5%,40.5%,True
+Riverside,Dem Vote Share,Total Registered 2022,"1,310,505","1,310,505","1,310,505",True
+Riverside,Dem Vote Share,Dem Share of Registration 2026 %,38.3%,38.3%,38.3%,True
+Riverside,Dem Vote Share,Total Registered 2026,"1,454,472","1,454,472","1,454,472",True
+Fresno,Dem Vote Share,Dem Share of Ballots 2022 %,44.4%,44.4%,44.4%,True
+Fresno,Dem Vote Share,Dem Share of Ballots 2026* %,55.3%,55.3%,55.3%,True
+Fresno,Dem Vote Share,Change (pts),+10.80,+10.80,+10.80,True
+Fresno,Dem Vote Share,Dem Share of Registration 2022 %,39.5%,39.5%,39.5%,True
+Fresno,Dem Vote Share,Total Registered 2022,"500,076","500,076","500,076",True
+Fresno,Dem Vote Share,Dem Share of Registration 2026 %,37.2%,37.2%,37.2%,True
+Fresno,Dem Vote Share,Total Registered 2026,"530,280","530,280","530,280",True
+Orange,Dem Vote Share,Dem Share of Ballots 2022 %,46.7%,46.7%,46.7%,True
+Orange,Dem Vote Share,Dem Share of Ballots 2026* %,54.7%,54.7%,54.7%,True
+Orange,Dem Vote Share,Change (pts),+7.97,+7.97,+7.97,True
+Orange,Dem Vote Share,Dem Share of Registration 2022 %,37.6%,37.6%,37.6%,True
+Orange,Dem Vote Share,Total Registered 2022,"1,817,583","1,817,583","1,817,583",True
+Orange,Dem Vote Share,Dem Share of Registration 2026 %,36.5%,36.5%,36.5%,True
+Orange,Dem Vote Share,Total Registered 2026,"1,916,806","1,916,806","1,916,806",True
+Stanislaus,Dem Vote Share,Dem Share of Ballots 2022 %,41.9%,41.9%,41.9%,True
+Stanislaus,Dem Vote Share,Dem Share of Ballots 2026* %,52.7%,52.7%,52.7%,True
+Stanislaus,Dem Vote Share,Change (pts),+10.86,+10.86,+10.86,True
+Stanislaus,Dem Vote Share,Dem Share of Registration 2022 %,38.9%,38.9%,38.9%,True
+Stanislaus,Dem Vote Share,Total Registered 2022,"282,393","282,393","282,393",True
+Stanislaus,Dem Vote Share,Dem Share of Registration 2026 %,36.1%,36.1%,36.1%,True
+Stanislaus,Dem Vote Share,Total Registered 2026,"301,333","301,333","301,333",True
+Lake,Dem Vote Share,Dem Share of Ballots 2022 %,48.0%,48.0%,48.0%,True
+Lake,Dem Vote Share,Dem Share of Ballots 2026* %,52.9%,52.9%,52.9%,True
+Lake,Dem Vote Share,Change (pts),+4.96,+4.96,+4.96,True
+Lake,Dem Vote Share,Dem Share of Registration 2022 %,38.0%,38.0%,38.0%,True
+Lake,Dem Vote Share,Total Registered 2022,"37,154","37,154","37,154",True
+Lake,Dem Vote Share,Dem Share of Registration 2026 %,35.2%,35.2%,35.2%,True
+Lake,Dem Vote Share,Total Registered 2026,"38,010","38,010","38,010",True
+Kern,Dem Vote Share,Dem Share of Ballots 2022 %,36.5%,36.5%,36.5%,True
+Kern,Dem Vote Share,Dem Share of Ballots 2026* %,50.4%,50.4%,50.4%,True
+Kern,Dem Vote Share,Change (pts),+13.83,+13.83,+13.83,True
+Kern,Dem Vote Share,Dem Share of Registration 2022 %,35.0%,35.0%,35.0%,True
+Kern,Dem Vote Share,Total Registered 2022,"435,872","435,872","435,872",True
+Kern,Dem Vote Share,Dem Share of Registration 2026 %,33.7%,33.7%,33.7%,True
+Kern,Dem Vote Share,Total Registered 2026,"465,832","465,832","465,832",True
+Inyo,Dem Vote Share,Dem Share of Ballots 2022 %,44.6%,44.6%,44.6%,True
+Inyo,Dem Vote Share,Dem Share of Ballots 2026* %,51.9%,51.9%,51.9%,True
+Inyo,Dem Vote Share,Change (pts),+7.30,+7.30,+7.30,True
+Inyo,Dem Vote Share,Dem Share of Registration 2022 %,34.2%,34.2%,34.2%,True
+Inyo,Dem Vote Share,Total Registered 2022,"10,729","10,729","10,729",True
+Inyo,Dem Vote Share,Dem Share of Registration 2026 %,33.7%,33.7%,33.7%,True
+Inyo,Dem Vote Share,Total Registered 2026,"10,926","10,926","10,926",True
+Butte,Dem Vote Share,Dem Share of Ballots 2022 %,43.0%,43.0%,43.0%,True
+Butte,Dem Vote Share,Dem Share of Ballots 2026* %,49.6%,49.6%,49.6%,True
+Butte,Dem Vote Share,Change (pts),+6.58,+6.58,+6.58,True
+Butte,Dem Vote Share,Dem Share of Registration 2022 %,35.0%,35.0%,35.0%,True
+Butte,Dem Vote Share,Total Registered 2022,"123,935","123,935","123,935",True
+Butte,Dem Vote Share,Dem Share of Registration 2026 %,33.3%,33.3%,33.3%,True
+Butte,Dem Vote Share,Total Registered 2026,"127,517","127,517","127,517",True
+Tulare,Dem Vote Share,Dem Share of Ballots 2022 %,36.0%,36.0%,36.0%,True
+Tulare,Dem Vote Share,Dem Share of Ballots 2026* %,49.7%,49.7%,49.7%,True
+Tulare,Dem Vote Share,Change (pts),+13.66,+13.66,+13.66,True
+Tulare,Dem Vote Share,Dem Share of Registration 2022 %,33.5%,33.5%,33.5%,True
+Tulare,Dem Vote Share,Total Registered 2022,"208,863","208,863","208,863",True
+Tulare,Dem Vote Share,Dem Share of Registration 2026 %,31.7%,31.7%,31.7%,True
+Tulare,Dem Vote Share,Total Registered 2026,"228,685","228,685","228,685",True
+Kings,Dem Vote Share,Dem Share of Ballots 2022 %,34.6%,34.6%,34.6%,True
+Kings,Dem Vote Share,Dem Share of Ballots 2026* %,47.4%,47.4%,47.4%,True
+Kings,Dem Vote Share,Change (pts),+12.75,+12.75,+12.75,True
+Kings,Dem Vote Share,Dem Share of Registration 2022 %,33.6%,33.6%,33.6%,True
+Kings,Dem Vote Share,Total Registered 2022,"61,535","61,535","61,535",True
+Kings,Dem Vote Share,Dem Share of Registration 2026 %,31.2%,31.2%,31.2%,True
+Kings,Dem Vote Share,Total Registered 2026,"61,136","61,136","61,136",True
+Madera,Dem Vote Share,Dem Share of Ballots 2022 %,35.6%,35.6%,35.6%,True
+Madera,Dem Vote Share,Dem Share of Ballots 2026* %,47.9%,47.9%,47.9%,True
+Madera,Dem Vote Share,Change (pts),+12.37,+12.37,+12.37,True
+Madera,Dem Vote Share,Dem Share of Registration 2022 %,33.1%,33.1%,33.1%,True
+Madera,Dem Vote Share,Total Registered 2022,"72,865","72,865","72,865",True
+Madera,Dem Vote Share,Dem Share of Registration 2026 %,31.2%,31.2%,31.2%,True
+Madera,Dem Vote Share,Total Registered 2026,"83,662","83,662","83,662",True
+Placer,Dem Vote Share,Dem Share of Ballots 2022 %,39.9%,39.9%,39.9%,True
+Placer,Dem Vote Share,Dem Share of Ballots 2026* %,46.6%,46.6%,46.6%,True
+Placer,Dem Vote Share,Change (pts),+6.70,+6.70,+6.70,True
+Placer,Dem Vote Share,Dem Share of Registration 2022 %,31.7%,31.7%,31.7%,True
+Placer,Dem Vote Share,Total Registered 2022,"279,016","279,016","279,016",True
+Placer,Dem Vote Share,Dem Share of Registration 2026 %,31.1%,31.1%,31.1%,True
+Placer,Dem Vote Share,Total Registered 2026,"300,368","300,368","300,368",True
+Colusa,Dem Vote Share,Dem Share of Ballots 2022 %,27.6%,27.6%,27.6%,True
+Colusa,Dem Vote Share,Dem Share of Ballots 2026* %,43.3%,43.3%,43.3%,True
+Colusa,Dem Vote Share,Change (pts),+15.65,+15.65,+15.65,True
+Colusa,Dem Vote Share,Dem Share of Registration 2022 %,31.7%,31.7%,31.7%,True
+Colusa,Dem Vote Share,Total Registered 2022,"10,144","10,144","10,144",True
+Colusa,Dem Vote Share,Dem Share of Registration 2026 %,30.6%,30.6%,30.6%,True
+Colusa,Dem Vote Share,Total Registered 2026,"10,940","10,940","10,940",True
+El Dorado,Dem Vote Share,Dem Share of Ballots 2022 %,38.4%,38.4%,38.4%,True
+El Dorado,Dem Vote Share,Dem Share of Ballots 2026* %,43.3%,43.3%,43.3%,True
+El Dorado,Dem Vote Share,Change (pts),+4.90,+4.90,+4.90,True
+El Dorado,Dem Vote Share,Dem Share of Registration 2022 %,30.9%,30.9%,30.9%,True
+El Dorado,Dem Vote Share,Total Registered 2022,"138,537","138,537","138,537",True
+El Dorado,Dem Vote Share,Dem Share of Registration 2026 %,29.6%,29.6%,29.6%,True
+El Dorado,Dem Vote Share,Total Registered 2026,"137,930","137,930","137,930",True
+Sutter,Dem Vote Share,Dem Share of Ballots 2022 %,31.8%,31.8%,31.8%,True
+Sutter,Dem Vote Share,Dem Share of Ballots 2026* %,43.3%,43.3%,43.3%,True
+Sutter,Dem Vote Share,Change (pts),+11.47,+11.47,+11.47,True
+Sutter,Dem Vote Share,Dem Share of Registration 2022 %,31.0%,31.0%,31.0%,True
+Sutter,Dem Vote Share,Total Registered 2022,"52,896","52,896","52,896",True
+Sutter,Dem Vote Share,Dem Share of Registration 2026 %,29.1%,29.1%,29.1%,True
+Sutter,Dem Vote Share,Total Registered 2026,"55,200","55,200","55,200",True
+Trinity,Dem Vote Share,Dem Share of Ballots 2022 %,40.4%,40.4%,40.4%,True
+Trinity,Dem Vote Share,Dem Share of Ballots 2026* %,46.3%,46.3%,46.3%,True
+Trinity,Dem Vote Share,Change (pts),+5.95,+5.95,+5.95,True
+Trinity,Dem Vote Share,Dem Share of Registration 2022 %,31.5%,31.5%,31.5%,True
+Trinity,Dem Vote Share,Total Registered 2022,"7,309","7,309","7,309",True
+Trinity,Dem Vote Share,Dem Share of Registration 2026 %,28.6%,28.6%,28.6%,True
+Trinity,Dem Vote Share,Total Registered 2026,"7,600","7,600","7,600",True
+Del Norte,Dem Vote Share,Dem Share of Ballots 2022 %,38.6%,38.6%,38.6%,True
+Del Norte,Dem Vote Share,Dem Share of Ballots 2026* %,44.5%,44.5%,44.5%,True
+Del Norte,Dem Vote Share,Change (pts),+5.90,+5.90,+5.90,True
+Del Norte,Dem Vote Share,Dem Share of Registration 2022 %,30.1%,30.1%,30.1%,True
+Del Norte,Dem Vote Share,Total Registered 2022,"14,943","14,943","14,943",True
+Del Norte,Dem Vote Share,Dem Share of Registration 2026 %,28.4%,28.4%,28.4%,True
+Del Norte,Dem Vote Share,Total Registered 2026,"15,155","15,155","15,155",True
+Yuba,Dem Vote Share,Dem Share of Ballots 2022 %,32.9%,32.9%,32.9%,True
+Yuba,Dem Vote Share,Dem Share of Ballots 2026* %,43.1%,43.1%,43.1%,True
+Yuba,Dem Vote Share,Change (pts),+10.24,+10.24,+10.24,True
+Yuba,Dem Vote Share,Dem Share of Registration 2022 %,28.6%,28.6%,28.6%,True
+Yuba,Dem Vote Share,Total Registered 2022,"41,212","41,212","41,212",True
+Yuba,Dem Vote Share,Dem Share of Registration 2026 %,27.8%,27.8%,27.8%,True
+Yuba,Dem Vote Share,Total Registered 2026,"46,923","46,923","46,923",True
+Tuolumne,Dem Vote Share,Dem Share of Ballots 2022 %,36.1%,36.1%,36.1%,True
+Tuolumne,Dem Vote Share,Dem Share of Ballots 2026* %,40.3%,40.3%,40.3%,True
+Tuolumne,Dem Vote Share,Change (pts),+4.18,+4.18,+4.18,True
+Tuolumne,Dem Vote Share,Dem Share of Registration 2022 %,29.1%,29.1%,29.1%,True
+Tuolumne,Dem Vote Share,Total Registered 2022,"35,355","35,355","35,355",True
+Tuolumne,Dem Vote Share,Dem Share of Registration 2026 %,27.1%,27.1%,27.1%,True
+Tuolumne,Dem Vote Share,Total Registered 2026,"35,784","35,784","35,784",True
+Plumas,Dem Vote Share,Dem Share of Ballots 2022 %,35.4%,35.4%,35.4%,True
+Plumas,Dem Vote Share,Dem Share of Ballots 2026* %,42.3%,42.3%,42.3%,True
+Plumas,Dem Vote Share,Change (pts),+6.93,+6.93,+6.93,True
+Plumas,Dem Vote Share,Dem Share of Registration 2022 %,28.2%,28.2%,28.2%,True
+Plumas,Dem Vote Share,Total Registered 2022,"13,848","13,848","13,848",True
+Plumas,Dem Vote Share,Dem Share of Registration 2026 %,27.1%,27.1%,27.1%,True
+Plumas,Dem Vote Share,Total Registered 2026,"12,889","12,889","12,889",True
+Siskiyou,Dem Vote Share,Dem Share of Ballots 2022 %,35.3%,35.3%,35.3%,True
+Siskiyou,Dem Vote Share,Dem Share of Ballots 2026* %,41.3%,41.3%,41.3%,True
+Siskiyou,Dem Vote Share,Change (pts),+5.96,+5.96,+5.96,True
+Siskiyou,Dem Vote Share,Dem Share of Registration 2022 %,29.1%,29.1%,29.1%,True
+Siskiyou,Dem Vote Share,Total Registered 2022,"28,725","28,725","28,725",True
+Siskiyou,Dem Vote Share,Dem Share of Registration 2026 %,27.0%,27.0%,27.0%,True
+Siskiyou,Dem Vote Share,Total Registered 2026,"27,669","27,669","27,669",True
+Glenn,Dem Vote Share,Dem Share of Ballots 2022 %,24.2%,24.2%,24.2%,True
+Glenn,Dem Vote Share,Dem Share of Ballots 2026* %,36.0%,36.0%,36.0%,True
+Glenn,Dem Vote Share,Change (pts),+11.82,+11.82,+11.82,True
+Glenn,Dem Vote Share,Dem Share of Registration 2022 %,28.0%,28.0%,28.0%,True
+Glenn,Dem Vote Share,Total Registered 2022,"14,346","14,346","14,346",True
+Glenn,Dem Vote Share,Dem Share of Registration 2026 %,26.8%,26.8%,26.8%,True
+Glenn,Dem Vote Share,Total Registered 2026,"14,226","14,226","14,226",True
+Mariposa,Dem Vote Share,Dem Share of Ballots 2022 %,37.1%,37.1%,37.1%,True
+Mariposa,Dem Vote Share,Dem Share of Ballots 2026* %,40.9%,40.9%,40.9%,True
+Mariposa,Dem Vote Share,Change (pts),+3.78,+3.78,+3.78,True
+Mariposa,Dem Vote Share,Dem Share of Registration 2022 %,27.8%,27.8%,27.8%,True
+Mariposa,Dem Vote Share,Total Registered 2022,"11,558","11,558","11,558",True
+Mariposa,Dem Vote Share,Dem Share of Registration 2026 %,26.1%,26.1%,26.1%,True
+Mariposa,Dem Vote Share,Total Registered 2026,"11,799","11,799","11,799",True
+Amador,Dem Vote Share,Dem Share of Ballots 2022 %,31.9%,31.9%,31.9%,True
+Amador,Dem Vote Share,Dem Share of Ballots 2026* %,35.8%,35.8%,35.8%,True
+Amador,Dem Vote Share,Change (pts),+3.94,+3.94,+3.94,True
+Amador,Dem Vote Share,Dem Share of Registration 2022 %,27.2%,27.2%,27.2%,True
+Amador,Dem Vote Share,Total Registered 2022,"25,954","25,954","25,954",True
+Amador,Dem Vote Share,Dem Share of Registration 2026 %,24.6%,24.6%,24.6%,True
+Amador,Dem Vote Share,Total Registered 2026,"26,992","26,992","26,992",True
+Sierra,Dem Vote Share,Dem Share of Ballots 2022 %,33.4%,33.4%,33.4%,True
+Sierra,Dem Vote Share,Dem Share of Ballots 2026* %,37.9%,37.9%,37.9%,True
+Sierra,Dem Vote Share,Change (pts),+4.51,+4.51,+4.51,True
+Sierra,Dem Vote Share,Dem Share of Registration 2022 %,26.6%,26.6%,26.6%,True
+Sierra,Dem Vote Share,Total Registered 2022,"2,219","2,219","2,219",True
+Sierra,Dem Vote Share,Dem Share of Registration 2026 %,24.5%,24.5%,24.5%,True
+Sierra,Dem Vote Share,Total Registered 2026,"2,164","2,164","2,164",True
+Calaveras,Dem Vote Share,Dem Share of Ballots 2022 %,32.9%,32.9%,32.9%,True
+Calaveras,Dem Vote Share,Dem Share of Ballots 2026* %,36.0%,36.0%,36.0%,True
+Calaveras,Dem Vote Share,Change (pts),+3.02,+3.02,+3.02,True
+Calaveras,Dem Vote Share,Dem Share of Registration 2022 %,26.5%,26.5%,26.5%,True
+Calaveras,Dem Vote Share,Total Registered 2022,"32,172","32,172","32,172",True
+Calaveras,Dem Vote Share,Dem Share of Registration 2026 %,23.8%,23.8%,23.8%,True
+Calaveras,Dem Vote Share,Total Registered 2026,"32,726","32,726","32,726",True
+Tehama,Dem Vote Share,Dem Share of Ballots 2022 %,24.1%,24.1%,24.1%,True
+Tehama,Dem Vote Share,Dem Share of Ballots 2026* %,31.6%,31.6%,31.6%,True
+Tehama,Dem Vote Share,Change (pts),+7.48,+7.48,+7.48,True
+Tehama,Dem Vote Share,Dem Share of Registration 2022 %,23.6%,23.6%,23.6%,True
+Tehama,Dem Vote Share,Total Registered 2022,"37,131","37,131","37,131",True
+Tehama,Dem Vote Share,Dem Share of Registration 2026 %,22.0%,22.0%,22.0%,True
+Tehama,Dem Vote Share,Total Registered 2026,"37,275","37,275","37,275",True
+Shasta,Dem Vote Share,Dem Share of Ballots 2022 %,27.0%,27.0%,27.0%,True
+Shasta,Dem Vote Share,Dem Share of Ballots 2026* %,33.1%,33.1%,33.1%,True
+Shasta,Dem Vote Share,Change (pts),+6.09,+6.09,+6.09,True
+Shasta,Dem Vote Share,Dem Share of Registration 2022 %,22.7%,22.7%,22.7%,True
+Shasta,Dem Vote Share,Total Registered 2022,"111,628","111,628","111,628",True
+Shasta,Dem Vote Share,Dem Share of Registration 2026 %,21.1%,21.1%,21.1%,True
+Shasta,Dem Vote Share,Total Registered 2026,"115,780","115,780","115,780",True
+Modoc,Dem Vote Share,Dem Share of Ballots 2022 %,20.0%,20.0%,20.0%,True
+Modoc,Dem Vote Share,Dem Share of Ballots 2026* %,26.1%,26.1%,26.1%,True
+Modoc,Dem Vote Share,Change (pts),+6.18,+6.18,+6.18,True
+Modoc,Dem Vote Share,Dem Share of Registration 2022 %,20.3%,20.3%,20.3%,True
+Modoc,Dem Vote Share,Total Registered 2022,"5,197","5,197","5,197",True
+Modoc,Dem Vote Share,Dem Share of Registration 2026 %,17.9%,17.9%,17.9%,True
+Modoc,Dem Vote Share,Total Registered 2026,"5,172","5,172","5,172",True
+Lassen,Dem Vote Share,Dem Share of Ballots 2022 %,15.6%,15.6%,15.6%,True
+Lassen,Dem Vote Share,Dem Share of Ballots 2026* %,23.3%,23.3%,23.3%,True
+Lassen,Dem Vote Share,Change (pts),+7.75,+7.75,+7.75,True
+Lassen,Dem Vote Share,Dem Share of Registration 2022 %,17.0%,17.0%,17.0%,True
+Lassen,Dem Vote Share,Total Registered 2022,"14,757","14,757","14,757",True
+Lassen,Dem Vote Share,Dem Share of Registration 2026 %,15.7%,15.7%,15.7%,True
+Lassen,Dem Vote Share,Total Registered 2026,"15,333","15,333","15,333",True
+Statewide total,Dem Vote Share,Dem Share of Ballots 2022 %,58.0%,58.0%,58.0%,True
+Statewide total,Dem Vote Share,Dem Share of Ballots 2026* %,64.6%,64.6%,64.6%,True
+Statewide total,Dem Vote Share,Change (pts),+6.54,+6.54,+6.54,True
+Statewide total,Dem Vote Share,Dem Share of Registration 2022 %,46.9%,46.9%,46.9%,True
+Statewide total,Dem Vote Share,Total Registered 2022,"21,940,274","21,940,274","21,940,274",True
+Statewide total,Dem Vote Share,Dem Share of Registration 2026 %,45.0%,45.0%,45.0%,True
+Statewide total,Dem Vote Share,Total Registered 2026,"23,273,590","23,273,590","23,273,590",True

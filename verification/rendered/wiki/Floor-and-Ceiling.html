@@ -1,0 +1,283 @@
+<blockquote>
+<p><strong>*2026 figures are UNOFFICIAL.</strong> The California Secretary of State (SOS) results site, electionresults.sos.ca.gov, labels the November 3, 2026 general election results "Unofficial" (semi-final unofficial results with county updates; statewide figures as of November 19, 2026, 1:59 p.m. Pacific; pulled November 19, 2026). Counties are still in the canvass: the SOS Unprocessed Ballots Report (as of 11/18/2026 5:33 p.m.) estimated 100,313 ballots statewide still to process, plus 96,238 ballots left to cure. Counties must report final official results by December 4, 2026, and the SOS certifies on December 11, 2026, so these pages need a re-run after certification. 2022 figures are the certified Statement of Vote (certificate dated the 16th day of December, 2022). <strong>P</strong> = Democratic share of registered voters in the SOS 15-day Report of Registration (close of registration: as of October 24, 2022 and as of October 19, 2026). Governor race only. Votes are votes for the Democratic candidate, not a count of registered Democrats who voted. These pages measure a pattern; they make no claim about intent, fraud or cause.</p>
+</blockquote>
+<h2>How to read floor and ceiling counties</h2>
+<p>The <strong>ceiling</strong> counties are the five with the largest ΔG: where the Democratic share of ballots outran the Democratic share of registration by the most between 2022 and 2026*. The <strong>floor</strong> counties are the five with the most Republican registration baseline (lowest 2022 P). Looking at both shows whether the biggest movements came from places with few Democrats to begin with.</p>
+<h2>Terminology</h2>
+<ul>
+<li><strong>Ceiling counties</strong>: the five largest ΔG.</li>
+<li><strong>Floor counties</strong>: the five lowest 2022 Democratic registration shares (P 2022).</li>
+<li><strong>Loss counties</strong>: the Democratic registration count fell between the two 15-day reports. Only these run the residual step.</li>
+<li><strong>Non-loss counties</strong>: the Democratic registration count rose or held.</li>
+<li><strong>Narrowed-out counties</strong>: counties whose Cook's distance is above four divided by n, or whose externally studentized residual is beyond two and a half in absolute value, in either year's G-on-P fit.</li>
+</ul>
+<h2>Ceiling and floor detail</h2>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>County</th>
+<th>Group</th>
+<th>P 2022</th>
+<th>P 2026*</th>
+<th>S 2022</th>
+<th>S 2026*</th>
+<th>ΔG*</th>
+<th>Loss county</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Colusa</td>
+<td>ceiling</td>
+<td>31.68</td>
+<td>30.59</td>
+<td>27.65</td>
+<td>43.30</td>
+<td>+16.75</td>
+<td>no</td>
+</tr>
+<tr>
+<td>Merced</td>
+<td>ceiling</td>
+<td>42.88</td>
+<td>39.47</td>
+<td>45.12</td>
+<td>58.41</td>
+<td>+16.69</td>
+<td>no</td>
+</tr>
+<tr>
+<td>Tulare</td>
+<td>ceiling</td>
+<td>33.50</td>
+<td>31.72</td>
+<td>36.01</td>
+<td>49.67</td>
+<td>+15.44</td>
+<td>no</td>
+</tr>
+<tr>
+<td>Kings</td>
+<td>ceiling</td>
+<td>33.59</td>
+<td>31.24</td>
+<td>34.61</td>
+<td>47.37</td>
+<td>+15.10</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Kern</td>
+<td>ceiling</td>
+<td>34.96</td>
+<td>33.72</td>
+<td>36.55</td>
+<td>50.38</td>
+<td>+15.07</td>
+<td>no</td>
+</tr>
+<tr>
+<td>Lassen</td>
+<td>floor</td>
+<td>17.04</td>
+<td>15.72</td>
+<td>15.58</td>
+<td>23.33</td>
+<td>+9.07</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Modoc</td>
+<td>floor</td>
+<td>20.32</td>
+<td>17.88</td>
+<td>19.97</td>
+<td>26.14</td>
+<td>+8.61</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Shasta</td>
+<td>floor</td>
+<td>22.70</td>
+<td>21.14</td>
+<td>26.97</td>
+<td>33.07</td>
+<td>+7.65</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Tehama</td>
+<td>floor</td>
+<td>23.60</td>
+<td>22.00</td>
+<td>24.13</td>
+<td>31.61</td>
+<td>+9.09</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Calaveras</td>
+<td>floor</td>
+<td>26.51</td>
+<td>23.83</td>
+<td>32.94</td>
+<td>35.95</td>
+<td>+5.70</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<p>The five lowest ΔG are San Francisco (−0.34*), Marin (+0.97*), San Mateo (+2.14*), Santa Clara (+3.16*), Alameda (+4.16*): the Bay Area counties with the highest Democratic baselines.</p>
+<h2>Counties narrowed out of the fit</h2>
+<p>Rule: Cook's distance above four divided by n (0.069) or |externally studentized residual| above two and a half, in either year's fit. 7 counties are narrowed out; the narrowed fits use 51.</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>County</th>
+<th>Cook's D 2022</th>
+<th>Studentized 2022</th>
+<th>Cook's D 2026*</th>
+<th>Studentized 2026*</th>
+<th>P 2022</th>
+<th>G 2022</th>
+<th>G 2026*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>San Francisco</td>
+<td>0.036</td>
+<td>+0.83</td>
+<td>0.141</td>
+<td>−1.63</td>
+<td>63.07</td>
+<td>+19.94</td>
+<td>+19.61</td>
+</tr>
+<tr>
+<td>Marin</td>
+<td>0.001</td>
+<td>−0.11</td>
+<td>0.359</td>
+<td>−2.78</td>
+<td>62.25</td>
+<td>+16.24</td>
+<td>+17.20</td>
+</tr>
+<tr>
+<td>Glenn</td>
+<td>0.084</td>
+<td>−2.19</td>
+<td>0.091</td>
+<td>−2.36</td>
+<td>28.01</td>
+<td>−3.85</td>
+<td>+9.17</td>
+</tr>
+<tr>
+<td>Lassen</td>
+<td>0.007</td>
+<td>−0.39</td>
+<td>0.148</td>
+<td>−1.82</td>
+<td>17.04</td>
+<td>−1.47</td>
+<td>+7.60</td>
+</tr>
+<tr>
+<td>Colusa</td>
+<td>0.085</td>
+<td>−2.66</td>
+<td>0.015</td>
+<td>−1.11</td>
+<td>31.68</td>
+<td>−4.04</td>
+<td>+12.71</td>
+</tr>
+<tr>
+<td>Modoc</td>
+<td>0.006</td>
+<td>−0.41</td>
+<td>0.116</td>
+<td>−1.75</td>
+<td>20.32</td>
+<td>−0.35</td>
+<td>+8.26</td>
+</tr>
+<tr>
+<td>Alpine</td>
+<td>0.029</td>
+<td>+1.79</td>
+<td>0.070</td>
+<td>+2.77</td>
+<td>42.40</td>
+<td>+15.86</td>
+<td>+24.08</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h2>Over-ballot check</h2>
+<p>Three tests per county and year: ballots cast against registered voters on the 15-day report, ballots cast and registered voters against eligible residents (the SOS's own eligible count on the same report), and Democratic + Republican governor votes against ballots cast.</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Test</th>
+<th>2022</th>
+<th>2026*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Counties with ballots cast above 15-day registration</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Counties with ballots cast above eligible residents</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Counties with registered voters above eligible residents</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Counties with Dem + Rep governor votes above ballots cast</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ballots with no governor vote, county median (% of ballots)</td>
+<td>1.27%</td>
+<td>1.12%</td>
+</tr>
+<tr>
+<td>Ballots with no governor vote, statewide (% of ballots)</td>
+<td>1.92%</td>
+<td>1.57%</td>
+</tr>
+<tr>
+<td>Highest turnout of 15-day registration</td>
+<td>Amador 72.89%</td>
+<td>Marin 72.85%</td>
+</tr>
+<tr>
+<td>Highest registration of eligible</td>
+<td>El Dorado 95.50%</td>
+<td>Marin 95.70%</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<p><strong>No over-ballot flags in either year.</strong> The tightest margin is Alpine, with 4 ballots without a governor vote in 2022 and 6 in 2026*. Because of same-day registration, a county could legitimately cast more ballots than its 15-day registration count; none did.</p>
+<h2>Data sources</h2>
+<ul>
+<li>2022 governor votes: SOS Statement of Vote, Governor (<a href="https://elections.cdn.sos.ca.gov/sov/2022-general/sov/19-governor.xlsx" rel="nofollow">xlsx</a>, <a href="https://elections.cdn.sos.ca.gov/sov/2022-general/sov/19-governor.pdf" rel="nofollow">PDF</a>). Certified.</li>
+<li>2022 ballots cast: SOS SOV <a href="https://elections.cdn.sos.ca.gov/sov/2022-general/sov/03-voter-participation-stats-by-county.pdf" rel="nofollow">Voter Participation Statistics by County</a>, Total Voters. Certified.</li>
+<li>Registration: SOS 15-day Report of Registration, Registration by County (<a href="https://elections.cdn.sos.ca.gov/ror/15day-general-2022/county.xlsx" rel="nofollow">2022 xlsx</a>, <a href="https://elections.cdn.sos.ca.gov/ror/15day-general-2022/county.pdf" rel="nofollow">2022 PDF</a>, <a href="https://elections.cdn.sos.ca.gov/ror/15day-gen-2026/county.xlsx" rel="nofollow">2026 xlsx</a>, <a href="https://elections.cdn.sos.ca.gov/ror/15day-gen-2026/county.pdf" rel="nofollow">2026 PDF</a>).</li>
+<li>2026* governor votes and ballots cast: <a href="https://electionresults.sos.ca.gov/returns/governor" rel="nofollow">electionresults.sos.ca.gov</a> (county governor pages and <a href="https://electionresults.sos.ca.gov/returns/status" rel="nofollow">County Reporting Status</a>) and the site's data API (<code class="notranslate">api.sos.ca.gov/returns/governor/county/alameda</code> (one file per county), <code class="notranslate">api.sos.ca.gov/returns/maps/status/gubernatorial-general</code>). UNOFFICIAL.</li>
+<li>Population (sort order only): U.S. Census Bureau county population estimates, Vintage 2025.</li>
+</ul>
+<hr>
+<p><strong>Related:</strong> <a href="Home">Home</a> · <a href="Reverse-Math">Bottom-Up Reverse Math</a> · <a href="Locked-California-Formula">Locked California Formula</a> · <a href="Graphs">Graphs</a> · <a href="California-County-PDF-Information">California County PDF Information</a> · <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit (Nebraska)</a></p>

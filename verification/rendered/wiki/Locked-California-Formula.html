@@ -1,0 +1,382 @@
+<blockquote>
+<p><strong>*2026 figures are UNOFFICIAL.</strong> The California Secretary of State (SOS) results site, electionresults.sos.ca.gov, labels the November 3, 2026 general election results "Unofficial" (semi-final unofficial results with county updates; statewide figures as of November 19, 2026, 1:59 p.m. Pacific; pulled November 19, 2026). Counties are still in the canvass: the SOS Unprocessed Ballots Report (as of 11/18/2026 5:33 p.m.) estimated 100,313 ballots statewide still to process, plus 96,238 ballots left to cure. Counties must report final official results by December 4, 2026, and the SOS certifies on December 11, 2026, so these pages need a re-run after certification. 2022 figures are the certified Statement of Vote (certificate dated the 16th day of December, 2022). <strong>P</strong> = Democratic share of registered voters in the SOS 15-day Report of Registration (close of registration: as of October 24, 2022 and as of October 19, 2026). Governor race only. Votes are votes for the Democratic candidate, not a count of registered Democrats who voted. These pages measure a pattern; they make no claim about intent, fraud or cause.</p>
+</blockquote>
+<h2>California fitted equation (final)</h2>
+<pre class="notranslate"><code class="notranslate">California equation:  ΔG = +6.09 + 1.53 × (Dem registration-share drop, points)
+Four decimals:        ΔG = +6.0938 + 1.5300 × (Dem registration-share drop, points)
+</code></pre>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Item</th>
+<th>Rounded</th>
+<th>Four decimals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Constant (intercept)</td>
+<td>+6.09</td>
+<td>+6.0938</td>
+</tr>
+<tr>
+<td>Multiplier (slope)</td>
+<td>1.53</td>
+<td>1.5300</td>
+</tr>
+<tr>
+<td>Intercept standard error</td>
+<td>1.05</td>
+<td>1.0516</td>
+</tr>
+<tr>
+<td>Slope standard error</td>
+<td>0.54</td>
+<td>0.5396</td>
+</tr>
+<tr>
+<td>R²</td>
+<td>0.13</td>
+<td>0.1255</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<p>Fitted by ordinary least squares across all 58 counties (n = 58), each county weighted equally: 2022 to 2026* governor race, registration from the SOS 15-day Reports of Registration, S denominator = total ballots cast, locked gap formula. Registration-share drop = P 2022 − P 2026, in points. 2026 figures are UNOFFICIAL. Computed separately in Pass A (numpy least squares) and Pass B (closed-form, pure Python); the two agree to within one part in a billion.</p>
+<p><strong>What it means:</strong> across California's counties, each one-point drop in Democratic registration share goes with about 1.53 points of ΔG, starting from about +6.09 when the share does not fall. The fit explains little of the county-to-county differences in ΔG (R² 0.13); the slope's standard error is 0.54.</p>
+<p><strong>Worked example: Los Angeles.</strong> P fell from 53.49 to 51.00, a drop of 2.4908 points. Predicted ΔG = +6.0938 + 1.5300 × 2.4908 = +9.90. Actual ΔG = +8.17*. Difference from the fitted line (actual − predicted) = −1.74*. Statewide (pooled totals): drop 1.9081, predicted +9.01, actual +8.45*.</p>
+<h2>The equation</h2>
+<ul>
+<li><strong>S</strong> (Democratic vote share) = Democratic governor votes ÷ total ballots cast × 100. Ballots cast is the county's total ballots cast (2022: SOV Voter Participation Statistics, Total Voters; 2026*: SOS County Reporting Status, Ballots Cast).</li>
+<li><strong>P</strong> (Democratic registration share) = Democratic registered voters ÷ Total Registered × 100, from the SOS 15-day Report of Registration (Registration by County) for each general election.</li>
+<li><strong>G</strong> = S − P</li>
+<li><strong>ΔG</strong> = G(2026) − G(2022) = (S2026 − S2022) − (P2026 − P2022)</li>
+<li><strong>Reverse step (residual).</strong> Run it only where the Democratic registration count fell. Residual = ΔG − |P2026 − P2022|.</li>
+<li><strong>Solved backward: implied extra votes</strong> = D2026 − (S2022 ÷ 100) × ballots2026</li>
+<li><strong>Registration-scaled gap</strong> = D2026 − D2022 × (DemReg2026 ÷ DemReg2022)</li>
+</ul>
+<h3>Why these files</h3>
+<ul>
+<li><strong>Registration date.</strong> The 15-day Report of Registration is the SOS's close-of-registration snapshot for each general election (as of October 24, 2022 and as of October 19, 2026). It is the same point in both election cycles, and it is the registration figure the SOS itself uses for turnout on its results pages.</li>
+<li><strong>Ballots, not governor votes.</strong> S divides by total ballots cast in the county, so ballots with no governor vote stay in the denominator.</li>
+<li><strong>2022 is certified; 2026 is not.</strong> The 2022 Statement of Vote is the certified canvass. The 2026 figures are the SOS's semi-final unofficial results with county updates, pulled November 19, 2026.</li>
+</ul>
+<h2>Blank template</h2>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Line</th>
+<th>Item</th>
+<th>2022</th>
+<th>2026</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L1</td>
+<td>Democratic governor votes</td>
+<td>______</td>
+<td>______</td>
+</tr>
+<tr>
+<td>L2</td>
+<td>Total ballots cast</td>
+<td>______</td>
+<td>______</td>
+</tr>
+<tr>
+<td>L3</td>
+<td>S = L1 ÷ L2 × 100</td>
+<td>______</td>
+<td>______</td>
+</tr>
+<tr>
+<td>L4</td>
+<td>Democratic registered voters (15-day Report of Registration)</td>
+<td>______</td>
+<td>______</td>
+</tr>
+<tr>
+<td>L5</td>
+<td>Total Registered (same report)</td>
+<td>______</td>
+<td>______</td>
+</tr>
+<tr>
+<td>L6</td>
+<td>P = L4 ÷ L5 × 100</td>
+<td>______</td>
+<td>______</td>
+</tr>
+<tr>
+<td>L7</td>
+<td>G = L3 − L6</td>
+<td>______</td>
+<td>______</td>
+</tr>
+<tr>
+<td>L8</td>
+<td>ΔG = G 2026 − G 2022</td>
+<td></td>
+<td>______</td>
+</tr>
+<tr>
+<td>L9</td>
+<td>Registration-share change = P 2026 − P 2022</td>
+<td></td>
+<td>______</td>
+</tr>
+<tr>
+<td>L10</td>
+<td>Did the Democratic registration count fall? (L4: 2026 below 2022)</td>
+<td></td>
+<td>Yes / No</td>
+</tr>
+<tr>
+<td>L11</td>
+<td>If yes: residual = L8 − |L9|</td>
+<td></td>
+<td>______</td>
+</tr>
+<tr>
+<td>L12</td>
+<td>Implied extra votes = L1 (2026) − L3 (2022) ÷ 100 × L2 (2026)</td>
+<td></td>
+<td>______</td>
+</tr>
+<tr>
+<td>L13</td>
+<td>Registration-scaled gap = L1 (2026) − L1 (2022) × (L4 2026 ÷ L4 2022)</td>
+<td></td>
+<td>______</td>
+</tr>
+<tr>
+<td>L14</td>
+<td>Fitted G = m × (L6 ÷ 100) + b, CA constants for that year</td>
+<td>______</td>
+<td>______</td>
+</tr>
+<tr>
+<td>L15</td>
+<td>Distance from the CA line = L7 − L14</td>
+<td>______</td>
+<td>______</td>
+</tr>
+<tr>
+<td>L16</td>
+<td>Fitted-equation prediction = constant + multiplier × (− L9)</td>
+<td></td>
+<td>______</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h2>Worked example: Colusa (ceiling county)</h2>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Line</th>
+<th>Item</th>
+<th>2022</th>
+<th>2026*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L1</td>
+<td>Democratic governor votes</td>
+<td>1,553</td>
+<td>2,682</td>
+</tr>
+<tr>
+<td>L2</td>
+<td>Total ballots cast</td>
+<td>5,617</td>
+<td>6,194</td>
+</tr>
+<tr>
+<td>L3</td>
+<td>S</td>
+<td>27.65</td>
+<td>43.30</td>
+</tr>
+<tr>
+<td>L4</td>
+<td>Democratic registered voters</td>
+<td>3,214</td>
+<td>3,346</td>
+</tr>
+<tr>
+<td>L5</td>
+<td>Total Registered</td>
+<td>10,144</td>
+<td>10,940</td>
+</tr>
+<tr>
+<td>L6</td>
+<td>P</td>
+<td>31.68</td>
+<td>30.59</td>
+</tr>
+<tr>
+<td>L7</td>
+<td>G</td>
+<td>−4.04</td>
+<td>+12.71</td>
+</tr>
+<tr>
+<td>L8</td>
+<td>ΔG</td>
+<td></td>
+<td>+16.75</td>
+</tr>
+<tr>
+<td>L9</td>
+<td>Registration-share change</td>
+<td></td>
+<td>−1.10</td>
+</tr>
+<tr>
+<td>L10</td>
+<td>Democratic registration count fell?</td>
+<td></td>
+<td>No</td>
+</tr>
+<tr>
+<td>L11</td>
+<td>Residual</td>
+<td></td>
+<td>not run (non-loss county)</td>
+</tr>
+<tr>
+<td>L12</td>
+<td>Implied extra votes</td>
+<td></td>
+<td>+969</td>
+</tr>
+<tr>
+<td>L13</td>
+<td>Registration-scaled gap</td>
+<td></td>
+<td>+1,065</td>
+</tr>
+<tr>
+<td>L14</td>
+<td>Fitted G</td>
+<td>+5.35</td>
+<td>+15.22</td>
+</tr>
+<tr>
+<td>L15</td>
+<td>Distance from the CA line</td>
+<td>−9.39</td>
+<td>−2.51</td>
+</tr>
+<tr>
+<td>L16</td>
+<td>Fitted-equation prediction</td>
+<td></td>
+<td>+7.77</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h2>CA-only constants (forward fit)</h2>
+<p>The forward surplus equation is fit by least squares across all 58 California counties, each weighted equally: <strong>G = m × (P ÷ 100) + b</strong>. It uses California data only. No other state's constant is reused.</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Fit</th>
+<th>n</th>
+<th>m (SE)</th>
+<th>b (SE)</th>
+<th>R²</th>
+<th>Residual SE</th>
+<th>Within one / two / three pts</th>
+<th>Median abs. residual</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2022, all counties</td>
+<td>58</td>
+<td>+36.93 (4.43)</td>
+<td>−6.35 (1.82)</td>
+<td>0.554</td>
+<td>3.77</td>
+<td>17% / 36% / 53%</td>
+<td>2.98</td>
+</tr>
+<tr>
+<td>2026*, all counties</td>
+<td>58</td>
+<td>+24.89 (2.69)</td>
+<td>+7.61 (1.06)</td>
+<td>0.604</td>
+<td>2.29</td>
+<td>36% / 64% / 83%</td>
+<td>1.37</td>
+</tr>
+<tr>
+<td>2022, narrowed</td>
+<td>51</td>
+<td>+30.86 (4.77)</td>
+<td>−3.71 (1.96)</td>
+<td>0.460</td>
+<td>3.40</td>
+<td>25% / 43% / 57%</td>
+<td>2.29</td>
+</tr>
+<tr>
+<td>2026*, narrowed</td>
+<td>51</td>
+<td>+23.96 (2.43)</td>
+<td>+8.33 (0.96)</td>
+<td>0.665</td>
+<td>1.72</td>
+<td>47% / 75% / 94%</td>
+<td>1.03</td>
+</tr>
+<tr>
+<td>2022, ballot-weighted</td>
+<td>58</td>
+<td>+38.10 (4.31)</td>
+<td>−6.58 (2.05)</td>
+<td>0.582</td>
+<td>3.78</td>
+<td>17% / 34% / 55%</td>
+<td>2.72</td>
+</tr>
+<tr>
+<td>2026*, ballot-weighted</td>
+<td>58</td>
+<td>+13.27 (2.45)</td>
+<td>+13.56 (1.12)</td>
+<td>0.344</td>
+<td>3.08</td>
+<td>28% / 62% / 74%</td>
+<td>1.71</td>
+</tr>
+<tr>
+<td>2022 + 2026* pooled</td>
+<td>116</td>
+<td>+27.70 (4.67)</td>
+<td>+1.93 (1.89)</td>
+<td>0.236</td>
+<td>5.64</td>
+<td>9% / 19% / 33%</td>
+<td>4.50</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<p><strong>The locked CA constants are the all-county fits: 2022 m = +36.93, b = −6.35; 2026* m = +24.89, b = +7.61.</strong> Narrowed fits leave out San Francisco, Marin, Glenn, Lassen, Colusa, Modoc, Alpine (see <a href="Floor-and-Ceiling#counties-narrowed-out-of-the-fit">Floor and Ceiling Counties</a>).</p>
+<ul>
+<li><strong>What m means.</strong> G already contains −P, so an m of minus one hundred would mean S does not move with P at all, and an m of zero would mean S moves point for point with P. It is not an "injection multiplier."</li>
+<li><strong>Intercepts.</strong> 2022 b 95% interval −10.00 to −2.70; 2026* +5.48 to +9.74.</li>
+</ul>
+<h2>Rules for using this formula</h2>
+<ol>
+<li><strong>Use registration from the same report in both years.</strong> California's are the SOS 15-day Reports of Registration.</li>
+<li><strong>If a county lost Democratic registrants, run the residual step.</strong> In California that is 25 counties; the other 33 are non-loss counties.</li>
+<li><strong>The starting point is different in every state.</strong> California's constants come from California's own 58 counties. Los Angeles alone cast 3,180,986* of 13,422,913* ballots, but the equal-weight fit counts it once, like Alpine.</li>
+<li><strong>Always pull out the ceiling and floor counties.</strong> The ceiling county is Colusa (+16.75*), and the lowest ΔG is San Francisco (−0.34*). The floor (most Republican baseline) is Lassen, Modoc, Shasta, Tehama, Calaveras. See <a href="Floor-and-Ceiling">Floor and Ceiling Counties</a>.</li>
+</ol>
+<hr>
+<p><strong>Related:</strong> <a href="Home">Home</a> · <a href="Reverse-Math">Bottom-Up Reverse Math</a> · <a href="Floor-and-Ceiling">Floor and Ceiling Counties</a> · <a href="Graphs">Graphs</a> · <a href="California-County-PDF-Information">California County PDF Information</a> · <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit (Nebraska)</a></p>

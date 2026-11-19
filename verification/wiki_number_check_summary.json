@@ -1,0 +1,71 @@
+{
+ "numbers_checked": 1152,
+ "data_numbers": 1088,
+ "date_labels": 64,
+ "matched": 1152,
+ "mismatches": [],
+ "untraced_or_missing": [],
+ "per_page": {
+  "California-County-PDF-Information": {
+   "numbers": 32,
+   "mismatches": 0
+  },
+  "Locked-California-Formula": {
+   "numbers": 162,
+   "mismatches": 0
+  },
+  "_Sidebar": {
+   "numbers": 1,
+   "mismatches": 0
+  },
+  "Floor-and-Ceiling": {
+   "numbers": 136,
+   "mismatches": 0
+  },
+  "Graphs": {
+   "numbers": 11,
+   "mismatches": 0
+  },
+  "Home": {
+   "numbers": 92,
+   "mismatches": 0
+  },
+  "Reverse-Math": {
+   "numbers": 704,
+   "mismatches": 0
+  },
+  "README": {
+   "numbers": 14,
+   "mismatches": 0
+  }
+ },
+ "structure": {
+  "unofficial_on_every_page": {
+   "California-County-PDF-Information": true,
+   "Locked-California-Formula": true,
+   "_Sidebar": true,
+   "Floor-and-Ceiling": true,
+   "Graphs": true,
+   "Home": true,
+   "Reverse-Math": true,
+   "README": true
+  },
+  "cedar_link_on_every_page": {
+   "California-County-PDF-Information": true,
+   "Locked-California-Formula": true,
+   "_Sidebar": true,
+   "Floor-and-Ceiling": true,
+   "Graphs": true,
+   "Home": true,
+   "Reverse-Math": true,
+   "README": true
+  },
+  "fitted_equation_section": true,
+  "sidebar_order": true,
+  "home_links_pdf_page": true,
+  "pdf_raw_link": true,
+  "compare_passes_clean": true,
+  "pdf_cell_check_publishable": true
+ },
+ "STATUS": "PASS"
+}
