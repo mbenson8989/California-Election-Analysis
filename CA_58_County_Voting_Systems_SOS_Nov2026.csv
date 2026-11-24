@@ -1,0 +1,59 @@
+County,Population,Central tabulation system,Vote center / polling place tabulator,Accessibility support,Ballot on demand (elections office),Ballot on demand (vote center / polling place),Remote accessible vote by mail,Electronic pollbook,Election management system,Vendor (from system name)
+Los Angeles,9694934,VSAP 4.0 Tally,Central Tabulation Only,VSAP 4.0 BMD,Sentio 9.2,Do not use,VSAP 4.0 Interactive Sample Ballot,PollPad 4.3.2,DIMS,Los Angeles County
+San Diego,3282248,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,Do not use,DS 5.19 ImageCast Remote,Precinct Central 6.0.1,DIMS,Liberty Vote (Dominion)
+Orange,3149507,Verity 3.2 Central/Count,Verity 3.2.1 Scan,Verity 3.2 Touchwriter,Verity 3.2 Print,Verity 3.2 Print,Secure Select 1.2.2,Precinct Central 6.0.1,DFM,Hart InterCivic
+Riverside,2544916,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,Secure Select 1.2.2,DFM*,DFM,Liberty Vote (Dominion)
+San Bernardino,2224091,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,Sentio 9.2,Sentio 9.4,Secure Select 1.2.2,PollPad 3.4.8,DIMS,Liberty Vote (Dominion)
+Santa Clara,1914391,DS 5.19 ICC,DS 5.19 ICP2,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,Secure Select 1.2.2,Precinct Central 6.0.1,DFM,Liberty Vote (Dominion)
+Alameda,1636630,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,Secure Select 1.2.2,PollPad 3.4.8,DIMS,Liberty Vote (Dominion)
+Sacramento,1618460,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,Sentio 9.2,DS 5.19 MBP,Secure Select 1.2.2,Do not use,DFM,Liberty Vote (Dominion)
+Contra Costa,1170070,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,Do not use,DS 5.19 ImageCast Remote,PollPad 3.4.8,DFM,Liberty Vote (Dominion)
+Fresno,1035456,DS 5.10A ICC,DS 5.10A ICE,DS 5.10A ICX,DS 5.10A MBP,DS 5.10A MBP,Secure Select 1.2.2,DFM*,DFM,Liberty Vote (Dominion)
+Kern,927068,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,Do not use,DS 5.19 ImageCast Remote,Precinct Central 6.0.1,DFM,Liberty Vote (Dominion)
+Ventura,830851,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,Do not use,DFM,Liberty Vote (Dominion)
+San Francisco,826079,DS 5.19 ICC,DS 5.19 ICE,DS 5.19 ICX,Do not use,Do not use,Secure Select 1.2.2,DFM*,DFM,Liberty Vote (Dominion)
+San Joaquin,823815,Verity 3.2 Central/Count,Verity 3.2 Scan,Verity 3.2 Touchwriter,Verity 3.2 Print,Verity 3.2 Print,Secure Select 1.2.2,PollPad 3.4.8,DFM,Hart InterCivic
+San Mateo,743568,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,Secure Select 1.2.2,Precinct Central 6.0.1,DFM,Liberty Vote (Dominion)
+Stanislaus,557719,Verity 3.1 Central/Count,Verity 3.1 Scan,Verity 3.1 Touchwriter,Verity 3.1 Print,Verity 3.1 Print,Secure Select 1.2.2,DIMS Panorama*,DIMS,Hart InterCivic
+Sonoma,486444,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+Tulare,485146,DS 5.19 ICC,DS 5.19 ICE,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+Solano,455376,Verity 3.2 Central/Count,Verity 3.2 Scan,Verity 3.2 Touchwriter,Verity 3.2 Print,Verity 3.2 Touchwriter,Secure Select 1.2.2,PollPad 4.3.2,DIMS,Hart InterCivic
+Placer,442081,DS 5.19 ICC,DS 5.19 ICE,DS 5.19 ICX,Sentio 9.2,Sentio 9.4,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+Santa Barbara,442065,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,Sentio 9.2,Do not use,DS 5.19 ImageCast Remote,Precinct Central 6.0.1,DFM,Liberty Vote (Dominion)
+Monterey,433729,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,Do not use,Secure Select 1.2.2,PollPad 4.3.2,DFM,Liberty Vote (Dominion)
+Merced,297260,EVS 6.3.0.2 DS950,Central Tabulation Only,EVS 6.3.0.2 ExpressVote,Balotar 3.0.5.1,Do not use,Secure Select 1.2.2,PollPad 3.4.8,DFM,ES&S
+San Luis Obispo,282367,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,Do not use,DS 5.19 ImageCast Remote,Do not use,DFM,Liberty Vote (Dominion)
+Santa Cruz,258852,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+Marin,253694,DS 5.19 ICC,DS 5.19 ICC,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+Yolo,224410,Verity 3.2.1 Central/Count,Central Tabulation Only,Verity 3.2.1 Touchwriter,Verity 3.2.1 Print,Verity 3.2.1 Print,Secure Select 1.2.2,Precinct Central 6.0.1,DFM,Hart InterCivic
+Butte,209211,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+El Dorado,192323,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+Shasta,181648,Verity 3.2 Central/Count,Central Tabulation Only,Verity 3.2 Touchwriter,Verity 3.2 Print,Do not use,Secure Select 1.2.2,Do not use,DFM,Hart InterCivic
+Imperial,181411,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,Do not use,Secure Select 1.2.2,PollPad 4.3.2,DIMS,Liberty Vote (Dominion)
+Madera,167927,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+Kings,154327,DS 5.10A ICC,Central Tabulation Only,DS 5.10A ICX,DS 5.10A MBP,DS 5.10A MBP,DS 5.19 ImageCast Remote,PollPad 4.3.2,DFM,Liberty Vote (Dominion)
+Napa,132949,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+Humboldt,131647,Verity 3.2.1 Central/Count,Verity 3.2.1 Scan,Verity 3.2.1 Touchwriter,Verity 3.2.1 Print,Do not use,Secure Select 1.2.2,DFM*,ProVista,Hart InterCivic
+Nevada,101911,Verity 3.2 Central/Count,Central Tabulation Only,Verity 3.2 Touchwriter,Verity 3.2 Print,Verity 3.2 Print,Secure Select 1.2.2,Provista ViBE,ProVista,Hart InterCivic
+Sutter,98787,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,Do not use,Do not use,DS 5.19 ImageCast Remote,DFM*,DFM,Liberty Vote (Dominion)
+Yuba,88691,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,Do not use,DS 5.19 ImageCast Remote,PollPad 3.4.8,DFM,Liberty Vote (Dominion)
+Mendocino,88122,Verity 3.2.1 Central/Count,Central Tabulation Only,Verity 3.2.1 Touchwriter,Verity 3.2.1 Print,Verity 3.2.1 Touchwriter,Secure Select 1.2.2,Do not use,DIMS,Hart InterCivic
+San Benito,70082,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,Precinct Central 6.0.1,DFM,Liberty Vote (Dominion)
+Lake,67772,Verity 3.2.1 Central/Count,Central Tabulation Only,Verity 3.2.1 Touchwriter,Do not use,Do not use,Secure Select 1.2.2,Do not use,DFM,Hart InterCivic
+Tehama,64665,DS 5.19 ICC,DS 5.19 ICE,DS 5.19 ICE,Do not use,Do not use,DS 5.19 ImageCast Remote,Do not use,DFM,Liberty Vote (Dominion)
+Tuolumne,53160,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,PollPad 3.4.8,DIMS,Liberty Vote (Dominion)
+Calaveras,46605,Verity 3.2 Central/Count,Verity 3.2 Scan,Verity 3.2 Touchwriter,Verity 3.2 Print,Verity 3.2 Print,Secure Select 1.2.2,Do not use,DFM,Hart InterCivic
+Siskiyou,42013,DS 5.19 ICC,DS 5.19 ICE,DS 5.19 ICE,Do not use,Do not use,Secure Select 1.2.2,Do not use,DIMS,Liberty Vote (Dominion)
+Amador,41876,EVS 6.3.0.2 DS450,EVS 6.3.0.2 DS300,EVS 6.3.0.2 EpressVote,Balotar 3.0.5.1,Balotar 3.0.5.1,Secure Select 1.2.2,DFM*,DFM,ES&S
+Glenn,28141,DS 5.19 ICC,DS 5.19 ICE,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,Do not use,DFM,Liberty Vote (Dominion)
+Lassen,28117,EVS 6.3.0.2 DS200 /DS450,EVS 6.3.0.2 DS200,EVS 6.3.0.2 ExpressVote,Do not use,Do not use,Secure Select 1.2.2,PollPad 3.4.8,DFM,ES&S
+Del Norte,26410,DS 5.19 ICC,DS 5.19 ICE,DS 5.19 ICX,Do not use,Do not use,Secure Select 1.2.2,Do not use,DIMS,Liberty Vote (Dominion)
+Colusa,21836,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,Do not use,DS 5.19 ImageCast Remote,Do not use,DFM,Liberty Vote (Dominion)
+Plumas,18583,DS 5.19 ICC,DS 5.19 ICE,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,Do not use,DFM,Liberty Vote (Dominion)
+Inyo,18158,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,Do not use,Do not use,DS 5.19 ImageCast Remote,Precinct Central 6.0.1,DFM,Liberty Vote (Dominion)
+Mariposa,16918,DS 5.19 ICC,Central Tabulation Only,DS 5.19 ICX,DS 5.19 MBP,DS 5.19 MBP,DS 5.19 ImageCast Remote,Do not use,DFM,Liberty Vote (Dominion)
+Trinity,15720,Verity 3.2 Central/Count,Central Tabulation Only,Verity 3.2 Touchwriter,Do not use,DS 5.19 MBP,Secure Select 1.2.2,Do not use,DIMS,Hart InterCivic
+Mono,12505,DS 5.19 ICC,DS 5.19 ICE,DS 5.19 ICE,Do not use,Do not use,DS 5.19 ImageCast Remote,PollPad 3.4.8,DFM,Liberty Vote (Dominion)
+Modoc,8426,EVS 6.3.0.2 DS450,EVS 6.3.0.2 DS200,EVS 6.3.0.2 ExpressVote,Do not use,Do not use,Secure Select 1.2.2,PollPad 4.3.2,DIMS,ES&S
+Sierra,3098,Verity 3.2 Central/Count,Central Tabulation Only,Verity 3.2 Touchwriter,Do not use,Do not use,Secure Select 1.2.2,Do not use,DFM,Hart InterCivic
+Alpine,1043,EVS 6.3.0.2 DS200,Central Tabulation Only,EVS 6.3.0.2 EpressVote,Balotar 3.0.5.1,Do not use,Secure Select 1.2.2,Do not use,DFM,ES&S

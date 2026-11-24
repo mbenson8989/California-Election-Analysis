@@ -1,0 +1,257 @@
+{
+ "raw passes A vs B (compare_passes.py exit 0)": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "all computed quantities, pass A vs pass B": {
+  "checked": 4370,
+  "matched": 4370,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "page numbers: displayed = pass A = pass B": {
+  "checked": 1309,
+  "matched": 1309,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "pages rebuilt from pass B are byte-identical": {
+  "checked": 8,
+  "matched": 8,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "number tokens traced (every number on every staged page)": {
+  "checked": 8,
+  "matched": 8,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "equipment table cells on Resources = pass 2 (JSON) / SOS parse B": {
+  "checked": 870,
+  "matched": 870,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "equipment table row count": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "equipment CSV cells = pass 2": {
+  "checked": 870,
+  "matched": 870,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "SOS voting-systems CSV cells = parse B": {
+  "checked": 522,
+  "matched": 522,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "district lookup CSV = Caltrans parse B": {
+  "checked": 58,
+  "matched": 58,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "district lookup CSV order = population order": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "letters: statewide line = pass B": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "letters: county figures = pass B": {
+  "checked": 174,
+  "matched": 174,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "letters: figures present in the rendered PDF": {
+  "checked": 174,
+  "matched": 174,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "letters: statewide line present in the rendered PDF": {
+  "checked": 58,
+  "matched": 58,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "letters: 2026 marked unofficial in the PDF": {
+  "checked": 58,
+  "matched": 58,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "letters: addressee = SOS list": {
+  "checked": 58,
+  "matched": 58,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "letters: 58 PDF + 58 Word": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "flip cards: drawn text = pass B": {
+  "checked": 101,
+  "matched": 101,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "flip cards: ranking A = B": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "flip CSV = pass B": {
+  "checked": 10,
+  "matched": 10,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "charts: ceiling labels = pass B": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "charts: scatter order = population order (B)": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "charts: stacked 2022-share order = pass B": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "charts: gain-bar order = pass B": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "charts: label values = pass B": {
+  "checked": 7,
+  "matched": 7,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "charts: files present": {
+  "checked": 5,
+  "matched": 5,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "tracker cells = pass B / SOS list": {
+  "checked": 812,
+  "matched": 812,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "tracker totals formulas": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "quotations word for word (AG letter + 58 letters)": {
+  "checked": 376,
+  "matched": 376,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "Cedar link exact on every staged page": {
+  "checked": 8,
+  "matched": 8,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "UNOFFICIAL on every staged page": {
+  "checked": 8,
+  "matched": 8,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "no variant Cedar links": {
+  "checked": 8,
+  "matched": 8,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "sidebar order matches Kansas item for item": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "sidebar anchor exists on Reverse-Math": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "Reverse-Math anchor for constants exists": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "no Locked page staged in kansas_match/wiki": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "README and PDF page unchanged from wikiclone": {
+  "checked": 2,
+  "matched": 2,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "wikiclone/ git status clean": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "Guarantee post <= 280 characters": {
+  "checked": 1,
+  "matched": 1,
+  "mismatches": 0,
+  "first_fails": []
+ },
+ "token_counts_per_page": {
+  "README": 7,
+  "Floor-and-Ceiling": 151,
+  "Home": 90,
+  "Graphs": 33,
+  "Resources": 276,
+  "_Sidebar": 0,
+  "Reverse-Math": 739,
+  "California-County-PDF-Information": 20
+ },
+ "TOTAL": {
+  "checked": 9891,
+  "mismatches": 0
+ },
+ "STATUS": "PASS"
+}

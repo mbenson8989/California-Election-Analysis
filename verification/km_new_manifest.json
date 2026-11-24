@@ -1,0 +1,2313 @@
+{
+"post_len": 278,
+"pages": [
+"California-County-PDF-Information",
+"Floor-and-Ceiling",
+"Graphs",
+"Home",
+"README",
+"Resources",
+"Reverse-Math",
+"_Sidebar"
+],
+"manifest": [
+{
+"page": "Home",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Home",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Home",
+"key": "ff|2022|m",
+"fmt": "f2",
+"text": "36.93"
+},
+{
+"page": "Home",
+"key": "ff|2022|b_abs",
+"fmt": "f2",
+"text": "6.35"
+},
+{
+"page": "Home",
+"key": "ff|2022|r2",
+"fmt": "f3",
+"text": "0.554"
+},
+{
+"page": "Home",
+"key": "ff|2026|m",
+"fmt": "f2",
+"text": "24.89"
+},
+{
+"page": "Home",
+"key": "ff|2026|b",
+"fmt": "f2",
+"text": "7.61"
+},
+{
+"page": "Home",
+"key": "ff|2026|r2",
+"fmt": "f3",
+"text": "0.604"
+},
+{
+"page": "Reverse-Math",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|n",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|m",
+"fmt": "f2",
+"text": "36.93"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|m_lo",
+"fmt": "f2",
+"text": "28.07"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|m_hi",
+"fmt": "f2",
+"text": "45.80"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|b",
+"fmt": "f2",
+"text": "−6.35"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|b_lo",
+"fmt": "f2",
+"text": "−10.00"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|b_hi",
+"fmt": "f2",
+"text": "−2.70"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|r2",
+"fmt": "f3",
+"text": "0.554"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|sd",
+"fmt": "f2",
+"text": "3.77"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|w2",
+"fmt": "i",
+"text": "21"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|w5",
+"fmt": "i",
+"text": "47"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|n",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|m",
+"fmt": "f2",
+"text": "24.89"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|m_lo",
+"fmt": "f2",
+"text": "19.50"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|m_hi",
+"fmt": "f2",
+"text": "30.29"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|b",
+"fmt": "f2",
+"text": "7.61"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|b_lo",
+"fmt": "f2",
+"text": "5.48"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|b_hi",
+"fmt": "f2",
+"text": "9.74"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|r2",
+"fmt": "f3",
+"text": "0.604"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|sd",
+"fmt": "f2",
+"text": "2.29"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|w2",
+"fmt": "i",
+"text": "37"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|w5",
+"fmt": "i",
+"text": "55"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|n",
+"fmt": "i",
+"text": "116"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|m",
+"fmt": "f2",
+"text": "27.70"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|m_lo",
+"fmt": "f2",
+"text": "18.44"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|m_hi",
+"fmt": "f2",
+"text": "36.95"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|b",
+"fmt": "f2",
+"text": "1.93"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|b_lo",
+"fmt": "f2",
+"text": "−1.80"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|b_hi",
+"fmt": "f2",
+"text": "5.66"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|r2",
+"fmt": "f3",
+"text": "0.236"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|sd",
+"fmt": "f2",
+"text": "5.64"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|w2",
+"fmt": "i",
+"text": "22"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|pooled|w5",
+"fmt": "i",
+"text": "69"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|at40",
+"fmt": "f2",
+"text": "8.43"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|at40",
+"fmt": "f2",
+"text": "17.57"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|sd",
+"fmt": "f2",
+"text": "3.77"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|sd",
+"fmt": "f2",
+"text": "2.29"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2022|r2",
+"fmt": "f3",
+"text": "0.554"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|2026|r2",
+"fmt": "f3",
+"text": "0.604"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|int|dm_abs",
+"fmt": "f2",
+"text": "12.04"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|int|p_dm",
+"fmt": "sci1",
+"text": "2.2e-02"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|int|db",
+"fmt": "f2",
+"text": "13.96"
+},
+{
+"page": "Reverse-Math",
+"key": "ff|int|p_db",
+"fmt": "sci1",
+"text": "9.8e-10"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|floor_median",
+"fmt": "g2",
+"text": "+8.61"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|floor_mean",
+"fmt": "g2",
+"text": "+8.02"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|metro3_median",
+"fmt": "g2",
+"text": "+8.17"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|metro3_mean",
+"fmt": "g2",
+"text": "+8.38"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|metro6_median",
+"fmt": "g2",
+"text": "+8.58"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|metro6_mean",
+"fmt": "g2",
+"text": "+9.38"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|ceiling_median",
+"fmt": "g2",
+"text": "+15.44"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|ceiling_mean",
+"fmt": "g2",
+"text": "+15.81"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|all_median",
+"fmt": "g2",
+"text": "+8.08"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "const|all_mean",
+"fmt": "g2",
+"text": "+8.75"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "size|slope",
+"fmt": "g2",
+"text": "+0.17"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "size|r",
+"fmt": "f2",
+"text": "0.03"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "size|p",
+"fmt": "f2",
+"text": "0.79"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "vbm|state_pct22",
+"fmt": "p2",
+"text": "87.52%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "vbm|state22",
+"fmt": "i",
+"text": "9,755,198"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "vbm|min",
+"fmt": "p2",
+"text": "68.10%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "vbm|max",
+"fmt": "p2",
+"text": "100.00%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "vbm|median",
+"fmt": "p2",
+"text": "91.05%"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "vbm|n_total_match",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "vbm|rho",
+"fmt": "g2",
+"text": "−0.33"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "vbm|p",
+"fmt": "f3",
+"text": "0.012"
+},
+{
+"page": "Floor-and-Ceiling",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Graphs",
+"key": "n|dG_pos",
+"fmt": "i",
+"text": "57"
+},
+{
+"page": "Graphs",
+"key": "n|dG_neg",
+"fmt": "i",
+"text": "1"
+},
+{
+"page": "Graphs",
+"key": "Colusa|dG",
+"fmt": "g2",
+"text": "+16.75"
+},
+{
+"page": "Graphs",
+"key": "Merced|dG",
+"fmt": "g2",
+"text": "+16.69"
+},
+{
+"page": "Graphs",
+"key": "Tulare|dG",
+"fmt": "g2",
+"text": "+15.44"
+},
+{
+"page": "Graphs",
+"key": "Kings|dG",
+"fmt": "g2",
+"text": "+15.10"
+},
+{
+"page": "Graphs",
+"key": "Kern|dG",
+"fmt": "g2",
+"text": "+15.07"
+},
+{
+"page": "Graphs",
+"key": "ff|2022|m",
+"fmt": "f2",
+"text": "36.93"
+},
+{
+"page": "Graphs",
+"key": "ff|2022|b_abs",
+"fmt": "f2",
+"text": "6.35"
+},
+{
+"page": "Graphs",
+"key": "ff|2022|r2",
+"fmt": "f3",
+"text": "0.554"
+},
+{
+"page": "Graphs",
+"key": "ff|2022|sd",
+"fmt": "f2",
+"text": "3.77"
+},
+{
+"page": "Graphs",
+"key": "ff|2026|m",
+"fmt": "f2",
+"text": "24.89"
+},
+{
+"page": "Graphs",
+"key": "ff|2026|b",
+"fmt": "f2",
+"text": "7.61"
+},
+{
+"page": "Graphs",
+"key": "ff|2026|r2",
+"fmt": "f3",
+"text": "0.604"
+},
+{
+"page": "Graphs",
+"key": "ff|2026|sd",
+"fmt": "f2",
+"text": "2.29"
+},
+{
+"page": "Graphs",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Graphs",
+"key": "const|floor_median",
+"fmt": "g2",
+"text": "+8.61"
+},
+{
+"page": "Graphs",
+"key": "const|metro3_median",
+"fmt": "g2",
+"text": "+8.17"
+},
+{
+"page": "Graphs",
+"key": "size|slope",
+"fmt": "g2",
+"text": "+0.17"
+},
+{
+"page": "Graphs",
+"key": "size|r",
+"fmt": "f2",
+"text": "0.03"
+},
+{
+"page": "Graphs",
+"key": "size|p",
+"fmt": "f2",
+"text": "0.79"
+},
+{
+"page": "Graphs",
+"key": "const|all_mean",
+"fmt": "g2",
+"text": "+8.75"
+},
+{
+"page": "Graphs",
+"key": "const|all_median",
+"fmt": "g2",
+"text": "+8.08"
+},
+{
+"page": "Graphs",
+"key": "San Francisco|dG",
+"fmt": "g2",
+"text": "−0.34"
+},
+{
+"page": "Graphs",
+"key": "Marin|dG",
+"fmt": "g2",
+"text": "+0.97"
+},
+{
+"page": "Graphs",
+"key": "San Mateo|dG",
+"fmt": "g2",
+"text": "+2.14"
+},
+{
+"page": "Graphs",
+"key": "Santa Clara|dG",
+"fmt": "g2",
+"text": "+3.16"
+},
+{
+"page": "Graphs",
+"key": "Alameda|dG",
+"fmt": "g2",
+"text": "+4.16"
+},
+{
+"page": "Graphs",
+"key": "n|S_rose",
+"fmt": "i",
+"text": "57"
+},
+{
+"page": "Graphs",
+"key": "n|S_fell",
+"fmt": "i",
+"text": "1"
+},
+{
+"page": "Graphs",
+"key": "n|loss",
+"fmt": "i",
+"text": "25"
+},
+{
+"page": "Resources",
+"key": "dist|1|n",
+"fmt": "i",
+"text": "4"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_01_Eureka.zip|mb",
+"fmt": "f1",
+"text": "0.4"
+},
+{
+"page": "Resources",
+"key": "dist|2|n",
+"fmt": "i",
+"text": "7"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_02_Redding.zip|mb",
+"fmt": "f1",
+"text": "0.6"
+},
+{
+"page": "Resources",
+"key": "dist|3|n",
+"fmt": "i",
+"text": "11"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_03_Marysville_Sacramento.zip|mb",
+"fmt": "f1",
+"text": "1.0"
+},
+{
+"page": "Resources",
+"key": "dist|4|n",
+"fmt": "i",
+"text": "9"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_04_Bay_Area_Oakland.zip|mb",
+"fmt": "f1",
+"text": "0.8"
+},
+{
+"page": "Resources",
+"key": "dist|5|n",
+"fmt": "i",
+"text": "5"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_05_Central_Coast.zip|mb",
+"fmt": "f1",
+"text": "0.4"
+},
+{
+"page": "Resources",
+"key": "dist|6|n",
+"fmt": "i",
+"text": "5"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_06_Fresno_Bakersfield.zip|mb",
+"fmt": "f1",
+"text": "0.4"
+},
+{
+"page": "Resources",
+"key": "dist|7|n",
+"fmt": "i",
+"text": "2"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_07_Los_Angeles_Ventura.zip|mb",
+"fmt": "f1",
+"text": "0.2"
+},
+{
+"page": "Resources",
+"key": "dist|8|n",
+"fmt": "i",
+"text": "2"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_08_San_Bernardino_Riverside.zip|mb",
+"fmt": "f1",
+"text": "0.2"
+},
+{
+"page": "Resources",
+"key": "dist|9|n",
+"fmt": "i",
+"text": "2"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_09_Bishop.zip|mb",
+"fmt": "f1",
+"text": "0.2"
+},
+{
+"page": "Resources",
+"key": "dist|10|n",
+"fmt": "i",
+"text": "8"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_10_Stockton.zip|mb",
+"fmt": "f1",
+"text": "0.7"
+},
+{
+"page": "Resources",
+"key": "dist|11|n",
+"fmt": "i",
+"text": "2"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_11_San_Diego.zip|mb",
+"fmt": "f1",
+"text": "0.2"
+},
+{
+"page": "Resources",
+"key": "dist|12|n",
+"fmt": "i",
+"text": "1"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_District_12_Orange_County.zip|mb",
+"fmt": "f1",
+"text": "0.1"
+},
+{
+"page": "Resources",
+"key": "dist|1|n",
+"fmt": "i",
+"text": "4"
+},
+{
+"page": "Resources",
+"key": "dist|2|n",
+"fmt": "i",
+"text": "7"
+},
+{
+"page": "Resources",
+"key": "dist|3|n",
+"fmt": "i",
+"text": "11"
+},
+{
+"page": "Resources",
+"key": "dist|4|n",
+"fmt": "i",
+"text": "9"
+},
+{
+"page": "Resources",
+"key": "dist|5|n",
+"fmt": "i",
+"text": "5"
+},
+{
+"page": "Resources",
+"key": "dist|6|n",
+"fmt": "i",
+"text": "5"
+},
+{
+"page": "Resources",
+"key": "dist|7|n",
+"fmt": "i",
+"text": "2"
+},
+{
+"page": "Resources",
+"key": "dist|8|n",
+"fmt": "i",
+"text": "2"
+},
+{
+"page": "Resources",
+"key": "dist|9|n",
+"fmt": "i",
+"text": "2"
+},
+{
+"page": "Resources",
+"key": "dist|10|n",
+"fmt": "i",
+"text": "8"
+},
+{
+"page": "Resources",
+"key": "dist|11|n",
+"fmt": "i",
+"text": "2"
+},
+{
+"page": "Resources",
+"key": "dist|12|n",
+"fmt": "i",
+"text": "1"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Liberty Vote (Dominion)|n",
+"fmt": "i",
+"text": "39"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Liberty Vote (Dominion)|pct_n",
+"fmt": "p1",
+"text": "67.2%"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Liberty Vote (Dominion)|pop",
+"fmt": "i",
+"text": "23,436,303"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Liberty Vote (Dominion)|pct_pop",
+"fmt": "p1",
+"text": "59.6%"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "eq|pop_total",
+"fmt": "i",
+"text": "39,355,309"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Hart InterCivic|n",
+"fmt": "i",
+"text": "13"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Hart InterCivic|pct_n",
+"fmt": "p1",
+"text": "22.4%"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Hart InterCivic|pop",
+"fmt": "i",
+"text": "5,847,350"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Hart InterCivic|pct_pop",
+"fmt": "p1",
+"text": "14.9%"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "eq|pop_total",
+"fmt": "i",
+"text": "39,355,309"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|ES&S|n",
+"fmt": "i",
+"text": "5"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|ES&S|pct_n",
+"fmt": "p1",
+"text": "8.6%"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|ES&S|pop",
+"fmt": "i",
+"text": "376,722"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|ES&S|pct_pop",
+"fmt": "p1",
+"text": "1.0%"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "eq|pop_total",
+"fmt": "i",
+"text": "39,355,309"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Los Angeles County|n",
+"fmt": "i",
+"text": "1"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Los Angeles County|pct_n",
+"fmt": "p1",
+"text": "1.7%"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Los Angeles County|pop",
+"fmt": "i",
+"text": "9,694,934"
+},
+{
+"page": "Resources",
+"key": "eq|vendor|Los Angeles County|pct_pop",
+"fmt": "p1",
+"text": "24.6%"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "eq|pop_total",
+"fmt": "i",
+"text": "39,355,309"
+},
+{
+"page": "Resources",
+"key": "Fresno|pop2025",
+"fmt": "i",
+"text": "1,035,456"
+},
+{
+"page": "Resources",
+"key": "Fresno|regdem_2022",
+"fmt": "i",
+"text": "197,395"
+},
+{
+"page": "Resources",
+"key": "Fresno|regdem_2026",
+"fmt": "i",
+"text": "197,070"
+},
+{
+"page": "Resources",
+"key": "Fresno|dreg",
+"fmt": "s",
+"text": "−325"
+},
+{
+"page": "Resources",
+"key": "Fresno|dem_2022",
+"fmt": "i",
+"text": "98,417"
+},
+{
+"page": "Resources",
+"key": "Fresno|dem_2026",
+"fmt": "i",
+"text": "149,941"
+},
+{
+"page": "Resources",
+"key": "Fresno|ddem",
+"fmt": "s",
+"text": "+51,524"
+},
+{
+"page": "Resources",
+"key": "Fresno|ddem_pct",
+"fmt": "gp1",
+"text": "+52.4%"
+},
+{
+"page": "Resources",
+"key": "Fresno|gapreg",
+"fmt": "s",
+"text": "+51,686"
+},
+{
+"page": "Resources",
+"key": "Fresno|flip_share",
+"fmt": "p1",
+"text": "19.2%"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|pop2025",
+"fmt": "i",
+"text": "823,815"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|regdem_2022",
+"fmt": "i",
+"text": "170,362"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|regdem_2026",
+"fmt": "i",
+"text": "168,776"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|dreg",
+"fmt": "s",
+"text": "−1,586"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|dem_2022",
+"fmt": "i",
+"text": "85,498"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|dem_2026",
+"fmt": "i",
+"text": "128,306"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|ddem",
+"fmt": "s",
+"text": "+42,808"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|ddem_pct",
+"fmt": "gp1",
+"text": "+50.1%"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|gapreg",
+"fmt": "s",
+"text": "+43,604"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|flip_share",
+"fmt": "p1",
+"text": "19.9%"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|pop2025",
+"fmt": "i",
+"text": "557,719"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|regdem_2022",
+"fmt": "i",
+"text": "109,731"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|regdem_2026",
+"fmt": "i",
+"text": "108,828"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|dreg",
+"fmt": "s",
+"text": "−903"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|dem_2022",
+"fmt": "i",
+"text": "55,311"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|dem_2026",
+"fmt": "i",
+"text": "85,177"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|ddem",
+"fmt": "s",
+"text": "+29,866"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|ddem_pct",
+"fmt": "gp1",
+"text": "+54.0%"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|gapreg",
+"fmt": "s",
+"text": "+30,321"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|flip_share",
+"fmt": "p1",
+"text": "19.0%"
+},
+{
+"page": "Resources",
+"key": "Imperial|pop2025",
+"fmt": "i",
+"text": "181,411"
+},
+{
+"page": "Resources",
+"key": "Imperial|regdem_2022",
+"fmt": "i",
+"text": "41,600"
+},
+{
+"page": "Resources",
+"key": "Imperial|regdem_2026",
+"fmt": "i",
+"text": "40,738"
+},
+{
+"page": "Resources",
+"key": "Imperial|dreg",
+"fmt": "s",
+"text": "−862"
+},
+{
+"page": "Resources",
+"key": "Imperial|dem_2022",
+"fmt": "i",
+"text": "16,711"
+},
+{
+"page": "Resources",
+"key": "Imperial|dem_2026",
+"fmt": "i",
+"text": "27,175"
+},
+{
+"page": "Resources",
+"key": "Imperial|ddem",
+"fmt": "s",
+"text": "+10,464"
+},
+{
+"page": "Resources",
+"key": "Imperial|ddem_pct",
+"fmt": "gp1",
+"text": "+62.6%"
+},
+{
+"page": "Resources",
+"key": "Imperial|gapreg",
+"fmt": "s",
+"text": "+10,810"
+},
+{
+"page": "Resources",
+"key": "Imperial|flip_share",
+"fmt": "p1",
+"text": "26.0%"
+},
+{
+"page": "Resources",
+"key": "El Dorado|pop2025",
+"fmt": "i",
+"text": "192,323"
+},
+{
+"page": "Resources",
+"key": "El Dorado|regdem_2022",
+"fmt": "i",
+"text": "42,789"
+},
+{
+"page": "Resources",
+"key": "El Dorado|regdem_2026",
+"fmt": "i",
+"text": "40,769"
+},
+{
+"page": "Resources",
+"key": "El Dorado|dreg",
+"fmt": "s",
+"text": "−2,020"
+},
+{
+"page": "Resources",
+"key": "El Dorado|dem_2022",
+"fmt": "i",
+"text": "34,534"
+},
+{
+"page": "Resources",
+"key": "El Dorado|dem_2026",
+"fmt": "i",
+"text": "41,930"
+},
+{
+"page": "Resources",
+"key": "El Dorado|ddem",
+"fmt": "s",
+"text": "+7,396"
+},
+{
+"page": "Resources",
+"key": "El Dorado|ddem_pct",
+"fmt": "gp1",
+"text": "+21.4%"
+},
+{
+"page": "Resources",
+"key": "El Dorado|gapreg",
+"fmt": "s",
+"text": "+9,026"
+},
+{
+"page": "Resources",
+"key": "El Dorado|flip_share",
+"fmt": "p1",
+"text": "9.4%"
+},
+{
+"page": "Resources",
+"key": "Butte|pop2025",
+"fmt": "i",
+"text": "209,211"
+},
+{
+"page": "Resources",
+"key": "Butte|regdem_2022",
+"fmt": "i",
+"text": "43,407"
+},
+{
+"page": "Resources",
+"key": "Butte|regdem_2026",
+"fmt": "i",
+"text": "42,522"
+},
+{
+"page": "Resources",
+"key": "Butte|dreg",
+"fmt": "s",
+"text": "−885"
+},
+{
+"page": "Resources",
+"key": "Butte|dem_2022",
+"fmt": "i",
+"text": "31,502"
+},
+{
+"page": "Resources",
+"key": "Butte|dem_2026",
+"fmt": "i",
+"text": "39,195"
+},
+{
+"page": "Resources",
+"key": "Butte|ddem",
+"fmt": "s",
+"text": "+7,693"
+},
+{
+"page": "Resources",
+"key": "Butte|ddem_pct",
+"fmt": "gp1",
+"text": "+24.4%"
+},
+{
+"page": "Resources",
+"key": "Butte|gapreg",
+"fmt": "s",
+"text": "+8,335"
+},
+{
+"page": "Resources",
+"key": "Butte|flip_share",
+"fmt": "p1",
+"text": "10.7%"
+},
+{
+"page": "Resources",
+"key": "Kings|pop2025",
+"fmt": "i",
+"text": "154,327"
+},
+{
+"page": "Resources",
+"key": "Kings|regdem_2022",
+"fmt": "i",
+"text": "20,670"
+},
+{
+"page": "Resources",
+"key": "Kings|regdem_2026",
+"fmt": "i",
+"text": "19,100"
+},
+{
+"page": "Resources",
+"key": "Kings|dreg",
+"fmt": "s",
+"text": "−1,570"
+},
+{
+"page": "Resources",
+"key": "Kings|dem_2022",
+"fmt": "i",
+"text": "9,389"
+},
+{
+"page": "Resources",
+"key": "Kings|dem_2026",
+"fmt": "i",
+"text": "16,577"
+},
+{
+"page": "Resources",
+"key": "Kings|ddem",
+"fmt": "s",
+"text": "+7,188"
+},
+{
+"page": "Resources",
+"key": "Kings|ddem_pct",
+"fmt": "gp1",
+"text": "+76.6%"
+},
+{
+"page": "Resources",
+"key": "Kings|gapreg",
+"fmt": "s",
+"text": "+7,901"
+},
+{
+"page": "Resources",
+"key": "Kings|flip_share",
+"fmt": "p1",
+"text": "22.8%"
+},
+{
+"page": "Resources",
+"key": "Humboldt|pop2025",
+"fmt": "i",
+"text": "131,647"
+},
+{
+"page": "Resources",
+"key": "Humboldt|regdem_2022",
+"fmt": "i",
+"text": "39,399"
+},
+{
+"page": "Resources",
+"key": "Humboldt|regdem_2026",
+"fmt": "i",
+"text": "38,820"
+},
+{
+"page": "Resources",
+"key": "Humboldt|dreg",
+"fmt": "s",
+"text": "−579"
+},
+{
+"page": "Resources",
+"key": "Humboldt|dem_2022",
+"fmt": "i",
+"text": "29,541"
+},
+{
+"page": "Resources",
+"key": "Humboldt|dem_2026",
+"fmt": "i",
+"text": "35,405"
+},
+{
+"page": "Resources",
+"key": "Humboldt|ddem",
+"fmt": "s",
+"text": "+5,864"
+},
+{
+"page": "Resources",
+"key": "Humboldt|ddem_pct",
+"fmt": "gp1",
+"text": "+19.9%"
+},
+{
+"page": "Resources",
+"key": "Humboldt|gapreg",
+"fmt": "s",
+"text": "+6,298"
+},
+{
+"page": "Resources",
+"key": "Humboldt|flip_share",
+"fmt": "p1",
+"text": "12.0%"
+},
+{
+"page": "Resources",
+"key": "Sutter|pop2025",
+"fmt": "i",
+"text": "98,787"
+},
+{
+"page": "Resources",
+"key": "Sutter|regdem_2022",
+"fmt": "i",
+"text": "16,406"
+},
+{
+"page": "Resources",
+"key": "Sutter|regdem_2026",
+"fmt": "i",
+"text": "16,036"
+},
+{
+"page": "Resources",
+"key": "Sutter|dreg",
+"fmt": "s",
+"text": "−370"
+},
+{
+"page": "Resources",
+"key": "Sutter|dem_2022",
+"fmt": "i",
+"text": "9,082"
+},
+{
+"page": "Resources",
+"key": "Sutter|dem_2026",
+"fmt": "i",
+"text": "13,733"
+},
+{
+"page": "Resources",
+"key": "Sutter|ddem",
+"fmt": "s",
+"text": "+4,651"
+},
+{
+"page": "Resources",
+"key": "Sutter|ddem_pct",
+"fmt": "gp1",
+"text": "+51.2%"
+},
+{
+"page": "Resources",
+"key": "Sutter|gapreg",
+"fmt": "s",
+"text": "+4,856"
+},
+{
+"page": "Resources",
+"key": "Sutter|flip_share",
+"fmt": "p1",
+"text": "15.5%"
+},
+{
+"page": "Resources",
+"key": "Shasta|pop2025",
+"fmt": "i",
+"text": "181,648"
+},
+{
+"page": "Resources",
+"key": "Shasta|regdem_2022",
+"fmt": "i",
+"text": "25,338"
+},
+{
+"page": "Resources",
+"key": "Shasta|regdem_2026",
+"fmt": "i",
+"text": "24,474"
+},
+{
+"page": "Resources",
+"key": "Shasta|dreg",
+"fmt": "s",
+"text": "−864"
+},
+{
+"page": "Resources",
+"key": "Shasta|dem_2022",
+"fmt": "i",
+"text": "18,607"
+},
+{
+"page": "Resources",
+"key": "Shasta|dem_2026",
+"fmt": "i",
+"text": "22,403"
+},
+{
+"page": "Resources",
+"key": "Shasta|ddem",
+"fmt": "s",
+"text": "+3,796"
+},
+{
+"page": "Resources",
+"key": "Shasta|ddem_pct",
+"fmt": "gp1",
+"text": "+20.4%"
+},
+{
+"page": "Resources",
+"key": "Shasta|gapreg",
+"fmt": "s",
+"text": "+4,430"
+},
+{
+"page": "Resources",
+"key": "Shasta|flip_share",
+"fmt": "p1",
+"text": "6.6%"
+},
+{
+"page": "Resources",
+"key": "Fresno|regdem_2022",
+"fmt": "i",
+"text": "197,395"
+},
+{
+"page": "Resources",
+"key": "Fresno|regdem_2026",
+"fmt": "i",
+"text": "197,070"
+},
+{
+"page": "Resources",
+"key": "Fresno|dreg",
+"fmt": "s",
+"text": "−325"
+},
+{
+"page": "Resources",
+"key": "Fresno|dem_2022",
+"fmt": "i",
+"text": "98,417"
+},
+{
+"page": "Resources",
+"key": "Fresno|dem_2026",
+"fmt": "i",
+"text": "149,941"
+},
+{
+"page": "Resources",
+"key": "Fresno|ddem",
+"fmt": "s",
+"text": "+51,524"
+},
+{
+"page": "Resources",
+"key": "Fresno|gapreg",
+"fmt": "s",
+"text": "+51,686"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|regdem_2022",
+"fmt": "i",
+"text": "170,362"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|regdem_2026",
+"fmt": "i",
+"text": "168,776"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|dreg",
+"fmt": "s",
+"text": "−1,586"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|dem_2022",
+"fmt": "i",
+"text": "85,498"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|dem_2026",
+"fmt": "i",
+"text": "128,306"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|ddem",
+"fmt": "s",
+"text": "+42,808"
+},
+{
+"page": "Resources",
+"key": "San Joaquin|gapreg",
+"fmt": "s",
+"text": "+43,604"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|regdem_2022",
+"fmt": "i",
+"text": "109,731"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|regdem_2026",
+"fmt": "i",
+"text": "108,828"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|dreg",
+"fmt": "s",
+"text": "−903"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|dem_2022",
+"fmt": "i",
+"text": "55,311"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|dem_2026",
+"fmt": "i",
+"text": "85,177"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|ddem",
+"fmt": "s",
+"text": "+29,866"
+},
+{
+"page": "Resources",
+"key": "Stanislaus|gapreg",
+"fmt": "s",
+"text": "+30,321"
+},
+{
+"page": "Resources",
+"key": "Imperial|regdem_2022",
+"fmt": "i",
+"text": "41,600"
+},
+{
+"page": "Resources",
+"key": "Imperial|regdem_2026",
+"fmt": "i",
+"text": "40,738"
+},
+{
+"page": "Resources",
+"key": "Imperial|dreg",
+"fmt": "s",
+"text": "−862"
+},
+{
+"page": "Resources",
+"key": "Imperial|dem_2022",
+"fmt": "i",
+"text": "16,711"
+},
+{
+"page": "Resources",
+"key": "Imperial|dem_2026",
+"fmt": "i",
+"text": "27,175"
+},
+{
+"page": "Resources",
+"key": "Imperial|ddem",
+"fmt": "s",
+"text": "+10,464"
+},
+{
+"page": "Resources",
+"key": "Imperial|gapreg",
+"fmt": "s",
+"text": "+10,810"
+},
+{
+"page": "Resources",
+"key": "El Dorado|regdem_2022",
+"fmt": "i",
+"text": "42,789"
+},
+{
+"page": "Resources",
+"key": "El Dorado|regdem_2026",
+"fmt": "i",
+"text": "40,769"
+},
+{
+"page": "Resources",
+"key": "El Dorado|dreg",
+"fmt": "s",
+"text": "−2,020"
+},
+{
+"page": "Resources",
+"key": "El Dorado|dem_2022",
+"fmt": "i",
+"text": "34,534"
+},
+{
+"page": "Resources",
+"key": "El Dorado|dem_2026",
+"fmt": "i",
+"text": "41,930"
+},
+{
+"page": "Resources",
+"key": "El Dorado|ddem",
+"fmt": "s",
+"text": "+7,396"
+},
+{
+"page": "Resources",
+"key": "El Dorado|gapreg",
+"fmt": "s",
+"text": "+9,026"
+},
+{
+"page": "Resources",
+"key": "Butte|regdem_2022",
+"fmt": "i",
+"text": "43,407"
+},
+{
+"page": "Resources",
+"key": "Butte|regdem_2026",
+"fmt": "i",
+"text": "42,522"
+},
+{
+"page": "Resources",
+"key": "Butte|dreg",
+"fmt": "s",
+"text": "−885"
+},
+{
+"page": "Resources",
+"key": "Butte|dem_2022",
+"fmt": "i",
+"text": "31,502"
+},
+{
+"page": "Resources",
+"key": "Butte|dem_2026",
+"fmt": "i",
+"text": "39,195"
+},
+{
+"page": "Resources",
+"key": "Butte|ddem",
+"fmt": "s",
+"text": "+7,693"
+},
+{
+"page": "Resources",
+"key": "Butte|gapreg",
+"fmt": "s",
+"text": "+8,335"
+},
+{
+"page": "Resources",
+"key": "Kings|regdem_2022",
+"fmt": "i",
+"text": "20,670"
+},
+{
+"page": "Resources",
+"key": "Kings|regdem_2026",
+"fmt": "i",
+"text": "19,100"
+},
+{
+"page": "Resources",
+"key": "Kings|dreg",
+"fmt": "s",
+"text": "−1,570"
+},
+{
+"page": "Resources",
+"key": "Kings|dem_2022",
+"fmt": "i",
+"text": "9,389"
+},
+{
+"page": "Resources",
+"key": "Kings|dem_2026",
+"fmt": "i",
+"text": "16,577"
+},
+{
+"page": "Resources",
+"key": "Kings|ddem",
+"fmt": "s",
+"text": "+7,188"
+},
+{
+"page": "Resources",
+"key": "Kings|gapreg",
+"fmt": "s",
+"text": "+7,901"
+},
+{
+"page": "Resources",
+"key": "Humboldt|regdem_2022",
+"fmt": "i",
+"text": "39,399"
+},
+{
+"page": "Resources",
+"key": "Humboldt|regdem_2026",
+"fmt": "i",
+"text": "38,820"
+},
+{
+"page": "Resources",
+"key": "Humboldt|dreg",
+"fmt": "s",
+"text": "−579"
+},
+{
+"page": "Resources",
+"key": "Humboldt|dem_2022",
+"fmt": "i",
+"text": "29,541"
+},
+{
+"page": "Resources",
+"key": "Humboldt|dem_2026",
+"fmt": "i",
+"text": "35,405"
+},
+{
+"page": "Resources",
+"key": "Humboldt|ddem",
+"fmt": "s",
+"text": "+5,864"
+},
+{
+"page": "Resources",
+"key": "Humboldt|gapreg",
+"fmt": "s",
+"text": "+6,298"
+},
+{
+"page": "Resources",
+"key": "Sutter|regdem_2022",
+"fmt": "i",
+"text": "16,406"
+},
+{
+"page": "Resources",
+"key": "Sutter|regdem_2026",
+"fmt": "i",
+"text": "16,036"
+},
+{
+"page": "Resources",
+"key": "Sutter|dreg",
+"fmt": "s",
+"text": "−370"
+},
+{
+"page": "Resources",
+"key": "Sutter|dem_2022",
+"fmt": "i",
+"text": "9,082"
+},
+{
+"page": "Resources",
+"key": "Sutter|dem_2026",
+"fmt": "i",
+"text": "13,733"
+},
+{
+"page": "Resources",
+"key": "Sutter|ddem",
+"fmt": "s",
+"text": "+4,651"
+},
+{
+"page": "Resources",
+"key": "Sutter|gapreg",
+"fmt": "s",
+"text": "+4,856"
+},
+{
+"page": "Resources",
+"key": "Shasta|regdem_2022",
+"fmt": "i",
+"text": "25,338"
+},
+{
+"page": "Resources",
+"key": "Shasta|regdem_2026",
+"fmt": "i",
+"text": "24,474"
+},
+{
+"page": "Resources",
+"key": "Shasta|dreg",
+"fmt": "s",
+"text": "−864"
+},
+{
+"page": "Resources",
+"key": "Shasta|dem_2022",
+"fmt": "i",
+"text": "18,607"
+},
+{
+"page": "Resources",
+"key": "Shasta|dem_2026",
+"fmt": "i",
+"text": "22,403"
+},
+{
+"page": "Resources",
+"key": "Shasta|ddem",
+"fmt": "s",
+"text": "+3,796"
+},
+{
+"page": "Resources",
+"key": "Shasta|gapreg",
+"fmt": "s",
+"text": "+4,430"
+},
+{
+"page": "Resources",
+"key": "Colusa|dG",
+"fmt": "g2",
+"text": "+16.75"
+},
+{
+"page": "Resources",
+"key": "Merced|dG",
+"fmt": "g2",
+"text": "+16.69"
+},
+{
+"page": "Resources",
+"key": "Tulare|dG",
+"fmt": "g2",
+"text": "+15.44"
+},
+{
+"page": "Resources",
+"key": "Kings|dG",
+"fmt": "g2",
+"text": "+15.10"
+},
+{
+"page": "Resources",
+"key": "Kern|dG",
+"fmt": "g2",
+"text": "+15.07"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "zip|California_Election_Official_Letters_All_58_Counties.zip|mb",
+"fmt": "f1",
+"text": "5.1"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|districts",
+"fmt": "i",
+"text": "12"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|noemail",
+"fmt": "i",
+"text": "2"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "eq|n_unconfirmed",
+"fmt": "i",
+"text": "0"
+},
+{
+"page": "Resources",
+"key": "sos|vendor_match",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "eq|marking|Hand marked paper ballots and BMDs|n",
+"fmt": "i",
+"text": "55"
+},
+{
+"page": "Resources",
+"key": "eq|marking|Ballot Marking Devices for all voters|n",
+"fmt": "i",
+"text": "3"
+},
+{
+"page": "Resources",
+"key": "eq|vc|Vote Center|n",
+"fmt": "i",
+"text": "31"
+},
+{
+"page": "Resources",
+"key": "eq|vc|Assigned Polling Place|n",
+"fmt": "i",
+"text": "24"
+},
+{
+"page": "Resources",
+"key": "eq|vc|Election Office|n",
+"fmt": "i",
+"text": "3"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "eq|n_batch",
+"fmt": "i",
+"text": "37"
+},
+{
+"page": "Resources",
+"key": "sos|n_cto",
+"fmt": "i",
+"text": "37"
+},
+{
+"page": "Resources",
+"key": "eq|n_hybrid",
+"fmt": "i",
+"text": "10"
+},
+{
+"page": "Resources",
+"key": "eq|pb|Not applicable (Verified Voting)|n",
+"fmt": "i",
+"text": "17"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|S_rose",
+"fmt": "i",
+"text": "57"
+},
+{
+"page": "Resources",
+"key": "n|S_fell",
+"fmt": "i",
+"text": "1"
+},
+{
+"page": "Resources",
+"key": "n|flip_qual",
+"fmt": "i",
+"text": "25"
+},
+{
+"page": "Resources",
+"key": "n|flip_qual",
+"fmt": "i",
+"text": "25"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "n|counties",
+"fmt": "i",
+"text": "58"
+},
+{
+"page": "Resources",
+"key": "ff|2022|m",
+"fmt": "f2",
+"text": "36.93"
+},
+{
+"page": "Resources",
+"key": "ff|2022|b_abs",
+"fmt": "f2",
+"text": "6.35"
+},
+{
+"page": "Resources",
+"key": "ff|2022|r2",
+"fmt": "f3",
+"text": "0.554"
+},
+{
+"page": "Resources",
+"key": "ff|2026|m",
+"fmt": "f2",
+"text": "24.89"
+},
+{
+"page": "Resources",
+"key": "ff|2026|b",
+"fmt": "f2",
+"text": "7.61"
+},
+{
+"page": "Resources",
+"key": "ff|2026|r2",
+"fmt": "f3",
+"text": "0.604"
+},
+{
+"page": "Resources",
+"key": "n|loss",
+"fmt": "i",
+"text": "25"
+},
+{
+"page": "Resources",
+"key": "cmp|mismatches",
+"fmt": "i",
+"text": "0"
+}
+]
+}
